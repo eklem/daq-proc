@@ -1,6 +1,5 @@
 # nowsearch-docproc
-Simple document processor that makes any search engine a little better. Removes stopwords, extract keywords to filter on and prepares ngrams for auto-complete functionality.
-
+Simple document processor for [nowsearch.xyz](https://github.com/eklem/nowsearch.xyz) to make any search a little better. Removes stopwords (smaller index and less irrelevant hits), extract keywords to filter on and prepares ngrams for auto-complete functionality.
 
 ## Dependencies
 
