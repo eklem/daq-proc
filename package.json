@@ -1,0 +1,37 @@
+{
+  "name": "nowsearch-docproc",
+  "version": "0.0.1",
+  "description": "Simple document processor for [nowsearch.xyz](https://github.com/eklem/nowsearch.xyz) to makes search running in the browser and node.js a little better. Removes stopwords (smaller index and less irrelevant hits), extract keywords to filter on and prepares ngrams for auto-complete functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eklem/nowsearch-docproc.git"
+  },
+  "keywords": [
+    "search",
+    "document-processor",
+    "nlp"
+  ],
+  "dependencies": {
+    "words-n-numbers": "^1.0.0",
+    "stopword": "^0.3.3",
+    "eklem-headline-parser": "^2.0.2",
+    "ngraminator": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^13.0.2",
+    "webpack": "^4.36.1",
+    "webpack-cli": "^3.3.6",
+    "tape": "^4.11.0",
+    "tape-run": "^6.0.0"
+  },
+  "author": "Espen Klem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eklem/nowsearch-docproc/issues"
+  },
+  "homepage": "https://github.com/eklem/nowsearch-docproc#readme"
+}
