@@ -37,35 +37,35 @@ This library is not creating anything new, but just packaging 4 libraries that g
   const bodyString = 'Yay! The day is here =) We now have document and query processing for the browser. It is mostly packaging 4 modules together in a browser distribution file. The modules are words-n-numbers, stopword, ngraminator and eklem-headline-parser'
 
   // extracting word arrays
-  let headlineArray = dqp.wnn.extract(headlineString, undefined, {toLowercase: true})
-  let bodyArray = dqp.wnn.extract(bodyString, undefined, {toLowercase: true})
+  let headlineArray = wnn.extract(headlineString, undefined, {toLowercase: true})
+  let bodyArray = wnn.extract(bodyString, undefined, {toLowercase: true})
   console.log('Word arrays: ')
   console.dir(headlineArray)
   console.dir(bodyArray)
 
   // removing stopwords
-  let headlineStopped = dqp.sw.removeStopwords(headlineArray)
-  let bodyStopped = dqp.sw.removeStopwords(bodyArray)
+  let headlineStopped = sw.removeStopwords(headlineArray)
+  let bodyStopped = sw.removeStopwords(bodyArray)
   console.log('Stopword removed arrays: ')
   console.dir(headlineStopped)
   console.dir(bodyStopped)
 
   // n-grams
-  let headlineNgrams = dqp.ngraminator(headlineStopped, [2,3,4])
-  let bodyNgrams = dqp.ngraminator(bodyStopped, [2,3,4])
+  let headlineNgrams = ngraminator(headlineStopped, [2,3,4])
+  let bodyNgrams = ngraminator(bodyStopped, [2,3,4])
   console.log('Ngram arrays: ')
   console.dir(headlineNgrams)
   console.dir(bodyNgrams)
 
   // calculating important keywords
-  let keywords = dqp.ehp.findKeywords(headlineStopped, bodyStopped, 5)
+  let keywords = ehp.findKeywords(headlineStopped, bodyStopped, 5)
   console.log('Keyword array: ')
   console.dir(keywords)
 </script>
 ```
 
 ### Node.js
-It's fully possible to use on Node.js too. The tests are both Node.js and the browser. But it's only wrapping 4 libraries for the ease of use in the browser, so I'm not sure why you would do that. [Holler if you disagree =)](https://github.com/eklem/daq-proc/issues/new).
+It's fully possible to use on Node.js too. The tests are both for Node.js and the browser. But it's only wrapping 4 libraries for the ease of use in the browser, so I'm not sure why you would do that. [Holler if you disagree =)](https://github.com/eklem/daq-proc/issues/new).
 
 [license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
 [license-url]: LICENSE
