@@ -10,6 +10,8 @@ Simple document and query processor for [nowsearch.xyz](https://github.com/eklem
 
 Check out the [daq-proc interactive demo](https://eklem.github.io/daq-proc/demo/). Just add some words and figure it out.
 
+![Screenshot of the daq-proc broser demo](./demo/daq-proc-demo-screenshot.png)
+
 This library is not creating anything new, but just packaging 4 libraries that goes well togehter into one browser distribution file. Also showing how it may be usefull through tests and the interactive demo.
 
 ## Dependencies
