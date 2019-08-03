@@ -23,7 +23,7 @@ This library is not creating anything new, but just packaging 4 libraries that g
 
 ## Exapmle
 
-Only Node.js for now, will make a browser example later
+### Browser
 
 ```javascript
 <script src="daq-proc.js"></script>
@@ -55,6 +55,9 @@ Only Node.js for now, will make a browser example later
   console.dir(keywords)
 </script>
 ```
+
+### Node.js
+It's fully possible to use on Node.js too. The tests are both Node.js and the browser. But it's only wrapping 4 libraries for the ease of use in the browser, so I'm not sure why you would do that. [Holler if you disagree =)](https://github.com/eklem/daq-proc/issues/new).
 
 [license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
 [license-url]: LICENSE
