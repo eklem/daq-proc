@@ -1,5 +1,14 @@
-h1, h2, h3, h4, h5, h6 {
+body {
+  background:#dddddd;
+}
+
+h2, h3, h4, h5, h6 {
   margin-left:0px;
+}
+
+h1 {
+  margin:0;
+  padding:10px 10px 10px 0;
 }
 
 h2 {
@@ -10,6 +19,7 @@ h2 {
 
 #header {
   padding-left:10px;
+  background:#ffffff;
 }
 
 #addContainer {
@@ -17,16 +27,27 @@ h2 {
   padding:10px;
 }
 
-#wordsnNumbers, #stopwords, #ngraminator, #keywords {
-  padding: 10px;
-  background: #eeeeee;
+#results {
+  display: flex;
+  flex-flow: row wrap; 
+  background: #dddddd;
+  padding:0 10px 0 0;
 }
-#keywordsFound span {
-  font-size:1.2rem;
+
+#wordsnNumbers, #stopwords, #ngraminator, #keywords {
+  padding: 0 0 0 10px;
+  flex: 1 1 auto;
+}
+#wordsnNumbers > div, #stopwords > div, #ngraminator > div, #keywords > div {
+  margin:0 0 10px 0;
 }
 
 input, textarea {
   width:100%;
   font-size:1.2rem;
   margin-left:0;
+}
+
+pre {
+  margin:0;
 }
