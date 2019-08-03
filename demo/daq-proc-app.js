@@ -16,8 +16,8 @@ const daqProc = function () {
   // Extract array of words and populate
   let headlineString = document.getElementById("headlinetext").value
   let bodyString = document.getElementById("bodytext").value
-  let headlineArray = wnn.extract(headlineString, dqp.wnn.en, {toLowercase: true})
-  let bodyArray = wnn.extract(bodyString, dqp.wnn.en, {toLowercase: true})
+  let headlineArray = wnn.extract(headlineString, wnn.en, {toLowercase: true})
+  let bodyArray = wnn.extract(bodyString, wnn.en, {toLowercase: true})
   populate(JSON.stringify(headlineArray, 2, ' '), 'headlineArrDiv')
   populate(JSON.stringify(bodyArray, 2, ' '), 'bodyArrDiv')
 
