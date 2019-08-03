@@ -17,7 +17,7 @@ module.exports =  [
 
   // Generating a latest browser version of document and query processor (same as latest version number)
   {
-    mode: 'development',
+    mode: 'production',
     entry: './index.js',
     output: {
       path: path.resolve(__dirname, 'dist'),
