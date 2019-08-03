@@ -29,27 +29,35 @@ This library is not creating anything new, but just packaging 4 libraries that g
 <script src="daq-proc.js"></script>
 
 <script>
+  // exposing the underlying library in a transparent way
+  const {wnn, sw, ngraminator, ehp} = dqp
+
+  // input
   const headlineString = 'Document and query processing for the browser!'
   const bodyString = 'Yay! The day is here =) We now have document and query processing for the browser. It is mostly packaging 4 modules together in a browser distribution file. The modules are words-n-numbers, stopword, ngraminator and eklem-headline-parser'
 
+  // extracting word arrays
   let headlineArray = dqp.wnn.extract(headlineString, undefined, {toLowercase: true})
   let bodyArray = dqp.wnn.extract(bodyString, undefined, {toLowercase: true})
   console.log('Word arrays: ')
   console.dir(headlineArray)
   console.dir(bodyArray)
 
+  // removing stopwords
   let headlineStopped = dqp.sw.removeStopwords(headlineArray)
   let bodyStopped = dqp.sw.removeStopwords(bodyArray)
   console.log('Stopword removed arrays: ')
   console.dir(headlineStopped)
   console.dir(bodyStopped)
 
+  // n-grams
   let headlineNgrams = dqp.ngraminator(headlineStopped, [2,3,4])
   let bodyNgrams = dqp.ngraminator(bodyStopped, [2,3,4])
   console.log('Ngram arrays: ')
   console.dir(headlineNgrams)
   console.dir(bodyNgrams)
 
+  // calculating important keywords
   let keywords = dqp.ehp.findKeywords(headlineStopped, bodyStopped, 5)
   console.log('Keyword array: ')
   console.dir(keywords)
