@@ -1,4 +1,4 @@
-// exposing the underlying library in a transparent way
+// exposing the underlying libraries in a transparent way
 const {wnn, sw, ngraminator, ehp} = dqp
 
 // Listen to key up on headlinetext and initiate a daq-proc

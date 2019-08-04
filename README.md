@@ -29,7 +29,7 @@ This library is not creating anything new, but just packaging 4 libraries that g
 <script src="daq-proc.js"></script>
 
 <script>
-  // exposing the underlying library in a transparent way
+  // exposing the underlying libraries in a transparent way
   const {wnn, sw, ngraminator, ehp} = dqp
 
   // input
