@@ -37,8 +37,8 @@ This library is not creating anything new, but just packaging 4 libraries that g
   const bodyString = 'Yay! The day is here =) We now have document and query processing for the browser. It is mostly packaging 4 modules together in a browser distribution file. The modules are words-n-numbers, stopword, ngraminator and eklem-headline-parser'
 
   // extracting word arrays
-  let headlineArray = wnn.extract(headlineString, undefined, {toLowercase: true})
-  let bodyArray = wnn.extract(bodyString, undefined, {toLowercase: true})
+  let headlineArray = wnn.extract(headlineString, {toLowercase: true})
+  let bodyArray = wnn.extract(bodyString, {toLowercase: true})
   console.log('Word arrays: ')
   console.dir(headlineArray)
   console.dir(bodyArray)
