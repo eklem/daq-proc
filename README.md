@@ -21,7 +21,7 @@ This library is not creating anything new, but just packaging 4 libraries that g
 * [`eklem-headline-parser`](https://github.com/eklem/eklem-headline-parser) - Determines the most relevant keywords in a headline by considering article context
 * [`ngraminator`](https://github.com/fergiemcdowall/ngraminator) - Generate ngrams.
 
-## Exapmle
+## Example
 
 ### Browser
 
