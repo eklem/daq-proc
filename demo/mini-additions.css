@@ -42,10 +42,13 @@ h2 {
   margin:0 0 10px 0;
 }
 
-input, textarea {
-  width:100%;
+input, textarea, select {
   font-size:1.2rem;
   margin-left:0;
+}
+
+input, textarea {
+  width:100%;
 }
 
 pre {
