@@ -1,7 +1,6 @@
-exports.wnn = require('words-n-numbers')
-exports.sw  = require('stopword')
-exports.ngraminator = require('ngraminator')
+exports.cheerio = require('cheerio')
 exports.ehp = require('eklem-headline-parser')
-
-
-
+exports.highlight = require('hit-highlighter')
+exports.ngraminator = require('ngraminator')
+exports.sw = require('stopword')
+exports.wnn = require('words-n-numbers')

@@ -16,21 +16,24 @@ This library is not creating anything new, but just packaging 4 libraries that g
 
 ## Dependencies
 
-* [`words'n'numbers`](https://github.com/eklem/words-n-numbers) - Extract words and optionally numbers from a string of text into arrays. Arrays that can be fed to `stopword`, `eklem-headline-parser` and `ngraminator`.
-* [`stopword`](https://github.com/fergiemcdowall/stopword) - Removes stopwords from an array of words. To keep your index small and remove all words without a scent of information.
+* [`cheerio`](https://github.com/cheeriojs/cheerio) - Here specifically used to extract text from all- or parts of the HTML.
 * [`eklem-headline-parser`](https://github.com/eklem/eklem-headline-parser) - Determines the most relevant keywords in a headline by considering article context
-* [`ngraminator`](https://github.com/fergiemcdowall/ngraminator) - Generate ngrams.
+* [`hit-highlighter`](https://github.com/eklem/hit-highlighter) - Higlighting hits from a query in a result item.
+* [`ngraminator`](https://github.com/fergiemcdowall/ngraminator) - Generate n-grams.
+* [`stopword`](https://github.com/fergiemcdowall/stopword) - Removes stopwords from an array of words. To keep your index small and remove all words without a scent of information.
+* [`words'n'numbers`](https://github.com/eklem/words-n-numbers) - Extract words and optionally numbers from a string of text into arrays. Arrays that can be fed to `stopword`, `eklem-headline-parser` and `ngraminator`.
 
-## Example
 
-### Browser
+## Browser
+
+### Example - document processing side
 
 ```javascript
 <script src="daq-proc.js"></script>
 
 <script>
   // exposing the underlying libraries in a transparent way
-  const {wnn, sw, ngraminator, ehp} = dqp
+  const {cheerio, ehp, highlight, ngraminator, sw, wnn} = dqp
 
   // input
   const headlineString = 'Document and query processing for the browser!'
@@ -64,8 +67,13 @@ This library is not creating anything new, but just packaging 4 libraries that g
 </script>
 ```
 
-### Node.js
-It's fully possible to use on Node.js too. The tests are both for Node.js and the browser. But it's only wrapping 4 libraries for the ease of use in the browser, so I'm not sure why you would do that. [Holler if you disagree =)](https://github.com/eklem/daq-proc/issues/new).
+### Example - Query side
+
+... WIP
+
+
+## Node.js
+It's fully possible to use on Node.js too. The tests are both for Node.js and the browser. But it's only wrapping 6 libraries for the ease of use in the browser, so I'm not sure why you would do that. [Holler if you disagree =)](https://github.com/eklem/daq-proc/issues/new).
 
 [license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
 [license-url]: LICENSE
