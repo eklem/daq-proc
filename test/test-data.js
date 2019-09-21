@@ -1,603 +1,2010 @@
 module.exports = `
+
+
 <!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
-<head>
-<meta charset="UTF-8"/>
-<title>September 2019 climate strikes - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"September_2019_climate_strikes","wgTitle":"September 2019 climate strikes","wgCurRevisionId":916885245,"wgRevisionId":916885245,"wgArticleId":59419585,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","CS1 Spanish-language sources (es)","Articles with Ukrainian-language external links","Use dmy dates from September 2019","Current events from September 2019","Commons category link from Wikidata","2019 in the environment","2019 protests","Climate change and society","Direct action","Environmental protests","Global warming","September 2019 events","Student strikes"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy",
-"wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"September_2019_climate_strikes","wgRelevantArticleId":59419585,"wgRequestId":"XYWnqgpAMFsAAFiTk-UAAAAU","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q67205392",
-"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips",
-"ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
-});});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
-<meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
-<meta name="referrer" content="origin"/>
-<meta name="referrer" content="origin-when-crossorigin"/>
-<meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/9/9f/Logo_of_Climate_Strike.png"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/September_2019_climate_strikes"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit"/>
-<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
-<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
-<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/September_2019_climate_strikes"/>
-<link rel="dns-prefetch" href="//login.wikimedia.org"/>
-<link rel="dns-prefetch" href="//meta.wikimedia.org" />
-<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
-</head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-September_2019_climate_strikes rootpage-September_2019_climate_strikes skin-vector action-view">
-<div id="mw-page-base" class="noprint"></div>
-<div id="mw-head-base" class="noprint"></div>
-<div id="content" class="mw-body" role="main">
-<a id="top"></a>
-<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
-<div class="mw-indicators mw-body-content">
+<html lang="en" id="responsive-news">
+<head  prefix="og: http://ogp.me/ns#">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Saudi Arabia vows to respond to oil attacks with 'necessary measures' - BBC News</title>
+    <meta name="description" content="The kingdom says it will take &quot;necessary measures&quot; as it reiterates that Iran is to blame.">
+    <link rel="preload" as="style" href="https://static.bbc.co.uk/news/1.290.03379/stylesheets/services/news/compact.css" media="(max-width: 599px)">
+    <link rel="preload" as="style" href="https://static.bbc.co.uk/news/1.290.03379/stylesheets/services/news/tablet.css" media="(min-width: 600px) and (max-width: 1007px)">
+    <link rel="preload" as="style" href="https://static.bbc.co.uk/news/1.290.03379/stylesheets/services/news/wide.css" media="(min-width: 1008px)">
+
+            <script> window.orb_fig_blocking = true; </script>
+    
+            <link rel="preload" as="script" href="//fig.bbc.co.uk/frameworks/fig/2/fig.js?callback=orb.orb_fig">
+    
+    <link href="//static.bbci.co.uk" rel="preconnect" crossorigin>
+    <link href="//static.bbc.co.uk" rel="preconnect" crossorigin>
+    <link href="//nav.files.bbci.co.uk" rel="preconnect" crossorigin>
+    <link href="//ichef.bbci.co.uk" rel="preconnect" crossorigin>
+
+    <link rel="dns-prefetch" href="//ssl.bbc.co.uk/">
+    <link rel="dns-prefetch" href="//sa.bbc.co.uk/">
+    <link rel="dns-prefetch" href="//ichef.bbci.co.uk/">
+
+    <link rel="dns-prefetch" href="//c.go-mpulse.net/">
+
+    <link rel="dns-prefetch" href="//edigitalsurvey.com">
+
+    <meta name="x-country" content="no">
+    <meta name="x-audience" content="International">
+    <meta name="CPS_AUDIENCE" content="International">
+    <meta name="CPS_CHANGEQUEUEID" content="146369967">
+    <link rel="canonical" href="https://www.bbc.com/news/world-middle-east-49782693">
+    <link rel="amphtml" href="https://www.bbc.com/news/amp/world-middle-east-49782693">
+
+                        <link rel="alternate" hreflang="en-gb" href="https://www.bbc.co.uk/news/world-middle-east-49782693">
+                                <link rel="alternate" hreflang="en" href="https://www.bbc.com/news/world-middle-east-49782693">
+                            <meta property="og:title" content="Saudis vow to respond to attack on oil sites" />
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="The kingdom says it will take &quot;necessary measures&quot; as it reiterates that Iran is to blame." />
+    <meta property="og:site_name" content="BBC News" />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="article:author" content="https://www.facebook.com/bbcnews" />
+    <meta property="article:section" content="Middle East" />
+    <meta property="og:url" content="https://www.bbc.com/news/world-middle-east-49782693" />
+    <meta property="og:image" content="https://ichef.bbci.co.uk/images/ic/1024x576/p07nzpjf.jpg" />
+    <meta property="og:image:alt" content="BBC News. Sauid Minister of State for Foreign Affairs Adel al-Jubeir giving a press conference about the oil attacks on 21 September 2019" />
+    <meta property="fb:pages" content="1143803202301544,317278538359186,1392506827668140,742734325867560,185246968166196,156060587793370,137920769558355,193435954068976,21263239760,156400551056385,929399697073756,154344434967,228735667216,80758950658,260212261199,294662213128,1086451581439054,283348121682053,295830058648,239931389545417,304314573046,310719525611571,647687225371774,1159932557403143,286567251709437,1731770190373618,125309456546,163571453661989,285361880228,512423982152360,238003846549831,176663550714,260967092113,118450564909230,100978706649892,15286229625,122103087870579,120655094632228,102814153147070,124715648647,153132638110668,150467675018739" />
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@BBCWorld">
+    <meta name="twitter:title" content="Saudis vow to respond to attack on oil sites">
+    <meta name="twitter:description" content="The kingdom says it will take &quot;necessary measures&quot; as it reiterates that Iran is to blame.">
+    <meta name="twitter:creator" content="@BBCWorld">
+    <meta name="twitter:image:src" content="https://ichef.bbci.co.uk/images/ic/1024x576/p07nzpjf.jpg">
+    <meta name="twitter:image:alt" content="Sauid Minister of State for Foreign Affairs Adel al-Jubeir giving a press conference about the oil attacks on 21 September 2019" />
+    <meta name="twitter:domain" content="www.bbc.com">
+
+    <script type="application/ld+json">
+    {"@context":"http://schema.org","@type":"ReportageNewsArticle","url":"https://www.bbc.com/news/world-middle-east-49782693","publisher":{"@type":"NewsMediaOrganization","name":"BBC News","publishingPrinciples":"http://www.bbc.co.uk/news/help-41670342","logo":{"@type":"ImageObject","url":"https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1"}},"datePublished":"2019-09-21T17:46:09+01:00","dateModified":"2019-09-21T17:46:09+01:00","headline":"Saudis vow to respond to attack on oil sites","image":{"@type":"ImageObject","width":720,"height":405,"url":"https://ichef.bbci.co.uk/images/ic/720x405/p07nzpjf.jpg"},"thumbnailUrl":"https://ichef.bbci.co.uk/images/ic/208x117/p07nzpjf.jpg","author":{"@type":"NewsMediaOrganization","name":"BBC News","logo":{"@type":"ImageObject","url":"https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1"},"noBylinesPolicy":"http://www.bbc.co.uk/news/help-41670342#authorexpertise"},"mainEntityOfPage":"https://www.bbc.com/news/world-middle-east-49782693","video":{"@list":[{"@type":"VideoObject","name":"Saudi Arabia oil attacks: A look at the damage","description":"Air strikes hit the Abqaiq oil facility and the Khurais oil field in Saudi Arabia a week ago, affecting the global oil supply.nnThe BBC's Frank Gardner had a look inside the damaged facilities in an area normally closed off from journalists.","duration":"PT2M2S","thumbnailUrl":"https://ichef.bbci.co.uk/images/ic/208x117/p07nzpjf.jpg","uploadDate":"2019-09-21T15:05:39+01:00"},{"@type":"VideoObject","name":"Saudis say weapons prove Iran behind oil attacks","description":"Saudi Arabia's defence ministry has shown off what it says is wreckage of drones and cruise missiles that prove Iranian involvement in weekend attacks on two oil facilities.nnIt said 18 drones and seven cruise missiles were fired from a direction that ruled out Yemen as a source.nnYemen's Iran-backed Houthi rebels had said they were behind the attacks.nnIran has denied any involvement and warned it would retaliate against any attack that targeted it.","duration":"PT1M9S","thumbnailUrl":"https://ichef.bbci.co.uk/images/ic/208x117/p07npjz0.jpg","uploadDate":"2019-09-18T20:08:37+01:00"}]}}
+    </script>
+
+
+                    <meta name="apple-itunes-app" content="app-id=364147881, app-argument=https://www.bbc.com/news/world-middle-east-49782693?utm_medium=banner&utm_content=apple-itunes-app">
+    
+    <meta name="apple-mobile-web-app-title" content="BBC News">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57"    href="https://static.bbc.co.uk/news/1.290.03379/apple-touch-icon-57x57-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72"    href="https://static.bbc.co.uk/news/1.290.03379/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114"  href="https://static.bbc.co.uk/news/1.290.03379/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144"  href="https://static.bbc.co.uk/news/1.290.03379/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="https://static.bbc.co.uk/news/1.290.03379/apple-touch-icon.png">
+<link rel="apple-touch-startup-image" href="https://static.bbc.co.uk/news/1.290.03379/web-app-launch-icon.png">
+
+<meta name="application-name" content="BBC News">
+<meta name="msapplication-TileImage" content="BBC News">
+<meta name="msapplication-TileColor" content="#bb1919">
+<meta name="mobile-web-app-capable" content="yes">
+    <meta http-equiv="cleartype" content="on">
+    <meta name="robots" content="NOODP,NOYDIR" />
+    <meta name="theme-color" content="#bb1919">
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+    <script>
+        (function() {
+            if (navigator.userAgent.match(/IEMobile/10.0/)) {
+                var msViewportStyle = document.createElement("style");
+                msViewportStyle.appendChild(
+                    document.createTextNode("@-ms-viewport{width:auto!important}")
+                );
+                document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+            }
+        })();
+    </script>
+    
+    <script>window.fig = window.fig || {}; window.fig.async = true;</script>
+
+    <meta property="fb:app_id" content="1609039196070050" />
+
+    <script type="text/javascript">window.bbcredirection={geo:true}</script><!-- Nav Env: live -->
+<!-- Analytics Web Module: 0.0.1-332.8fd22d2 -->
+<!-- NavID Web Module: 0.2.0-75.de8f099 -->
+<!-- Detectview Web Module: 0.0.1-332.8fd22d2 -->
+<!-- Searchbox Web Module: 3.0.0-4.9a69f1b -->
+<!-- Promo Web Module: 3.0.0-13.dc6b5c1 -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><meta property="fb:admins" content="100004154058350"><link rel="stylesheet" href="https://nav.files.bbci.co.uk/orbit/3.0.0-672.79448400/css/orb-ltr.min.css"><!--[if (lt IE 9) & (!IEMobile)]>
+    <link rel="stylesheet" href="https://nav.files.bbci.co.uk/orbit/3.0.0-672.79448400/css/orb-ie-ltr.min.css">
+    <![endif]--><script type="text/javascript">/*<![CDATA[*/
+        window.orb = {
+            lang: 'en',
+            bbcBaseUrl: 'https://www.bbc.co.uk',
+            bbcUrlPrefix: 'https://www.',
+            staticHost: 'https://nav.files.bbci.co.uk/orbit/3.0.0-672.79448400',
+            figUrl: 'https://fig.bbc.co.uk/frameworks/fig/2/fig.js',
+            partialCookieOvenUrl: 'https://cookie-oven.api.bbc'
+        };
+
+        document.documentElement.className += (document.documentElement.className? ' ' : '') + 'orb-js';
+        window.orb.worldwideNavlinks = '<li class="orb-nav-homedotcom"><a href="https://www.bbc.com/">Home</a></li><li class="orb-nav-newsdotcom"><a href="https://www.bbc.com/news">News</a></li><li class="orb-nav-sport"><a href="https://www.bbc.com/sport">Sport</a></li><li class="orb-nav-reeldotcom"><a href="https://www.bbc.com/reel">Reel</a></li><li class="orb-nav-worklife"><a href="https://www.bbc.com/worklife">Worklife</a></li><li class="orb-nav-traveldotcom"><a href="https://www.bbc.com/travel">Travel</a></li><li class="orb-nav-future"><a href="https://www.bbc.com/future">Future</a></li><li class="orb-nav-culture"><a href="https://www.bbc.com/culture">Culture</a></li><li class="orb-nav-music"><a href="https://www.bbc.com/culture/music">Music</a></li><li class="orb-nav-tv"><a href="https://www.bbc.co.uk/schedules/p00fzl9m">TV</a></li><li class="orb-nav-weather"><a href="https://www.bbc.com/weather">Weather</a></li><li class="orb-nav-sounds"><a href="https://www.bbc.co.uk/sounds">Sounds</a></li>';
+
+
+     /*]]>*/</script><script>// Promise polyfill from https://github.com/bramstein/promis
+        (function(){'use strict';var f,g=[];function l(a){g.push(a);1==g.length&&f()}function m(){for(;g.length;)g[0](),g.shift()}f=function(){setTimeout(m)};function n(a){this.a=p;this.b=void 0;this.f=[];var b=this;try{a(function(a){q(b,a)},function(a){r(b,a)})}catch(c){r(b,c)}}var p=2;function t(a){return new n(function(b,c){c(a)})}function u(a){return new n(function(b){b(a)})}function q(a,b){if(a.a==p){if(b==a)throw new TypeError;var c=!1;try{var d=b&&b.then;if(null!=b&&"object"==typeof b&&"function"==typeof d){d.call(b,function(b){c||q(a,b);c=!0},function(b){c||r(a,b);c=!0});return}}catch(e){c||r(a,e);return}a.a=0;a.b=b;v(a)}} function r(a,b){if(a.a==p){if(b==a)throw new TypeError;a.a=1;a.b=b;v(a)}}function v(a){l(function(){if(a.a!=p)for(;a.f.length;){var b=a.f.shift(),c=b[0],d=b[1],e=b[2],b=b[3];try{0==a.a?"function"==typeof c?e(c.call(void 0,a.b)):e(a.b):1==a.a&&("function"==typeof d?e(d.call(void 0,a.b)):b(a.b))}catch(h){b(h)}}})}n.prototype.g=function(a){return this.c(void 0,a)};n.prototype.c=function(a,b){var c=this;return new n(function(d,e){c.f.push([a,b,d,e]);v(c)})}; function w(a){return new n(function(b,c){function d(c){return function(d){h[c]=d;e+=1;e==a.length&&b(h)}}var e=0,h=[];0==a.length&&b(h);for(var k=0;k<a.length;k+=1)u(a[k]).c(d(k),c)})}function x(a){return new n(function(b,c){for(var d=0;d<a.length;d+=1)u(a[d]).c(b,c)})};window.Promise||(window.Promise=n,window.Promise.resolve=u,window.Promise.reject=t,window.Promise.race=x,window.Promise.all=w,window.Promise.prototype.then=n.prototype.c,window.Promise.prototype["catch"]=n.prototype.g);}());
+    
+    
+        // Polyfill Event constructor for IE ref: https://jira.dev.bbc.co.uk/browse/ORBITEN-919
+        // see: https://stackoverflow.com/questions/26596123
+        (function () {
+          if (typeof window.CustomEvent === "function") {
+            return false;
+          }
+          function CustomEvent(event, params) {
+            params = params || { bubbles: false, cancelable: false, detail: undefined };
+            var evt = document.createEvent('CustomEvent');
+            evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail);
+            return evt;
+          }
+          CustomEvent.prototype = window.Event.prototype;
+          window.Event = CustomEvent;
+        })();
+    
+    
+        //Element.prototype.matches polyfill
+        //from https://developer.mozilla.org/en-US/docs/Web/API/Element/matches#Polyfill
+        if (!Element.prototype.matches) {
+          Element.prototype.matches = Element.prototype.msMatchesSelector ||
+                                      Element.prototype.webkitMatchesSelector;
+        }
+        //NodeList.forEach Polyfill
+        //from https://developer.mozilla.org/en-US/docs/Web/API/NodeList/forEach#Polyfill
+        if (window.NodeList && !NodeList.prototype.forEach) {
+          NodeList.prototype.forEach = Array.prototype.forEach;
+        }
+    
+        // Object.assign polyfill from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign#Polyfill
+        if (typeof Object.assign != 'function') {
+          // Must be writable: true, enumerable: false, configurable: true
+          Object.defineProperty(Object, "assign", {
+            value: function assign(target, varArgs) { // .length of function is 2
+              'use strict';
+              if (target == null) { // TypeError if undefined or null
+                throw new TypeError('Cannot convert undefined or null to object');
+              }
+    
+              var to = Object(target);
+    
+              for (var index = 1; index < arguments.length; index++) {
+                var nextSource = arguments[index];
+    
+                if (nextSource != null) { // Skip over if undefined or null
+                  for (var nextKey in nextSource) {
+                    // Avoid bugs when hasOwnProperty is shadowed
+                    if (Object.prototype.hasOwnProperty.call(nextSource, nextKey)) {
+                      to[nextKey] = nextSource[nextKey];
+                    }
+                  }
+                }
+              }
+              return to;
+            },
+            writable: true,
+            configurable: true
+          });
+        }
+    
+        if (typeof window.CustomEvent !== 'function') {
+    
+          function CustomEvent(event, params) {
+            params = params || { bubbles: false, cancelable: false, detail: null };
+            var evt = document.createEvent('CustomEvent');
+            evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail);
+            return evt;
+          }
+    
+          CustomEvent.prototype = window.Event.prototype;
+    
+          window.CustomEvent = CustomEvent;
+    
+        }
+    
+        (function() {
+    
+            var language = 'en';
+                language = 'en';
+    
+            var modal = false;
+    
+    
+            var istatsLabels = {name: 'news.world.middle_east.story.49782693.page' || undefined};
+            istatsLabels['pal_route'] = 'asset';
+            istatsLabels['language'] = 'en-GB';
+            istatsLabels['pal_webapp'] = 'tabloid';
+            istatsLabels['prod_name'] = 'news';
+            istatsLabels['app_name'] = 'news';
+            istatsLabels['cps_asset_id'] = '49782693';
+            istatsLabels['page_type'] = 'Story';
+            istatsLabels['section'] = '%2Fnews%2Fworld%2Fmiddle_east';
+            istatsLabels['first_pub'] = '2019-09-21T14%3A01%3A28%2B00%3A00';
+            istatsLabels['last_editorial_update'] = '2019-09-21T16%3A46%3A09%2B00%3A00';
+            istatsLabels['curie'] = '969e896b-6abf-1c4b-8a20-22502575f343';
+            istatsLabels['title'] = 'Saudi+Arabia+vows+to+respond+to+oil+attacks+with+%27necessary+measures%27';
+            istatsLabels['has_video'] = '1';
+            istatsLabels['topic_names'] = 'Iran%21United+States%21Gulf+crisis%21Iran-US+relations%21Saudi+Arabia';
+            istatsLabels['topic_ids'] = 'cjnwl8q4ggwt%21cx1m7zg01xyt%21cjgn73rz67dt%21cv3nj70d4mqt%21cwlw3xz0zl4t';
+            istatsLabels['for_nation'] = 'no';
+            istatsLabels['app_version'] = '1.290.0';
+            istatsLabels['app_type'] = 'responsive';
+            istatsLabels['bbc_site'] = 'news';
+    
+            function getMetaValue(propertyName) {
+              var metaTag = document.querySelector(
+                "meta[property='" + propertyName + "'], " +
+                "meta[name='" + propertyName + "']");
+              if (metaTag) {
+                return metaTag.getAttribute("content");
+              } else {
+                throw new Error('No meta tag called: ' + propertyName)
+              }
+            }
+    
+            function generateCountername() {
+                var pathName = window.location.pathname
+                    .replace(//$/, "")
+                    .replace(/^//, "")
+                    .replace(///g, '.');
+                return pathName + '.page';
+            }
+    
+            var additionalPageProperties = {};
+                additionalPageProperties['content_language'] = 'en-gb';
+                additionalPageProperties['custom_var_1'] = '2019-09-21T15:31:41+00:00';
+                additionalPageProperties['custom_var_2'] = '2019-09-21T16:46:09+00:00';
+                additionalPageProperties['custom_var_7'] = 'News';
+                additionalPageProperties['app_name'] = 'news';
+    
+            var page = {
+                name: 'news.world.middle_east.story.49782693.page' || istatsLabels.name || generateCountername(),
+                destination: 'NEWS_GNL' || null,
+                producer: 'NEWS' || null,
+                section: 'world::middle_east' || null,
+                site: '' || istatsLabels.bbc_site || istatsLabels.app_name || istatsLabels.prod_name || null,
+                contentId: 'urn:bbc:cps:969e896b-6abf-1c4b-8a20-22502575f343' || null,
+                contentType: 'article' || null,
+                edition: '' || null,
+                additionalProperties: additionalPageProperties
+            };
+    
+            function updatePageData(newData) {
+                page = Object.assign(page, newData);
+            }
+    
+            document.addEventListener('bbc-page-reset', function(event) {
+                if (event.detail && event.detail.page) {
+                    updatePageData(event.detail.page);
+                }
+                document.dispatchEvent(new Event('bbc-page-updated'));
+            });
+    
+            window.bbcpage = {
+                loadModule: function(deps) {
+                    return new Promise(function (resolve, reject) {
+                        window.require(deps, function () {
+                            resolve.apply(this, arguments);
+                        },
+                        function (error) {
+                            reject(error);
+                        });
+                    })
+                },
+                loadCSS: function (url, timeout) {
+                    return window.bbcpage.loadModule(['orb/lib/_$'])
+                        .then(function($) {
+                            return new Promise(function(resolve, reject) {
+                                var stylesheet = loadCSS(url);
+                                $.onloadCSS(stylesheet, function() {
+                                    resolve();
+                                });
+                                if (timeout) {
+                                    setTimeout(function () { reject(); }, timeout);
+                                }
+                            });
+                    });
+                },
+                isModal: function () {
+                    return modal;
+                },
+                getLanguage: function () {
+                    return new Promise(function(resolve, reject) {
+                        resolve(language);
+                    });
+                },
+                trackRegion: function (region, labels) {
+                    return window.bbcpage.loadModule(['istats-1'])
+                        .then(function(istats) {
+    
+                            var trackLabels = {
+                                region: region
+                            };
+    
+                            for (var label in labels) {
+                                trackLabels[label] = labels[label];
+                            }
+    
+                            var linkType = labels.linkType || 'internal';
+    
+                            istats.track(linkType, trackLabels);
+                        });
+                },
+                getName: function() {
+                    return Promise.resolve(page.name);
+                },
+                getDestination: function() {
+                    return Promise.resolve(page.destination);
+                },
+                getProducer: function() {
+                    return Promise.resolve(page.producer);
+                },
+                getSite: function() {
+                    return Promise.resolve(page.site);
+                },
+                getSection: function() {
+                    return Promise.resolve(page.section);
+                },
+                getContentType: function() {
+                    return Promise.resolve(page.contentType);
+                },
+                getContentId: function() {
+                    return Promise.resolve(page.contentId);
+                },
+                getEdition: function() {
+                  return new Promise(function (resolve, reject) {
+                    if (page.edition) {
+                      resolve(page.edition);
+                      return;
+                    }
+                    try {
+                      resolve(getMetaValue('x-audience').toLowerCase());
+                    } catch (err){
+                      // This property is related to Chartbeat; see http://support.chartbeat.com/docs/
+                      if (window._sf_async_config) {
+                        resolve(window._sf_async_config.region || null);
+                      }
+                    }
+                    resolve(null);
+                  });
+                },
+                getReferrer: function() {
+                  return Promise.resolve(window.orb && window.orb.referrer ? window.orb.referrer : document.referrer);
+                },
+                getAdditionalProperties: function() {
+                  return Promise.resolve(page.additionalProperties);
+                }
+            };
+    
+            var country;
+    
+            var sanitiseCountry = function(country) {
+                return country ? country.replace(/ /g, '') : undefined;
+            }
+    
+            window.bbcuser = {
+                getHashedId: function() {
+                    if (modal) {
+                        return undefined;
+                    }
+                    return window.bbcpage.loadModule(['idcta-v2/idcta-1'])
+                        .then(function(idcta) {
+                            return idcta.getCookieInstance().getHidFromCookie();
+                    });
+                },
+                getCountry: function() {
+                    if (country) {
+                        return new Promise(function(resolve, reject) {
+                            resolve(sanitiseCountry(country));
+                        })
+                    }
+                    else {
+                        return window.bbcpage.loadModule(['orb/fig'])
+                            .then(function(orbFig) {
+                                return new Promise(function(resolve, reject) {
+                                    orbFig.load(function (fig) {
+                                        if (fig.geo.isUK()) {
+                                            resolve('GB');
+                                        } else if (fig.geo.isEU()) {
+                                            resolve('EU');
+                                        } else {
+                                            resolve(undefined);
+                                        }
+                                    }, function () {
+                                        reject('Error determining country. Timeout?');
+                                    });
+                                });
+                            });
+    
+                    }
+                },
+                isUKCombined: function(inputCountry) {
+                    return window.bbcpage.loadModule(['orb/bbcuser'])
+                        .then(function(service) {
+                            return new Promise(function(resolve, reject) {
+                                if (inputCountry) {
+                                    resolve(service.isUKCombined(sanitiseCountry(inputCountry)));
+                                }
+                                else {
+                                    window.bbcuser.getCountry().then(function(fetchedCountry){
+                                        resolve(service.isUKCombined(fetchedCountry));
+                                    })
+                                }
+                            });
+                        });
+                },
+                isSignedIn: function() {
+                    return window.bbcpage.loadModule(['idcta-v2/idcta-1'])
+                        .then(function(idcta) {
+                            return (idcta && idcta.getCookieInstance().hasCookie());
+                        });
+                },
+                allowsPerformanceCookies: function() {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function(bbccookies) {
+                                return !!bbccookies.cookiesEnabled() && !!bbccookies.readPolicy('performance');
+                            });
+                },
+                allowsFunctionalCookies: function() {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function(bbccookies) {
+                                return !!bbccookies.cookiesEnabled() && !!bbccookies.readPolicy('personalisation');
+                            });
+                },
+                getCookieValue: function(cookieName) {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function(bbccookies) {
+                                return bbccookies.get(cookieName);
+                            });
+                },
+                resetCookiesPreferences: function() {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function(bbccookies) {
+                                bbccookies.setDefaultCookiesSingleDomain();
+                            });
+                },
+                hasCookiesEnabled: function() {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function(bbccookies) {
+                                return !!bbccookies.cookiesEnabled();
+                            });
+                },
+                hasSeenCookieBanner: function() {
+                    return window.bbcpage.loadModule(['orb/cookies'])
+                            .then(function (bbccookies) {
+                                return !!bbccookies.isCookiePolicySet();
+                            });
+                },
+                logEvent: function (verb, noun, extraLabels) {
+                    return window.bbcuser.hasCookiesEnabled()
+                        .then(function(allowsCookies) {
+                            if (allowsCookies) {
+                                return window.bbcpage.loadModule(['istats-1'])
+                                    .then(function(istats) {
+                                        istats.log(verb, noun, extraLabels);
+                                    });
+                            } else {
+                                throw new Error('User cannot be tracked due to cookies preferences.');
+                            }
+                        });
+                },
+            };
+    
+        }());</script><script src="https://nav.files.bbci.co.uk/orbit/3.0.0-672.79448400/js/require.min.js"></script>     <script src="https://nav.files.bbci.co.uk/orbit-webmodules/0.0.1-332.8fd22d2/cookie-banner/cookie-library.min.js"></script><script type="text/javascript">if (window.define !==  undefined) {
+        define('orb/cookies', function() {
+          return window.bbccookies;
+        });
+      }</script> <script src="https://nav.files.bbci.co.uk/orbit/3.0.0-672.79448400/js/api.min.js"></script><script type="text/javascript">window.bbcFlagpoles_istats="ON",require.config({paths:{"istats-1":"https://nav.files.bbci.co.uk/orbit-webmodules/0.0.1-332.8fd22d2/istats/istats-1"}}),require(["istats-1","orb/cookies"],function(t,a){if(a.isAllowed("s1")){var e=(o=document.location.href.match(/^(?:https|http)://w*.(?:(int|test|stage|live|).)?bbc.(?:co.uk|com)/))?void 0===o[1]||""===o[1]||"live"===o[1]?"//sa.bbc.co.uk/bbc/bbc/s":"//sa.bbc.co.uk/bbc/"+o[1]+"/s":"//sa.bbc.co.uk/bbc/test/s";t.addCollector({name:"default",url:e,separator:"&"});var s="news.world.middle_east.story.49782693.page";t.setCountername(s),window.istats_countername&&t.setCountername(window.istats_countername),t.addLabels("ml_name=webmodule&ml_version=0.0.1-332.8fd22d2&blq_e=orbit&blq_r=orbit&blq_s=orbit&blq_v=default&language=en&pal_route=asset&language=en-GB&pal_webapp=tabloid&prod_name=news&app_name=news&cps_asset_id=49782693&page_type=Story&section=%2Fnews%2Fworld%2Fmiddle_east&first_pub=2019-09-21T14%3A01%3A28%2B00%3A00&last_editorial_update=2019-09-21T16%3A46%3A09%2B00%3A00&curie=969e896b-6abf-1c4b-8a20-22502575f343&title=Saudi+Arabia+vows+to+respond+to+oil+attacks+with+%27necessary+measures%27&has_video=1&topic_names=Iran%21United+States%21Gulf+crisis%21Iran-US+relations%21Saudi+Arabia&topic_ids=cjnwl8q4ggwt%21cx1m7zg01xyt%21cjgn73rz67dt%21cv3nj70d4mqt%21cwlw3xz0zl4t&for_nation=no&app_version=1.290.0&app_type=responsive&bbc_site=news")}var o});</script><link rel="stylesheet" href="https://mybbc.files.bbci.co.uk/s/id/account-idcta/1.19.0/style/id-cta.css"><!--[if IE 8]><link href="https://mybbc.files.bbci.co.uk/s/id/account-idcta/1.19.0/style/ie8.css" rel="stylesheet"/> <![endif]--><script type="text/javascript">(function() {if (!window.require) {throw new Error('idcta: could not find require module');}if (typeof(map) == 'undefined') {var map = {};}if (!!document.createElementNS && !!document.createElementNS('http://www.w3.org/2000/svg', 'svg').createSVGRect) {document.documentElement.className += ' id-svg';}var ptrt = new RegExp("[?&]ptrt=([^&]*)").exec(document.location.href);var ENDPOINT_URL = 'https://idcta.api.bbc.co.uk';var ENDPOINT_CONFIG = ('/idcta/config?callback=&ptrt=' + encodeURIComponent((ptrt ? ptrt[1] : document.location.href))).replace(/&amp;/g, '&');var ENDPOINT_TRANSLATIONS = '/idcta/translations?callback=';function hasPromise() {var P = window.Promise;var promiseToString = null;if (P) {try {promiseToString = Object.prototype.toString.call(P.resolve());} catch(e) {/*silently ignored*/}}return (promiseToString === '[object Promise]' && !P.cast);}if (hasPromise()) {define('idcta/es6-promise', function() {return window.Promise;});define('idcta-v2/es6-promise', function() {return window.Promise;});}map['idcta-v2'] = 'https://mybbc.files.bbci.co.uk/s/id/account-idcta/1.19.0/modules/idcta-v2';map['idcta-v2/config'] = ENDPOINT_URL + ENDPOINT_CONFIG;map['idcta-v2/translations'] = ENDPOINT_URL + ENDPOINT_TRANSLATIONS;map['idcta'] = 'https://mybbc.files.bbci.co.uk/s/id/account-idcta/1.8.2/modules/idcta';map['idcta-v2/idcta-1'] = 'https://mybbc.files.bbci.co.uk/s/id/account-idcta/1.19.0/modules/idcta-v2/dist/idcta-1.min';const idctaShim = {deps: ['idcta-v2/idcta-1'],};require({shim: {'idcta-v2/statusbar': idctaShim,'idcta-v2/id-config': idctaShim},map: {'*': {'idcta/idcta-1': 'idcta-v2/idcta-1','idcta': 'idcta-v2',}},paths: map});window.idctaBaseUrl = ENDPOINT_URL;define('idcta/config', ['idcta-v2/config'], function(data) {return data;});define('idcta/translations', ['idcta-v2/translations'], function(data) {return data;});})();</script>  <!-- BBCDOTCOM head --><script type="text/javascript">/*<![CDATA[*/ var _sf_startpt = (new Date()).getTime(); /*]]>*/</script><style type="text/css">.bbccom_display_none{display:none;}</style><script type="text/javascript">/*<![CDATA[*/ var bbcdotcomConfig, googletag = googletag || {}; googletag.cmd = googletag.cmd || [], bbcdotcomScripts = [], tp = window.tp || []; var bbcdotcom = false; (function(){ if(typeof require !== 'undefined') { require({ paths:{ "bbcdotcom":"https://static.bbc.co.uk/bbcdotcom/2.7.0/script" } }); } })(); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ var bbcdotcom = { adverts: { keyValues: { set: function() {} } }, advert: { write: function () {}, show: function () {}, isActive: function () { return false; }, layout: function() { return { reset: function() {} } } }, config: { init: function() {}, isActive: function() {}, setSections: function() {}, isAdsEnabled: function() {}, setAdsEnabled: function() {}, isAnalyticsEnabled: function() {}, setAnalyticsEnabled: function() {}, setAssetPrefix: function() {}, setFlagpoles: function() {}, setVersion: function () {}, setJsPrefix: function() {}, setSwfPrefix: function() {}, setCssPrefix: function() {}, setConfig: function() {}, getAssetPrefix: function() {}, getJsPrefix: function () {}, getSwfPrefix: function () {}, getCssPrefix: function () {}, isOptimizelyEnabled: function() {} }, survey: { init: function(){ return false; } }, data: {}, init: function() {}, objects: function(str) { return false; }, locale: { set: function() {}, get: function() {} }, setAdKeyValue: function() {}, utils: { addEvent: function() {}, addHtmlTagClass: function() {}, log: function () {} }, addLoadEvent: function() {} }; /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function(){ if (typeof orb !== 'undefined' && typeof orb.fig === 'function') { if (orb.fig('ad') && orb.fig('uk') == 0) { bbcdotcom.data = { ads: (orb.fig('ad') ? 1 : 0), stats: (orb.fig('uk') == 0 ? 1 : 0), statsProvider: orb.fig('ap') }; } } else { document.write('<script type="text/javascript" src="https://www.bbc.com/wwscripts/data">x3C/script>'); } })(); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function(){ if (typeof orb === 'undefined' || typeof orb.fig !== 'function') { bbcdotcom.data = { ads: bbcdotcom.data.a, stats: bbcdotcom.data.b, statsProvider: bbcdotcom.data.c }; } if (bbcdotcom.data.ads == 1) { document.write('<script type="text/javascript" src="https://www.bbc.com/wwscripts/flag">x3C/script>'); } })(); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function(){ if (window.bbcdotcom && (typeof bbcdotcom.flag == 'undefined' || (typeof bbcdotcom.data.ads !== 'undefined' && bbcdotcom.flag.a != 1))) { bbcdotcom.data.ads = 0; } if (/[?|&]ads/.test(window.location.href) || /(^|; )ads=on; /.test(document.cookie) || /; ads=on(; |$)/.test(document.cookie)) { bbcdotcom.data.ads = 1; bbcdotcom.data.stats = 1; } if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { bbcdotcom.assetPrefix = "https://static.bbc.co.uk/bbcdotcom/2.7.0/"; if (/(sandbox|int)(.dev)*.bbc.co*/.test(window.location.href) || /[?|&]ads-debug/.test(window.location.href) || document.cookie.indexOf('ads-debug=') !== -1) { document.write('<script type="text/javascript" src="https://static.bbc.co.uk/bbcdotcom/2.7.0/script/dist/bbcdotcom.dev.js">x3C/script>'); } else { document.write('<script type="text/javascript" src="https://static.bbc.co.uk/bbcdotcom/2.7.0/script/dist/bbcdotcom.js">x3C/script>'); } } })(); /*]]>*/</script><script type="text/javascript">if (window.bbcdotcom && bbcdotcom.data.stats == 1) { document.write('<link rel="dns-prefetch" href="//secure-us.imrworldwide.com/">'); document.write('<link rel="dns-prefetch" href="//me-cdn.effectivemeasure.net/">'); document.write('<link rel="dns-prefetch" href="//ssc.api.bbc.com/">'); } if (window.bbcdotcom && bbcdotcom.data.ads == 1) { document.write('<link rel="dns-prefetch" href="//www.googletagservices.com/">'); document.write('<link rel="dns-prefetch" href="//bbc.gscontxt.net/">'); document.write('<link rel="dns-prefetch" href="//tags.crwdcntrl.net/">'); document.write('<link rel="dns-prefetch" href="//ad.crwdcntrl.net/">'); }</script><script type="text/javascript">if (window.bbcdotcom && bbcdotcom.data.ads == 1) { document.write('<meta name="google-site-verification" content="auTeTTwSt_KBY_4iDoR00Lwb7-qzx1IgzJy6ztaWgEI" />'); }</script><script type="text/javascript">/*<![CDATA[*/ (function(){ if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { bbcdotcomConfig = {"adFormat":"standard","adKeyword":"","adMode":"smart","adsEnabled":true,"appAnalyticsSections":"","asyncEnabled":true,"disableInitialLoad":false,"advertInfoPageUrl":"https://www.bbc.com/privacy/cookies/international/","advertisementText":"Advertisement","analyticsEnabled":true,"sherlockEnabled":false,"appName":"","assetPrefix":"https://static.bbc.co.uk/bbcdotcom/2.7.0/","customAdParams":[],"customStatsParams":[],"headline":"","id":"","inAssociationWithText":"in association with","keywords":"","language":"","orbTransitional":false,"lotameWSEnabled":false,"optimizelyEnabled":true,"palEnv":"live","productName":"","sections":[],"comScoreEnabled":true,"comscoreSite":"bbc","comscoreID":"19293874","comscorePageName":"","slots":"","sponsoredByText":"is sponsored by","adsByGoogleText":"Ads by Google","summary":"","type":"","features":{"testfeature":{"name":"testfeature","envs":["sandbox","int","test"],"on":true,"options":{},"override":null},"lxadverts":{"name":"lxadverts","envs":[],"on":true,"options":{},"override":null}},"staticBase":"/bbcdotcom","staticHost":"https://static.bbc.co.uk","staticVersion":"2.7.0","staticPrefix":"https://static.bbc.co.uk/bbcdotcom/2.7.0","dataHttp":"tps.bbc.com","dataHttps":"www.bbc.com","flagHttp":"www.bbc.co.uk","flagHttps":"www.bbc.co.uk","analyticsHttp":"sa.bbc.com","analyticsHttps":"ssa.bbc.com"}; bbcdotcom.config.init(bbcdotcomConfig, bbcdotcom.data, window.location, window.document); bbcdotcom.config.setFlagpoles(bbcdotcom.flag || {}); bbcdotcom.config.setAssetPrefix("https://static.bbc.co.uk/bbcdotcom/2.7.0/"); bbcdotcom.config.setVersion("2.7.0"); document.write('<!--[if IE 7]><script type="text/javascript">bbcdotcom.config.setIE7(true);x3C/script><![endif]-->'); document.write('<!--[if IE 8]><script type="text/javascript">bbcdotcom.config.setIE8(true);x3C/script><![endif]-->'); document.write('<!--[if IE 9]><script type="text/javascript">bbcdotcom.config.setIE9(true);x3C/script><![endif]-->'); if (/[?|&]ex-dp/.test(window.location.href) || document.cookie.indexOf('ex-dp=') !== -1) { bbcdotcom.utils.addHtmlTagClass('bbcdotcom-ex-dp'); } } })(); /*]]>*/</script><script type="text/javascript">var initOptimizely = (function(isEnabled){ if(!isEnabled) return; var logger = window.bbcdotcom.Logger('bbcdotcom:head:optimizely'); /* Allow Optimizely in these paths */ var allowPaths = ['/', '/wwhp']; /* Only run on optimizely on homepage */ if (bbcdotcom.utils && allowPaths.indexOf(window.location.pathname) !== -1 && window.bbccookies && bbccookies.readPolicy('necessary') ){ /* set correct OptimizelyURL for prod or sandbox */ var optimizelyURL = "https://cdn.optimizely.com/public/4621041136/s/bbccom_sandbox.js"; if(window.location.hostname === 'www.bbc.com') { optimizelyURL = "https://cdn.optimizely.com/public/4621041136/s/bbccom_prod.js"; } /* Set cookie to 1 year */ window['optimizely'] = window['optimizely'] || []; window['optimizely'].push({ "type": "cookieExpiration", "cookieExpirationDays": 365 }); document.write('<script type="text/javascript" src="'+optimizelyURL+'">x3C/script>'); } })( bbcdotcom.config.isOptimizelyEnabled() );</script><script type="text/javascript">/*<![CDATA[*/ if ( window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.ads && bbcdotcom.data.ads == 1 && bbcdotcom.config && bbcdotcom.config.isGrapeshotEnabled && bbcdotcom.config.isGrapeshotEnabled() && bbcdotcom.config.isWorldService && !bbcdotcom.config.isWorldService() ) { var gs_channels="DEFAULT"; (function () { var gsurl = window.location.href.split("?")[0]; bbcdotcomScripts.push({src:'https://bbc.gscontxt.net/?url='+encodeURIComponent(gsurl)}); })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.stats && bbcdotcom.data.stats == 1 && bbcdotcom.config && bbcdotcom.config.isLotameEnabled && bbcdotcom.config.isLotameEnabled()){ (function () { var clientId, lotameUrl, lotameAudienceUrl; clientId = (bbcdotcom.config.isWorldService && bbcdotcom.config.isWorldService()) ? '10826' : '10816'; lotameUrl = 'https://tags.crwdcntrl.net/c/'+clientId+'/cc.js?ns='+clientId; lotameAudienceUrl = 'https://ad.crwdcntrl.net/5/c=10815/pe=y/var=ccauds'; bbcdotcomScripts.push({src:lotameUrl,id:"LOTCC"+clientId}); bbcdotcomScripts.push({src:lotameAudienceUrl}); })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ /** * ASYNC waits to make any gpt requests until the bottom of the page */ if ( window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.ads && bbcdotcom.data.ads == 1 && bbcdotcom.config && bbcdotcom.config.isAsync && bbcdotcom.config.isAsync() ) { (function () { bbcdotcomScripts.push({src:'https://securepubads.g.doubleclick.net/tag/js/gpt.js'}); })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ /* Load Lotame, Grapeshot and GPT without blocking rendering but executing in order */ if ( bbcdotcomScripts && bbcdotcomScripts.length > 0 ) { (function () { bbcdotcomScripts.forEach(function(item) { var script = document.createElement('script'); script.async = false; if(item.id) script.id = item.id; script.src = item.src; document.head.appendChild(script); }); })(); } /*]]>*/</script><script type="text/javascript" async="true">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.stats && bbcdotcom.data.stats == 1 && bbcdotcom.config && bbcdotcom.config.isLotameEnabled && bbcdotcom.config.isLotameEnabled() && bbcdotcom.lotame){ (function () { bbcdotcom.lotame.callback(); })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function() { window.bbcdotcom.head = true; }()); /*]]>*/</script><script type="text/javascript">// Globally available search context
+  window.SEARCHBOX={"variant":"default","locale":"en","navSearchboxStaticPrefix":"https://nav.files.bbci.co.uk/searchbox/3.0.0-4.9a69f1b","searchboxAppStaticPrefix":"https://nav.files.bbci.co.uk/searchbox/3.0.0-4.9a69f1b/drawer","searchFormHtml":"<div tabindex="-1" data-reactroot="" data-reactid="1" data-react-checksum="729995048"><div data-reactid="2"><section class="se-searchbox-panel" data-reactid="3"><div class="se-g-wrap" data-reactid="4"><div class="se-g-layout" data-reactid="5"><div class="se-g-layout__item se-searchbox-title" aria-hidden="true" data-reactid="6">search</div><div class="se-g-layout__item se-searchbox" data-reactid="7"><form accept-charset="utf-8" id="searchboxDrawerForm" method="get" action="https://search.bbc.co.uk/search" data-reactid="8"><label class="se-searchbox__input" for="se-searchbox-input-field" data-reactid="9"><span class="se-sr-only" data-reactid="10">Search Term</span><input type="text" name="q" value="" id="se-searchbox-input-field" class="se-searchbox__input__field" maxlength="512" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" data-reactid="11"/></label><input type="hidden" name="scope" value="" data-reactid="12"/><button type="submit" class="se-searchbox__submit" tabindex="0" data-reactid="13">Search</button><button type="button" class="se-searchbox__clear se-searchbox__clear--visible" tabindex="0" data-reactid="14">Close</button></form></div></div></div></section><div aria-live="polite" aria-atomic="true" class="se-suggestions-container" data-reactid="15"><section class="se-g-wrap" data-reactid="16"></section></div></div></div>","searchScopePlaceholder":"<input type="hidden" name="scope" id="orb-search-scope" value="all">","searchScopeParam":"?scope=all","searchScopeTemplate":"all","searchPlaceholderWrapperStart":"","searchPlaceholderWrapperEnd":""};
+  window.SEARCHBOX.suppress = false;
+  window.SEARCHBOX.searchScope = SEARCHBOX.searchScopeTemplate.split('-')[0];</script><link rel="stylesheet" href="https://nav.files.bbci.co.uk/searchbox/3.0.0-4.9a69f1b/css/main.css"><!--[if IE 8]>
+  <script type="text/javascript" src="https://nav.files.bbci.co.uk/searchbox/3.0.0-4.9a69f1b/script/html5shiv.min.js"></script>
+  <script type="text/javascript">window['searchboxIEVersion'] = 8;</script>
+  <link rel="stylesheet" href="https://nav.files.bbci.co.uk/searchbox/3.0.0-4.9a69f1b/css/ie8.css">
+<![endif]--><!--[if IE 9]>
+  <script type="text/javascript">window['searchboxIEVersion'] = 9;</script>
+<![endif]--><script type="text/javascript">require.config({
+        "paths": {
+            "orb/async/_footerpromo": 'https://nav.files.bbci.co.uk/navpromo/3.0.0-13.dc6b5c1/js/async/_footerpromo'
+        }
+    });</script> <script type="text/javascript">"use strict";require.config({paths:{reverb:"https://mybbc-analytics.files.bbci.co.uk/reverb-client-js/reverb-0.11.0"}}),function(){var i=function(c,a){require(["reverb"],function(e){if(c&&c.detail){var i=c.detail.label,t=c.detail.type,n=c.detail.elem,r=c.detail.originalEvent;c.detail.isClick&&(a=c.detail.isClick),e.userActionEvent(t,i,c.detail,n,r,a)}})};document.addEventListener("bbc-user-event",function(e){i(e,!1)}),document.addEventListener("bbc-user-click",function(e){i(e,!0)}),document.addEventListener("bbc-page-updated",function(){require(["reverb"],function(e){e.initialise().then(function(){return e.viewEvent()})})})}();</script>
+        <link type="text/css" rel="stylesheet" href="https://static.bbc.co.uk/news/1.290.03379/stylesheets/services/news/core.css">
+    <!--[if lt IE 9]>
+        <link type="text/css" rel="stylesheet" href="https://static.bbc.co.uk/news/1.290.03379/stylesheets/services/news/old-ie.css">
+        <script src="https://static.bbc.co.uk/news/1.290.03379/js/vendor/html5shiv/html5shiv.js"></script>
+    <![endif]-->
+ <script id="news-loader"> if (document.getElementById("responsive-news")) { window.bbcNewsResponsive = true; } var isIE = (function() { var undef, v = 3, div = document.createElement('div'), all = div.getElementsByTagName('i'); while ( div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->', all[0] ); return v > 4 ? v : undef; }()); var modernDevice = 'querySelector' in document && 'localStorage' in window && 'addEventListener' in window, forceCore = document.cookie.indexOf('ckps_force_core') !== -1; window.cutsTheMustard = modernDevice && !forceCore; if (window.cutsTheMustard) { document.documentElement.className += ' ctm'; var insertPoint = document.getElementById('news-loader'), config = {"asset":{"asset_id":"49782693","asset_locator":"urn:bbc:cps:asset:49782693","asset_uri":"/news/world-middle-east-49782693","original_asset_uri":null,"first_created":{"date":"2019-09-21 15:01:28","timezone_type":3,"timezone":"Europe/London"},"first_published":{"date":"2019-09-21 16:31:41","timezone_type":3,"timezone":"Europe/London"},"last_updated":{"date":"2019-09-21 17:46:09","timezone_type":3,"timezone":"Europe/London"},"options":{"allowDateStamp":true,"allowPrintingSharingLinks":true,"allowHeadline":true,"allowRightHandSide":true,"allowRelatedStoriesBox":true,"includeComments":false,"isIgorSeoTagsEnabled":false,"isKeyContent":false,"isBreakingNews":false,"hasNewsTracker":false,"isFactCheck":false,"allowAdvertising":true,"hasContentWarning":false,"suitableForSyndication":true},"section":{"name":"Middle East","id":"99125","uri":"/news/world/middle_east","urlIdentifier":"/news/world/middle_east"},"language":"en-gb","edition":"International","audience":null,"iStats_counter_name":"news.world.middle_east.story.49782693.page","type":"STY","curie":"asset:969e896b-6abf-1c4b-8a20-22502575f343","length":4820,"byline":{},"headline":"Saudi Arabia vows to respond to oil attacks with 'necessary measures'","mediaType":"video","topicTags":null},"smpBrand":null,"staticHost":"https://static.bbc.co.uk","environment":"live","locatorVersion":"0.46.3","pathPrefix":"/news","staticPrefix":"https://static.bbc.co.uk/news/1.290.03379","jsPath":"https://static.bbc.co.uk/news/1.290.03379/js","cssPath":"https://static.bbc.co.uk/news/1.290.03379/stylesheets/services/news","cssPostfix":"","dynamic":null,"features":{"localnews":true,"video":true,"liveeventcomponent":true,"mediaassetpage":true,"gallery":true,"sportstories":true,"radiopromo":true,"fromothernewssites":true,"locallive":true,"weather":true},"features2":{"apple_smart_banner":true,"svg_brand":true,"waf_deprecation_notice":true,"local_news_cta":true,"chartbeat":true,"connected_stream":true,"connected_stream_promo":true,"dynatrace_beacon":true,"nav":true,"pulse_survey":false,"local_survey":true,"correspondents":true,"blogs":true,"open_graph":true,"follow_us":true,"marketdata_markets":true,"marketdata_shares":true,"nations_pseudo_nav":true,"politics_election2015_topic_pages":true,"responsive_breaking_news":true,"live_event":true,"most_popular":true,"most_popular_tabs":true,"routing":true,"radiopromonownext":true,"config_based_layout":true,"orbit":true,"map_most_watched":true,"top_stories_promo":true,"features_and_analysis":true,"section_labels":true,"index_title":true,"share_tools":true,"extracted_share_tools":true,"local_live_promo":true,"adverts":true,"adverts_async":true,"adexpert":true,"igor_geo_redirect":true,"igor_device_redirect":true,"live":true,"comscore_mmx":true,"find_local_news":true,"comments":true,"comments_enhanced":true,"browser_notify":true,"stream_grid_promo":true,"breaking_news":false,"top_stories_max_volume":true,"contact_form":true,"channel_page":true,"portlet_global_variants":true,"suppress_lep_timezone":true,"story_sticky_player":true,"story_end_slate":true,"story_smp_preview":true,"embed_player_pid":true,"cedexis":true,"mpulse":true,"story_single_column_layout":true,"story_image_copyright_labels":true,"ovp_resolve_primary_media_vpids":false,"media_player":true,"services_bar":true,"live_v2_stream":true,"ldp_tag_augmentation":true,"map_related_topic_tags":true,"olympics_tables":true,"embedephant-social-embeds":true,"interactive-social-embeds":true,"social-embeds":true,"amp_link":true,"https_redirect":true,"preload_fig":true,"preconnect_oftused_domains":true,"ati_analytics":true},"configuration":{"showtimestamp":"1","showweather":"1","showsport":"1","showolympics":"1","showfeaturemain":"1","candyplatform":"EnhancedMobile","showwatchlisten":"1","showspecialreports":"","videotopiccandyid":"","showvideofeedsections":"1","showstorytopstories":"","showstoryfeaturesandanalysis":"1","showstorymostpopular":"","showgallery":"1","cms":"cps","channelpagecandyid":"10318089"},"pollingHost":"https://polling.bbc.co.uk","service":"news","locale":"en-GB","locatorHost":null,"locatorFlagPole":true,"local":{"allowLocationLookup":true},"isWorldService":false,"isChannelPage":false,"languageVariant":"","commentsHost":"https://www.bbc.co.uk","search":null,"comscoreAnalytics":null}; config.configuration['get'] = function (key) { return this[key.toLowerCase()]; };  var bootstrapUI=function(){var e=function(){if(navigator.userAgent.match(/(Android (2.0|2.1))|(Nokia)|(OSRE/)|(Opera (Mini|Mobi))|(w(eb)?OSBrowser)|(UCWEB)|(Windows Phone)|(XBLWP)|(ZuneWP)/))return!1;if(navigator.userAgent.match(/MSIE 10.0/))return!0;var e,t=document,n=t.head||t.getElementsByTagName("head")[0],r=t.createElement("style"),s=t.implementation||{hasFeature:function(){return!1}};r.type="text/css",n.insertBefore(r,n.firstChild),e=r.sheet||r.styleSheet;var i=s.hasFeature("CSS2","")?function(t){if(!e||!t)return!1;var n=!1;try{e.insertRule(t,0),n=!/unknown/i.test(e.cssRules[0].cssText),e.deleteRule(e.cssRules.length-1)}catch(r){}return n}:function(t){return e&&t?(e.cssText=t,0!==e.cssText.length&&!/unknown/i.test(e.cssText)&&0===e.cssText.replace(/r+|n+/g,"").indexOf(t.split(" ")[0])):!1};return i('@font-face{ font-family:"font";src:"font.ttf"; }')}();e&&(document.getElementsByTagName("html")[0].className+=" ff"),function(){var e=document.documentElement.style;("flexBasis"in e||"WebkitFlexBasis"in e||"msFlexBasis"in e)&&(document.documentElement.className+=" flex")}();var t,n,r,s,i,a={},o=function(){var e=document.documentElement.clientWidth,n=window.innerWidth,r=n>1.5*e;t=r?e:n},u=function(e){var t=document.createElement("link");t.setAttribute("rel","stylesheet"),t.setAttribute("type","text/css"),t.setAttribute("href",n+e+r+".css"),t.setAttribute("media",i[e]),s.parentNode.insertBefore(t,s),delete i[e]},c=function(e,n,r){n&&!r&&t>=n&&u(e),r&&!n&&r>=t&&u(e),n&&r&&t>=n&&r>=t&&u(e)},l=function(e){if(a[e])return a[e];var t=e.match(/(min-width:[s]*([s]*[0-9.]+)(px|em)[s]*)/),n=e.match(/(max-width:[s]*([s]*[0-9.]+)(px|em)[s]*)/),r=t&&parseFloat(t[1])||null,s=n&&parseFloat(n[1])||null;return a[e]=[r,s],a[e]},f=function(){var e=0;for(var t in i)e++;return e},m=function(){f()||window.removeEventListener("resize",d,!1);for(var e in i){var t=i[e],n=l(t);c(e,n[0],n[1])}},d=function(){o(),m()},h=function(e,t){i=e,n=t.path+("/"!==t.path.substr(-1)?"/":""),r=t.postfix,s=t.insertBefore,o(),m(),window.addEventListener("resize",d,!1)};return{stylesheetLoaderInit:h}}(); var stylesheets = {"compact":"(max-width: 599px)","tablet":"(min-width: 600px) and (max-width: 1007px)","wide":"(min-width: 1008px)"}; bootstrapUI.stylesheetLoaderInit(stylesheets, { path: 'https://static.bbc.co.uk/news/1.290.03379/stylesheets/services/news', postfix: '', insertBefore: insertPoint }); var loadRequire = function(){ var js_paths = {"jquery-1.9":"vendor/jquery-1/jquery","jquery-1":"https://static.bbc.co.uk/frameworks/jquery/0.4.1/sharedmodules/jquery-1.7.2","demi-1":"https://static.bbc.co.uk/frameworks/demi/0.10.1/sharedmodules/demi-1","swfobject-2":"https://static.bbc.co.uk/frameworks/swfobject/0.1.10/sharedmodules/swfobject-2","jquery":"vendor/jquery-2/jquery.min","domReady":"vendor/require/domReady","translation":"module/translations/en-GB","bump-3":"//emp.bbci.co.uk/emp/bump-3/bump-3"};  js_paths.navigation = 'module/nav/navManager';  require.config({ baseUrl: 'https://static.bbc.co.uk/news/1.290.03379/js', map: { 'vendor/locator': { 'module/bootstrap': 'vendor/locator/bootstrap', 'locator/stats': 'vendor/locator/stats', 'locator/locatorView': 'vendor/locator/locatorView' } }, paths: js_paths, waitSeconds: 30 }); define('config', function () { return config; });              require(["compiled/all"], function() {
+      require(['domReady'], function (domReady) { domReady(function () { require(["module/dotcom/handlerAdapter","module/stats/statsSubscriberAdapter","module/alternativeJsStrategy/controller","module/iconLoaderAdapter","module/polyfill/location.origin","module/components/breakingNewsAdapter","module/indexTitleAdaptor","module/navigation/handlerAdaptor","module/noTouchDetectionForCss","module/components/stickyPlayer/mainAdapter","module/components/responsiveImage","module/components/timestampAdaptor","module/components/twiteAdapter","module/tableScrollAdapter","module/userScrollAdapter","module/components/mediaPlayer/mainAdapter","module/endSlateAdaptor","module/components/fauxBlockLink"], function() {  require(["module/strategiserAdaptor"]);  }); }); });              });
+     };  loadRequire();  } else { var l = document.createElement('link'); l.href = 'https://static.bbc.co.uk/news/1.290.03379/icons/generated/icons.fallback.css'; l.rel = 'stylesheet'; document.getElementsByTagName('head')[0].appendChild(l); } </script>  <script type="text/javascript"> /*<![CDATA[*/ bbcdotcom.init({adsToDisplay:['leaderboard', 'sponsor_section', 'mpu', 'infeed_news_story', 'outbrain_ar_5', 'outbrain_ar_7', 'outbrain_ar_8', 'outbrain_ar_9', 'native', 'mpu_bottom', 'adsense', 'inread'], asyncEnabled:true }); /*]]>*/ </script>      <noscript><link href="https://static.bbc.co.uk/news/1.290.03379/icons/generated/icons.fallback.css" rel="stylesheet"></noscript>
+
+                
+    
+    
+
+                    
+    </head>
+<!--[if IE]><body id="asset-type-sty" class="ie device--feature"><![endif]-->
+<!--[if !IE]>--><body id="asset-type-sty" class="device--feature"><!--<![endif]-->
+    <div class="direction" >
+
+    
+    <noscript><p style="position: absolute; top: -999em"><img src="https://a1.api.bbc.co.uk/hit.xiti?&col=1&from=p&ptag=js&s=598253&p=world::middle_east::news.world.middle_east.story.49782693.page&x1=[urn:bbc:cps:969e896b-6abf-1c4b-8a20-22502575f343]&x2=[responsive]&x3=[bbc_website]&x4=[en]&x7=[article]&x8=[reverb-0.11.0-nojs]&x11=[NEWS_GNL]&x12=[NEWS]" height="1" width="1" alt=""></p></noscript>  <!-- BBCDOTCOM bodyFirst --><div id="bbccom_interstitial_ad" class="bbccom_display_none"></div><div id="bbccom_interstitial" class="bbccom_display_none"><script type="text/javascript">/*<![CDATA[*/ (function() { if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { googletag.cmd.push(function() { googletag.display('bbccom_interstitial'); }); } }()); /*]]>*/</script></div><div id="bbccom_wallpaper_ad" class="bbccom_display_none"></div><div id="bbccom_wallpaper" class="bbccom_display_none"><script type="text/javascript">/*<![CDATA[*/ (function() { var wallpaper; if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { if (bbcdotcom.config.isAsync()) { googletag.cmd.push(function() { googletag.display('bbccom_wallpaper'); }); } else if (typeof googletag !== "undefined" && typeof googletag.display === "function") { googletag.display("wallpaper"); } wallpaper = bbcdotcom.adverts.adRegister.getAd('wallpaper'); } }()); /*]]>*/</script></div><script type="text/javascript">/*<![CDATA[*/ (function() { if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { document.write(unescape('%3Cscript id="gnlAdsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } if (window.bbcdotcom && bbcdotcom.config.isActive('analytics')) { document.write(unescape('%3Cscript id="gnlAnalyticsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } }()); /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function() { window.bbcdotcom.bodyFirst = true; }()); /*]]>*/</script> <div id="cookiePrompt"></div>  <!--[if (gt IE 8) | (IEMobile)]><!--><header id="orb-banner" role="banner" aria-label="BBC"><!--<![endif]--><!--[if (lt IE 9) & (!IEMobile)]>
+            <![if (IE 8)]>
+                <header id="orb-banner" role="banner" class="orb-old-ie orb-ie8" aria-label="BBC">
+            <![endif]>
+
+            <![if (IE 7)]>
+                <header id="orb-banner" role="banner" class="orb-old-ie orb-ie7" aria-label="BBC">
+            <![endif]>
+
+            <![if (IE 6)]>
+                <header id="orb-banner" role="banner" class="orb-old-ie orb-ie6" aria-label="BBC">
+            <![endif]>
+        <![endif]--><div id="orb-header" class="orb-nav-pri orb-nav-pri-white orb-nav-empty" dir="ltr"><div class="orb-nav-pri-container b-r b-g-p"><div class="orb-nav-section orb-nav-blocks"><a href="https://www.bbc.co.uk">Homepage</a></div><section><div class="orb-skip-links"><h2>Accessibility links</h2><ul><li><a href="#page">Skip to content</a></li><li><a id="orb-accessibility-help" href="/accessibility/">Accessibility Help</a></li></ul></div></section><div id="mybbc-wrapper" class="orb-nav-section orb-nav-id orb-nav-focus orb-nav-id-default"><div id="idcta-statusbar" class="orb-nav-section orb-nav-focus"><a id="idcta-link" href="https://account.bbc.com/account?ptrt=https://www.bbc.com/news/world-middle-east-49782693"><span id="idcta-username">BBC Account</span></a></div><script type="text/javascript">require(['idcta/statusbar'], function (statusbar) {new statusbar.Statusbar({id: 'idcta-statusbar', publiclyCacheable: true});});</script><!-- Because we are now loading the notification bell CSS asynchronously, we need this inline style hack to ensure that the notification div is hidden by default, and shown only if and when the bell code is loaded from notification-ui --><a id="notification-link" class="js-notification-link animated three" href="#" style="display: none"><span class="hidden-span">Notifications</span><div class="notification-link--triangle"></div><div class="notification-link--triangle"></div><span id="not-num"></span></a></div><nav role="navigation" aria-label="BBC" class="orb-nav"><div class="orb-nav-section orb-nav-links orb-nav-focus" id="orb-nav-links"><ul><li class="orb-nav-home"><a href="https://www.bbc.co.uk">Home</a></li><li class="orb-nav-news"><a href="https://www.bbc.co.uk/news">News</a></li><li class="orb-nav-sport"><a href="https://www.bbc.co.uk/sport">Sport</a></li><li class="orb-nav-weather"><a href="https://www.bbc.co.uk/weather">Weather</a></li><li class="orb-nav-iplayer"><a href="https://www.bbc.co.uk/iplayer">iPlayer</a></li><li class="orb-nav-sounds"><a href="https://www.bbc.co.uk/sounds">Sounds</a></li><li class="orb-nav-cbbc"><a href="https://www.bbc.co.uk/cbbc">CBBC</a></li><li class="orb-nav-cbeebies"><a href="https://www.bbc.co.uk/cbeebies">CBeebies</a></li><li class="orb-nav-food"><a href="https://www.bbc.co.uk/food">Food</a></li><li class="orb-nav-bitesize"><a href="https://www.bbc.co.uk/bitesize">Bitesize</a></li><li class="orb-nav-arts"><a href="https://www.bbc.co.uk/arts">Arts</a></li><li class="orb-nav-taster"><a href="https://www.bbc.co.uk/taster">Taster</a></li><li class="orb-nav-local"><a href="https://www.bbc.co.uk/news/localnews">Local</a></li><li class="orb-nav-tv"><a href="https://www.bbc.co.uk/tv">TV</a></li><li class="orb-nav-radio"><a href="https://www.bbc.co.uk/radio">Radio</a></li><li class="orb-nav-three"><a href="https://www.bbc.co.uk/bbcthree">Three</a></li><li id="orb-nav-more" style="width: 88px" aria-controls="orb-panel-more"><a href="#orb-footer" data-alt="More" class="istats-notrack">Menu<span class="orb-icon orb-icon-arrow"></span></a></li></ul></div></nav><div class="orb-nav-section orb-nav-search"><a class="orb-search__button" href="https://search.bbc.co.uk/search?scope&#x3D;all" title="Search the BBC">Search</a><form class="b-f" id="orb-search-form" role="search" method="get" action="https://search.bbc.co.uk/search" accept-charset="utf-8"><div><input type="hidden" name="scope" id="orb-search-scope" value="all"><label for="orb-search-q">Search the BBC</label><input id="orb-search-q" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" name="q" placeholder="Search"><button id="orb-search-button" class="orb-search__button">Search the BBC</button><input type="hidden" name="suggid" id="orb-search-suggid"></div></form></div></div><div id="orb-panels"></div></div></header>  <!-- Styling hook for shared modules only -->
+<div id="orb-modules">
+
+    <div id="site-container">
+
+    <!--[if lt IE 9]>
+<div class="browser-notify">
+    <div class="browser-notify__banner">
+        <div class="browser-notify__icon"></div>
+        <span>This site is optimised for modern web browsers, and does not fully support your version of Internet Explorer</span>
+    </div>
+</div>
+<![endif]-->            <div class="site-brand site-brand--height" role="banner" aria-label="BBC News">
+            <div class="site-brand-inner site-brand-inner--height">
+                <div class="navigation navigation--primary">
+                    <a href="/news" id="brand">
+            <svg class="brand__svg" width="102" height="30" focusable="false" aria-hidden="true">
+            <image xlink:href="https://static.bbc.co.uk/news/1.290.03379/img/brand/generated/news-light.svg" src="https://static.bbc.co.uk/news/1.290.03379/img/brand/generated/news-light.png" width="100%" height="100%"/>
+        </svg>
+        <span class="off-screen">News</span>
+        </a>                    <h2 class="navigation__heading off-screen">BBC News Navigation</h2>
+                    <div class="nav-buttons">
+                                                <a href="#core-navigation" class="navigation__section navigation__section--core" data-event="header">
+                            <div class="navigation__section--icon">
+                                <span class="off-screen">Sections</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+                        
+
+<div class="navigation navigation--wide">
+    <ul class="navigation-wide-list" role="navigation" aria-label="BBC News" data-panel-id="js-navigation-panel-primary">
+                    <li>
+                <a href="/news" class="navigation-wide-list__link">
+                    <span>Home</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/video_and_audio/headlines" class="navigation-wide-list__link">
+                    <span>Video</span>
+                </a>
+                            </li>
+                    <li class="selected">
+                <a href="/news/world" data-panel-id="js-navigation-panel-World" class="navigation-wide-list__link navigation-arrow--open">
+                    <span>World</span>
+                </a>
+                 <span class="off-screen">selected</span>            </li>
+                    <li>
+                <a href="/news/uk" data-panel-id="js-navigation-panel-UK" class="navigation-wide-list__link">
+                    <span>UK</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/business" data-panel-id="js-navigation-panel-Business" class="navigation-wide-list__link">
+                    <span>Business</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/technology" class="navigation-wide-list__link">
+                    <span>Tech</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/science_and_environment" class="navigation-wide-list__link">
+                    <span>Science</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/stories" class="navigation-wide-list__link">
+                    <span>Stories</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/entertainment_and_arts" class="navigation-wide-list__link">
+                    <span>Entertainment &amp; Arts</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/health" class="navigation-wide-list__link">
+                    <span>Health</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/world_radio_and_tv" class="navigation-wide-list__link">
+                    <span>World News TV</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/in_pictures" class="navigation-wide-list__link">
+                    <span>In Pictures</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/realitycheck" class="navigation-wide-list__link">
+                    <span>Reality Check</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/newsbeat" class="navigation-wide-list__link">
+                    <span>Newsbeat</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/special_reports" class="navigation-wide-list__link">
+                    <span>Special Reports</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/explainers" class="navigation-wide-list__link">
+                    <span>Explainers</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/the_reporters" class="navigation-wide-list__link">
+                    <span>The Reporters</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/have_your_say" class="navigation-wide-list__link navigation-wide-list__link--last">
+                    <span>Have Your Say</span>
+                </a>
+                            </li>
+            </ul>
 </div>
 
-<h1 id="firstHeading" class="firstHeading" lang="en">September 2019 climate strikes</h1>
+    <div class="secondary-navigation secondary-navigation--wide">
+        <nav class="navigation-wide-list navigation-wide-list--secondary" role="navigation" aria-label="World">
+            <a class="secondary-navigation__title navigation-wide-list__link " href="/news/world"><span>World</span></a> <span class="off-screen">selected</span>                            <ul data-panel-id="js-navigation-panel-secondary">
+                                            <li>
+                            <a href="/news/world/africa"
+                                class="navigation-wide-list__link navigation-wide-list__link--first ">
+                                <span>Africa</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/news/world/asia"
+                                class="navigation-wide-list__link  ">
+                                <span>Asia</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/news/world/australia"
+                                class="navigation-wide-list__link  ">
+                                <span>Australia</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/news/world/europe"
+                                class="navigation-wide-list__link  ">
+                                <span>Europe</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/news/world/latin_america"
+                                class="navigation-wide-list__link  ">
+                                <span>Latin America</span>
+                            </a>
+                                                    </li>
+                                            <li class="selected">
+                            <a href="/news/world/middle_east"
+                                class="navigation-wide-list__link  ">
+                                <span>Middle East</span>
+                            </a>
+                             <span class="off-screen">selected</span>                        </li>
+                                            <li>
+                            <a href="/news/world/us_and_canada"
+                                class="navigation-wide-list__link  navigation-wide-list__link--last">
+                                <span>US &amp; Canada</span>
+                            </a>
+                                                    </li>
+                                    </ul>
+                    </nav>
+    </div>
+                    </div>
+            
+    
+<div id="bbccom_leaderboard_1_2_3_4" class="bbccom_slot "  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('leaderboard', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
 
-<div id="bodyContent" class="mw-body-content">
-<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
-<div id="contentSub"></div>
-<div id="jump-to-nav"></div>
-<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
-<a class="mw-jump-link" href="#p-search">Jump to search</a>
-<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
-</p>
-<table class="box-Current plainlinks metadata ambox ambox-notice" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Graphic of a globe with a red analog clock" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/50px-Ambox_current_red.svg.png" decoding="async" width="50" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/75px-Ambox_current_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/99px-Ambox_current_red.svg.png 2x" data-file-width="360" data-file-height="290" /></div></td><td class="mbox-text"><div class="mbox-text-span"><b>This article documents a <a href="/wiki/Portal:Current_events" title="Portal:Current events">current event</a>.</b> Information may change rapidly as the event progresses, and initial news reports may be <a href="/wiki/Wikipedia:Reliable_sources#Breaking_news" title="Wikipedia:Reliable sources">unreliable</a>. The <a class="external text" href="https://en.wikipedia.org/w/index.php?title=September_2019_climate_strikes&amp;action=history">last updates</a> to this article <a href="/wiki/Wikipedia:Risk_disclaimer" title="Wikipedia:Risk disclaimer">may not reflect</a> the most current information.<span class="hide-when-compact"> Please feel free to <a class="external text" href="https://en.wikipedia.org/w/index.php?title=September_2019_climate_strikes&amp;action=edit">improve this article</a> or discuss changes on the <a href="/wiki/Talk:September_2019_climate_strikes" title="Talk:September 2019 climate strikes">talk page</a>.</span>  <small class="date-container"><i>(<span class="date">September 2019</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
-<table class="infobox vevent" style="width:22em;width: 250px"><tbody><tr><th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;font-size: 125%; background-color: #CEE0F2; vertical-align: middle">September 2019 climate strikes</th></tr><tr><td colspan="2" style="text-align:center;background-color: #eeeeee; vertical-align: middle">Part of the <a href="/wiki/School_strike_for_climate" title="School strike for climate">school strike for climate</a></td></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Logo_of_Climate_Strike.png" class="image"><img alt="Logo of Climate Strike.png" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9f/Logo_of_Climate_Strike.png/300px-Logo_of_Climate_Strike.png" decoding="async" width="300" height="300" srcset="//upload.wikimedia.org/wikipedia/en/9/9f/Logo_of_Climate_Strike.png 1.5x" data-file-width="316" data-file-height="316" /></a></td></tr><tr><th scope="row">Date</th><td>20–27 September 2019</td></tr><tr><th scope="row">Location</th><td><div style="display:inline;" class="location">Worldwide</div></td></tr><tr><th scope="row">Caused by</th><td><a href="/wiki/Global_warming" title="Global warming">Climate change</a> concerns</td></tr><tr><th scope="row">Methods</th><td>Protest</td></tr><tr><th colspan="2" style="text-align:center;background-color: #CEE0F2; vertical-align: middle">Lead figures</th></tr><tr><td colspan="2" style="text-align:center"><table style="width:100%; border-spacing:0; margin:0; text-align:left;"><tbody><tr>
-<td style="width:50%;">
-<div>
-<div class="plainlist">
-<ul><li><a href="/wiki/Future_Coalition" title="Future Coalition">Future Coalition</a></li>
-<li><a href="/wiki/Greta_Thunberg" title="Greta Thunberg">Greta Thunberg</a></li>
-<li><a href="/wiki/UK_Student_Climate_Network" title="UK Student Climate Network">UK Student Climate Network</a></li></ul>
-</div></div></td>
-<td style="width:50%; padding-left:0.25em; border-left:1px dotted #aaa">
-<div>
-</div></td>
-</tr></tbody></table></td></tr><tr><th colspan="2" style="text-align:center;background-color: #CEE0F2; vertical-align: middle">Number</th></tr><tr><td colspan="2" style="text-align:center">Millions
-<span style="font-size:85%;">(Global)</span></td></tr></tbody></table>
-<p>The <b>September 2019 climate strikes</b>  are a series of international strikes and protests to demand <a href="/wiki/Action_on_climate_change" class="mw-redirect" title="Action on climate change">action</a> be taken to address <a href="/wiki/Climate_change" title="Climate change">climate change</a>. The strikes' key dates include 20 September, which is three days before the <a href="/wiki/2019_UN_Climate_Action_Summit" title="2019 UN Climate Action Summit">United Nations Climate Summit</a>, and 27 September,<sup id="cite_ref-elle_1-0" class="reference"><a href="#cite_note-elle-1">&#91;1&#93;</a></sup><sup id="cite_ref-CNN_Melbourne_2-0" class="reference"><a href="#cite_note-CNN_Melbourne-2">&#91;2&#93;</a></sup> together with the full week from 20 to 27 September proposed for a worldwide general climate strike called the <a href="/wiki/Earth_Strike" title="Earth Strike">Earth Strike</a>. The protests are taking place across 4,500 locations in 150 countries.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> The event is a part of the <a href="/wiki/School_strike_for_climate" title="School strike for climate">school strike for climate</a> movement, inspired by Swedish climate activist <a href="/wiki/Greta_Thunberg" title="Greta Thunberg">Greta Thunberg</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
-</p><p>On 20 September, organisers reported that 1.4 million people took part in the German strikes,<sup id="cite_ref-Germany_strikers_7-0" class="reference"><a href="#cite_note-Germany_strikers-7">&#91;7&#93;</a></sup> and an estimated 300,000 protesters took part in Australian strikes.<sup id="cite_ref-abc_8-0" class="reference"><a href="#cite_note-abc-8">&#91;8&#93;</a></sup> A rally in London drew 100,000 participants, according to organisers.<sup id="cite_ref-BBC_live_9-0" class="reference"><a href="#cite_note-BBC_live-9">&#91;9&#93;</a></sup>
-</p>
-<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Protests_by_country"><span class="tocnumber">2</span> <span class="toctext">Protests by country</span></a>
-<ul>
-<li class="toclevel-2 tocsection-3"><a href="#Afghanistan"><span class="tocnumber">2.1</span> <span class="toctext">Afghanistan</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#Australia"><span class="tocnumber">2.2</span> <span class="toctext">Australia</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#Bangladesh"><span class="tocnumber">2.3</span> <span class="toctext">Bangladesh</span></a></li>
-<li class="toclevel-2 tocsection-6"><a href="#Belgium"><span class="tocnumber">2.4</span> <span class="toctext">Belgium</span></a></li>
-<li class="toclevel-2 tocsection-7"><a href="#Brazil"><span class="tocnumber">2.5</span> <span class="toctext">Brazil</span></a></li>
-<li class="toclevel-2 tocsection-8"><a href="#Burundi"><span class="tocnumber">2.6</span> <span class="toctext">Burundi</span></a></li>
-<li class="toclevel-2 tocsection-9"><a href="#Canada"><span class="tocnumber">2.7</span> <span class="toctext">Canada</span></a></li>
-<li class="toclevel-2 tocsection-10"><a href="#China"><span class="tocnumber">2.8</span> <span class="toctext">China</span></a></li>
-<li class="toclevel-2 tocsection-11"><a href="#Hong_Kong"><span class="tocnumber">2.9</span> <span class="toctext">Hong Kong</span></a></li>
-<li class="toclevel-2 tocsection-12"><a href="#Czechia"><span class="tocnumber">2.10</span> <span class="toctext">Czechia</span></a></li>
-<li class="toclevel-2 tocsection-13"><a href="#France"><span class="tocnumber">2.11</span> <span class="toctext">France</span></a></li>
-<li class="toclevel-2 tocsection-14"><a href="#Georgia"><span class="tocnumber">2.12</span> <span class="toctext">Georgia</span></a></li>
-<li class="toclevel-2 tocsection-15"><a href="#Germany"><span class="tocnumber">2.13</span> <span class="toctext">Germany</span></a></li>
-<li class="toclevel-2 tocsection-16"><a href="#Greece"><span class="tocnumber">2.14</span> <span class="toctext">Greece</span></a></li>
-<li class="toclevel-2 tocsection-17"><a href="#India"><span class="tocnumber">2.15</span> <span class="toctext">India</span></a></li>
-<li class="toclevel-2 tocsection-18"><a href="#Indonesia"><span class="tocnumber">2.16</span> <span class="toctext">Indonesia</span></a></li>
-<li class="toclevel-2 tocsection-19"><a href="#Ivory_Coast"><span class="tocnumber">2.17</span> <span class="toctext">Ivory Coast</span></a></li>
-<li class="toclevel-2 tocsection-20"><a href="#Kenya"><span class="tocnumber">2.18</span> <span class="toctext">Kenya</span></a></li>
-<li class="toclevel-2 tocsection-21"><a href="#Kiribati"><span class="tocnumber">2.19</span> <span class="toctext">Kiribati</span></a></li>
-<li class="toclevel-2 tocsection-22"><a href="#Malta"><span class="tocnumber">2.20</span> <span class="toctext">Malta</span></a></li>
-<li class="toclevel-2 tocsection-23"><a href="#Mexico"><span class="tocnumber">2.21</span> <span class="toctext">Mexico</span></a></li>
-<li class="toclevel-2 tocsection-24"><a href="#Nepal"><span class="tocnumber">2.22</span> <span class="toctext">Nepal</span></a></li>
-<li class="toclevel-2 tocsection-25"><a href="#New_Zealand"><span class="tocnumber">2.23</span> <span class="toctext">New Zealand</span></a></li>
-<li class="toclevel-2 tocsection-26"><a href="#Nigeria"><span class="tocnumber">2.24</span> <span class="toctext">Nigeria</span></a></li>
-<li class="toclevel-2 tocsection-27"><a href="#Pakistan"><span class="tocnumber">2.25</span> <span class="toctext">Pakistan</span></a></li>
-<li class="toclevel-2 tocsection-28"><a href="#Philippines"><span class="tocnumber">2.26</span> <span class="toctext">Philippines</span></a></li>
-<li class="toclevel-2 tocsection-29"><a href="#Poland"><span class="tocnumber">2.27</span> <span class="toctext">Poland</span></a></li>
-<li class="toclevel-2 tocsection-30"><a href="#Senegal"><span class="tocnumber">2.28</span> <span class="toctext">Senegal</span></a></li>
-<li class="toclevel-2 tocsection-31"><a href="#Solomon_Islands"><span class="tocnumber">2.29</span> <span class="toctext">Solomon Islands</span></a></li>
-<li class="toclevel-2 tocsection-32"><a href="#South_Africa"><span class="tocnumber">2.30</span> <span class="toctext">South Africa</span></a></li>
-<li class="toclevel-2 tocsection-33"><a href="#Tanzania"><span class="tocnumber">2.31</span> <span class="toctext">Tanzania</span></a></li>
-<li class="toclevel-2 tocsection-34"><a href="#Thailand"><span class="tocnumber">2.32</span> <span class="toctext">Thailand</span></a></li>
-<li class="toclevel-2 tocsection-35"><a href="#Turkey"><span class="tocnumber">2.33</span> <span class="toctext">Turkey</span></a></li>
-<li class="toclevel-2 tocsection-36"><a href="#Uganda"><span class="tocnumber">2.34</span> <span class="toctext">Uganda</span></a></li>
-<li class="toclevel-2 tocsection-37"><a href="#Ukraine"><span class="tocnumber">2.35</span> <span class="toctext">Ukraine</span></a></li>
-<li class="toclevel-2 tocsection-38"><a href="#United_Kingdom"><span class="tocnumber">2.36</span> <span class="toctext">United Kingdom</span></a></li>
-<li class="toclevel-2 tocsection-39"><a href="#United_States"><span class="tocnumber">2.37</span> <span class="toctext">United States</span></a>
-<ul>
-<li class="toclevel-3 tocsection-40"><a href="#Planning"><span class="tocnumber">2.37.1</span> <span class="toctext">Planning</span></a></li>
-<li class="toclevel-3 tocsection-41"><a href="#Events"><span class="tocnumber">2.37.2</span> <span class="toctext">Events</span></a></li>
-<li class="toclevel-3 tocsection-42"><a href="#Support"><span class="tocnumber">2.37.3</span> <span class="toctext">Support</span></a></li>
+    <div id="breaking-news-container" data-polling-url="https://polling.bbc.co.uk/news/latest_breaking_news?audience=International" aria-live="polite"></div>
+
+                        <div class="container-width-only">
+                            <span class="index-title index-title--redundant " id="comp-index-title" data-index-title-meta="{&quot;id&quot;:&quot;comp-index-title&quot;,&quot;type&quot;:&quot;index-title&quot;,&quot;handler&quot;:&quot;indexTitle&quot;,&quot;deviceGroups&quot;:null,&quot;opts&quot;:{&quot;alwaysVisible&quot;:false,&quot;onFrontPage&quot;:false},&quot;template&quot;:&quot;index-title&quot;}">
+        <span class="index-title__container">
+            <a href="/news/world/middle_east">Middle East</a>
+        </span>
+    </span>
+            
+<div id="bbccom_sponsor_section_1_2_3_4" class="bbccom_slot "  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('sponsor_section', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+            </div>
+            
+         <div id="page" class="configurable story " data-story-id="world-middle-east-49782693">      <div role="main"> <div class="container-width-only">       <span class="index-title index-title--redundant " id="comp-index-title" data-index-title-meta="{&quot;id&quot;:&quot;comp-index-title&quot;,&quot;type&quot;:&quot;index-title&quot;,&quot;handler&quot;:&quot;indexTitle&quot;,&quot;deviceGroups&quot;:null,&quot;opts&quot;:{&quot;alwaysVisible&quot;:false,&quot;onFrontPage&quot;:false},&quot;template&quot;:&quot;index-title&quot;}">
+        <span class="index-title__container">
+            <a href="/news/world/middle_east">Middle East</a>
+        </span>
+    </span>
+ 
+<div id="bbccom_sponsor_section_1_2_3_4" class="bbccom_slot "  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('sponsor_section', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+   </div>      <div class="container">       <div class="container--primary-and-secondary-columns column-clearfix">                         <div class="column--primary">
+                                                                            
+<div class="story-body">
+    <h1 class="story-body__h1">Saudi Arabia vows to respond to oil attacks with 'necessary measures'</h1>
+
+        <div class="with-extracted-share-icons">
+        <div class="story-body__mini-info-list-and-share">
+            <div class="story-body__mini-info-list-and-share-row">
+                <div class="mini-info-list-wrap">
+                                            <ul class="mini-info-list">
+    <li class="mini-info-list__item"><div class="date date--v2" data-seconds="1569084369" data-datetime="21 September 2019">21 September 2019</div></li>
 </ul>
-</li>
+                                    </div>
+                                    <div class="share-tools--event-tag">
+                        
+
+    <div id="comp-pattern-library-5" class="distinct-component-group container-twite">
+        
+            <ul class="sharetools">
+        <li class="twite__channel-out twite__channel-out--desktop twite__channel-out--facebook twite__channel-click-extracted--facebook twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--facebook"onclick="window.open('http://www.facebook.com/dialog/feed?app_id=58567469885&amp;redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fspecial%2Fshared%2Fvj_sharetools%2Ffb_red_uri.html&amp;link=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693%3FSThisFB&amp;display=popup', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=555,height=615').opener = null" href='#'  tabindex="-1">
+                    <span class="extracted__icon extracted__icon--facebook" data-platform="facebook">
+                    <svg class="extracted-svg ex-facebook" viewBox="-17 -13 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M5.73,17 L5.73,9.246 L8.333,9.246 L8.723,6.223 L5.73,6.223 L5.73,4.294 C5.73,3.419 5.973,2.823 7.228,2.823 L8.828,2.822 L8.828,0.119 C8.551,0.082 7.601,0 6.496,0 C4.189,0 2.609,1.408 2.609,3.995 L2.609,6.223 L0,6.223 L0,9.246 L2.609,9.246 L2.609,17 L5.73,17 Z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Share this with Facebook</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--desktop twite__channel-out--messengerdesktop twite__channel-click-extracted--messengerdesktop twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--messengerdesktop"onclick="window.open('http://www.facebook.com/dialog/send?app_id=58567469885&amp;redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fspecial%2Fshared%2Fvj_sharetools%2Ffb_red_uri.html&amp;link=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693%3FSThisFB&amp;display=popup', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=645,height=580').opener = null" href='#'  tabindex="-1">
+                    <span class="extracted__icon extracted__icon--messengerdesktop" data-platform="messengerdesktop">
+                    <svg class="extracted-svg ex-messengerdesktop" viewBox="-14 -13 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M9.84804801,11.1721834 L7.54389655,8.77893955 L3.1059828,11.2323207 L7.97153994,6.06941781 L10.2756914,8.46377529 L14.7136051,6.00928046 L9.84804801,11.1721834 Z M8.90923715,0 C3.98911093,0 0,3.73074306 0,8.33125039 C0,10.9494525 1.29183939,13.2847862 3.3097816,14.8116068 L3.3097816,18 L6.35117243,16.3139269 C7.16079936,16.5399988 8.02054074,16.6625008 8.90923715,16.6625008 C13.830477,16.6625008 17.8184743,12.9328714 17.8184743,8.33125039 C17.8184743,3.73074306 13.830477,0 8.90923715,0 L8.90923715,0 Z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Share this with Messenger</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--desktop twite__channel-out--twitter twite__channel-click-extracted--twitter twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--twitter"onclick="window.open('https://twitter.com/intent/tweet?text=BBC%20News%20-%20Saudi%20Arabia%20vows%20to%20respond%20to%20oil%20attacks%20with%20%27necessary%20measures%27&amp;url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=550,height=250').opener = null" href='#' class=shortenUrl data-social-url=https://twitter.com/intent/tweet?text=BBC+News+-+Saudi+Arabia+vows+to+respond+to+oil+attacks+with+%27necessary+measures%27&amp;amp;url= data-target-url=https://www.bbc.com/news/world-middle-east-49782693 tabindex="-1">
+                    <span class="extracted__icon extracted__icon--twitter" data-platform="twitter">
+                    <svg class="extracted-svg ex-twitter" viewBox="-13 -15 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M5.80573373,15 C12.7721527,15 16.581877,9.22887915 16.581877,4.22385671 C16.581877,4.06002242 16.581877,3.89618812 16.5714931,3.73466135 C17.3122088,3.19816171 17.9525471,2.53359441 18.4602026,1.77326482 C17.7690988,2.08016568 17.0364595,2.28092039 16.28536,2.36976011 C17.0756874,1.89671742 17.6675677,1.15138674 17.9502395,0.274527115 C17.2072164,0.715264453 16.3938137,1.02678037 15.5457981,1.19407596 C14.1105174,-0.331198284 11.7118448,-0.405039095 10.1865706,1.0290879 C9.20241101,1.95440555 8.78590269,3.33315194 9.09049603,4.64844138 C6.04571636,4.4961447 3.20861397,3.05740266 1.28529161,0.691035437 C0.280364327,2.42167943 0.793788713,4.63574999 2.45751448,5.74682343 C1.85525036,5.72951699 1.26567764,5.56683646 0.738408105,5.27262698 L0.738408105,5.32108501 C0.739561868,7.12441605 2.00985456,8.67622684 3.77741896,9.03389326 C3.2201516,9.18618993 2.63519393,9.20811142 2.06754269,9.09850397 C2.56366064,10.6410847 3.98509624,11.6979313 5.60613279,11.7290828 C4.26430681,12.7824682 2.60750362,13.3547344 0.902242404,13.3535807 C0.601110348,13.3524269 0.299978293,13.3339667 7.10542736e-15,13.2982001 C1.73295152,14.4104273 3.74742113,15 5.80573373,14.9965387"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Share this with Twitter</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--desktop twite__channel-out--email twite__channel-click-extracted--email twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--email"href='mailto:?subject=Shared%20from%20BBC%20News&amp;body=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693'  tabindex="-1">
+                    <span class="extracted__icon extracted__icon--email" data-platform="email">
+                    <svg class="extracted-svg ex-email" viewBox="-7 1 27 9" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M11,4.9V9H2V2.1l4.6,5L13.1,0H0.2H0v11h13V2.8L11,4.9z M10.2,2L6.7,5.8L3.2,2H10.2z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Share this with Email</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--mobile twite__channel-out--facebook twite__channel-click-extracted--facebook twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--facebook"onclick="window.open('http://www.facebook.com/dialog/feed?app_id=58567469885&amp;redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fspecial%2Fshared%2Fvj_sharetools%2Ffb_red_uri.html&amp;link=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693%3FSThisFB&amp;display=popup', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=555,height=615').opener = null" href='#'  tabindex="-1">
+                    <span class="extracted__icon extracted__icon--facebook" data-platform="facebook">
+                    <svg class="extracted-svg ex-facebook" viewBox="-17 -13 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M5.73,17 L5.73,9.246 L8.333,9.246 L8.723,6.223 L5.73,6.223 L5.73,4.294 C5.73,3.419 5.973,2.823 7.228,2.823 L8.828,2.822 L8.828,0.119 C8.551,0.082 7.601,0 6.496,0 C4.189,0 2.609,1.408 2.609,3.995 L2.609,6.223 L0,6.223 L0,9.246 L2.609,9.246 L2.609,17 L5.73,17 Z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Share this with Facebook</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--mobile twite__channel-out--whatsapp twite__channel-click-extracted--whatsapp twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--whatsapp"onclick="window.open('whatsapp://send?text=BBC%20News%20%7C%20Saudi%20Arabia%20vows%20to%20respond%20to%20oil%20attacks%20with%20%27necessary%20measures%27%20-%20https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693%3Focid%3Dwsnews.chat-apps.in-app-msg.whatsapp.trial.link1_.auin', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=600,height=600').opener = null" href='#'  tabindex="-1">
+                    <span class="extracted__icon extracted__icon--whatsapp" data-platform="whatsapp">
+                    <svg class="extracted-svg ex-whatsapp" viewBox="-11 -11 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M0.6 19.4L1.9 14.7C1 13.3 0.6 11.7 0.6 10 0.6 4.8 4.8 0.5 10 0.5 15.2 0.5 19.4 4.8 19.4 10 19.4 15.2 15.2 19.4 10 19.4 8.4 19.4 6.8 19 5.4 18.2L0.6 19.4ZM5.6 16.5L5.9 16.7C7.2 17.4 8.6 17.8 10 17.8 14.3 17.8 17.8 14.3 17.8 10 17.8 5.7 14.3 2.1 10 2.1 5.7 2.1 2.2 5.7 2.2 10 2.2 11.5 2.6 12.9 3.4 14.2L3.6 14.5 2.8 17.2 5.6 16.5Z M7.4 5.6L6.7 5.5C6.6 5.5 6.4 5.6 6.2 5.7 5.9 6 5.5 6.5 5.3 7.1 5.1 8.1 5.4 9.3 6.3 10.5 7.2 11.6 8.8 13.5 11.6 14.4 12.6 14.6 13.3 14.4 13.8 14.1 14.3 13.8 14.6 13.3 14.7 12.8L14.8 12.4C14.8 12.2 14.8 12.1 14.6 12L12.6 11.1C12.4 11 12.3 11 12.2 11.2L11.4 12.2C11.3 12.3 11.2 12.3 11.1 12.3 10.5 12.1 8.7 11.3 7.7 9.3 7.6 9.3 7.6 9.2 7.7 9.1L8.5 8.2C8.5 8.1 8.6 8 8.5 7.9L7.6 5.8C7.6 5.7 7.5 5.6 7.4 5.6Z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Share this with WhatsApp</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--mobile twite__channel-out--messengermobile twite__channel-click-extracted--messengermobile twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--messengermobile"href='fb-messenger://share?app_id=58567469885&amp;redirect_uri=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693&amp;link=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693%3FCMP%3Dshare_btn_me' target=_blank rel=noopener tabindex="-1">
+                    <span class="extracted__icon extracted__icon--messengermobile" data-platform="messengermobile">
+                    <svg class="extracted-svg ex-messengermobile" viewBox="-14 -13 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M9.84804801,11.1721834 L7.54389655,8.77893955 L3.1059828,11.2323207 L7.97153994,6.06941781 L10.2756914,8.46377529 L14.7136051,6.00928046 L9.84804801,11.1721834 Z M8.90923715,0 C3.98911093,0 0,3.73074306 0,8.33125039 C0,10.9494525 1.29183939,13.2847862 3.3097816,14.8116068 L3.3097816,18 L6.35117243,16.3139269 C7.16079936,16.5399988 8.02054074,16.6625008 8.90923715,16.6625008 C13.830477,16.6625008 17.8184743,12.9328714 17.8184743,8.33125039 C17.8184743,3.73074306 13.830477,0 8.90923715,0 L8.90923715,0 Z"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Share this with Messenger</span>
+            </a>
+        </li>
+        <li class="twite__channel-out twite__channel-out--mobile twite__channel-out--twitter twite__channel-click-extracted--twitter twite__list-elements" aria-hidden="true">
+            <a class="extracted__channel-link extracted__channel-link--twitter"onclick="window.open('https://twitter.com/intent/tweet?text=BBC%20News%20-%20Saudi%20Arabia%20vows%20to%20respond%20to%20oil%20attacks%20with%20%27necessary%20measures%27&amp;url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=550,height=250').opener = null" href='#' class=shortenUrl data-social-url=https://twitter.com/intent/tweet?text=BBC+News+-+Saudi+Arabia+vows+to+respond+to+oil+attacks+with+%27necessary+measures%27&amp;amp;url= data-target-url=https://www.bbc.com/news/world-middle-east-49782693 tabindex="-1">
+                    <span class="extracted__icon extracted__icon--twitter" data-platform="twitter">
+                    <svg class="extracted-svg ex-twitter" viewBox="-13 -15 44 44" enable-background="new 0 0 44 44" width="44px" height="44px" aria-hidden="true" focusable="false">
+                    <g><path d="M5.80573373,15 C12.7721527,15 16.581877,9.22887915 16.581877,4.22385671 C16.581877,4.06002242 16.581877,3.89618812 16.5714931,3.73466135 C17.3122088,3.19816171 17.9525471,2.53359441 18.4602026,1.77326482 C17.7690988,2.08016568 17.0364595,2.28092039 16.28536,2.36976011 C17.0756874,1.89671742 17.6675677,1.15138674 17.9502395,0.274527115 C17.2072164,0.715264453 16.3938137,1.02678037 15.5457981,1.19407596 C14.1105174,-0.331198284 11.7118448,-0.405039095 10.1865706,1.0290879 C9.20241101,1.95440555 8.78590269,3.33315194 9.09049603,4.64844138 C6.04571636,4.4961447 3.20861397,3.05740266 1.28529161,0.691035437 C0.280364327,2.42167943 0.793788713,4.63574999 2.45751448,5.74682343 C1.85525036,5.72951699 1.26567764,5.56683646 0.738408105,5.27262698 L0.738408105,5.32108501 C0.739561868,7.12441605 2.00985456,8.67622684 3.77741896,9.03389326 C3.2201516,9.18618993 2.63519393,9.20811142 2.06754269,9.09850397 C2.56366064,10.6410847 3.98509624,11.6979313 5.60613279,11.7290828 C4.26430681,12.7824682 2.60750362,13.3547344 0.902242404,13.3535807 C0.601110348,13.3524269 0.299978293,13.3339667 7.10542736e-15,13.2982001 C1.73295152,14.4104273 3.74742113,15 5.80573373,14.9965387"/></g>
+                        </svg>
+                    </span>
+                <span class="off-screen">Share this with Twitter</span>
+            </a>
+        </li>
+    <li class="twite twite__list-elements">
+        <a href="#share-tools" class="twite__share-button" aria-label="Open share panel" data-origin="page" aria-expanded="false" aria-haspopup="true">
+            <svg class="twite__share-icon" width="17px" aria-hidden="true" focusable="false" viewBox="0 0 29.266 32"><path d="M5.473 22.153c1.586 0 3.01-.684 4.012-1.762l9 4.845c-.102.412-.16.85-.16 1.297 0 3.02 2.452 5.468 5.472 5.468 3.017 0 5.47-2.446 5.47-5.468 0-3.023-2.453-5.47-5.47-5.47-1.587 0-3.02.68-4.015 1.757l-9.457-5.175-.074-2.792 9.74-5.456c.99.953 2.327 1.543 3.807 1.543 3.017 0 5.47-2.45 5.47-5.474 0-3.022-2.453-5.467-5.47-5.467-3.02 0-5.473 2.444-5.473 5.466 0 .554.08 1.09.243 1.597L9.27 12.75c-.988-.95-2.326-1.537-3.797-1.537C2.447 11.213 0 13.657 0 16.68c0 3.03 2.447 5.473 5.473 5.473"/></svg><span class="twite__share-text">Share</span>
+        </a>
+        <div class="twite__panel arrow-top" data-share-uri="">
+            <p class="twite__title" aria-hidden="true">Share this with</p>
+            <span class="off-screen">These are external links and will open in a new window</span>
+            <ul class="twite__channels">
+                    <li class="twite__channel twite__channel--email twite__channel-click--email">
+                        <a class="twite__channel-link"href='mailto:?subject=Shared%20from%20BBC%20News&amp;body=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693' >
+                            <span class="twite__icon twite__icon--email" data-platform="email"></span>
+                            <p class="twite__channel-text" aria-hidden="true">Email</p>
+                            <span class="off-screen">Share this with Email</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--facebook twite__channel-click--facebook">
+                        <a class="twite__channel-link"onclick="window.open('http://www.facebook.com/dialog/feed?app_id=58567469885&amp;redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fspecial%2Fshared%2Fvj_sharetools%2Ffb_red_uri.html&amp;link=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693%3FSThisFB&amp;display=popup', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=555,height=615').opener = null" href='#' >
+                            <span class="twite__icon twite__icon--facebook" data-platform="facebook"></span>
+                            <p class="twite__channel-text" aria-hidden="true">Facebook</p>
+                            <span class="off-screen">Share this with Facebook</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--messengerdesktop twite__channel-click--messengerdesktop">
+                        <a class="twite__channel-link"onclick="window.open('http://www.facebook.com/dialog/send?app_id=58567469885&amp;redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fspecial%2Fshared%2Fvj_sharetools%2Ffb_red_uri.html&amp;link=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693%3FSThisFB&amp;display=popup', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=645,height=580').opener = null" href='#' >
+                            <span class="twite__icon twite__icon--messengerdesktop" data-platform="messengerdesktop"></span>
+                            <p class="twite__channel-text" aria-hidden="true">Messenger</p>
+                            <span class="off-screen">Share this with Messenger</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--messengermobile twite__channel-click--messengermobile">
+                        <a class="twite__channel-link"href='fb-messenger://share?app_id=58567469885&amp;redirect_uri=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693&amp;link=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693%3FCMP%3Dshare_btn_me' target=_blank rel=noopener>
+                            <span class="twite__icon twite__icon--messengermobile" data-platform="messengermobile"></span>
+                            <p class="twite__channel-text" aria-hidden="true">Messenger</p>
+                            <span class="off-screen">Share this with Messenger</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--twitter twite__channel-click--twitter">
+                        <a class="twite__channel-link"onclick="window.open('https://twitter.com/intent/tweet?text=BBC%20News%20-%20Saudi%20Arabia%20vows%20to%20respond%20to%20oil%20attacks%20with%20%27necessary%20measures%27&amp;url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=550,height=250').opener = null" href='#' class=shortenUrl data-social-url=https://twitter.com/intent/tweet?text=BBC+News+-+Saudi+Arabia+vows+to+respond+to+oil+attacks+with+%27necessary+measures%27&amp;amp;url= data-target-url=https://www.bbc.com/news/world-middle-east-49782693>
+                            <span class="twite__icon twite__icon--twitter" data-platform="twitter"></span>
+                            <p class="twite__channel-text" aria-hidden="true">Twitter</p>
+                            <span class="off-screen">Share this with Twitter</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--pinterest twite__channel-click--pinterest">
+                        <a class="twite__channel-link"onclick="window.open('https://uk.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693&amp;description=The%20kingdom%20says%20it%20will%20take%20%22necessary%20measures%22%20as%20it%20reiterates%20that%20Iran%20is%20to%20blame.&amp;title=Saudi%20Arabia%20vows%20to%20respond%20to%20oil%20attacks%20with%20%27necessary%20measures%27&amp;media=https%3A%2F%2Fc.files.bbci.co.uk%2F9EF1%2Fproduction%2F_108898604_saudi.jpg', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=750,height=675').opener = null" href='#' >
+                            <span class="twite__icon twite__icon--pinterest" data-platform="pinterest"></span>
+                            <p class="twite__channel-text" aria-hidden="true">Pinterest</p>
+                            <span class="off-screen">Share this with Pinterest</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--whatsapp twite__channel-click--whatsapp">
+                        <a class="twite__channel-link"onclick="window.open('whatsapp://send?text=BBC%20News%20%7C%20Saudi%20Arabia%20vows%20to%20respond%20to%20oil%20attacks%20with%20%27necessary%20measures%27%20-%20https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693%3Focid%3Dwsnews.chat-apps.in-app-msg.whatsapp.trial.link1_.auin', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=600,height=600').opener = null" href='#' >
+                            <span class="twite__icon twite__icon--whatsapp" data-platform="whatsapp"></span>
+                            <p class="twite__channel-text" aria-hidden="true">WhatsApp</p>
+                            <span class="off-screen">Share this with WhatsApp</span>
+                        </a>
+                    </li>
+                    <li class="twite__channel twite__channel--linkedin twite__channel-click--linkedin">
+                        <a class="twite__channel-link"onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693&amp;title=Saudi%20Arabia%20vows%20to%20respond%20to%20oil%20attacks%20with%20%27necessary%20measures%27&amp;summary=The%20kingdom%20says%20it%20will%20take%20%22necessary%20measures%22%20as%20it%20reiterates%20that%20Iran%20is%20to%20blame.&amp;source=BBC', '_blank', 'toolbar=no,scrollbars=yes,resizable=no,fullscreen=no,top=50,left=50,width=550,height=500').opener = null" href='#' >
+                            <span class="twite__icon twite__icon--linkedin" data-platform="linkedin"></span>
+                            <p class="twite__channel-text" aria-hidden="true">LinkedIn</p>
+                            <span class="off-screen">Share this with LinkedIn</span>
+                        </a>
+                    </li>
+            </ul>
+            <p class="twite__copy-text">Copy this link</p>
+            <div class="twite__copy-input">
+                <a class="twite__share-link" href="https://www.bbc.com/news/world-middle-east-49782693" tabindex="-1" contenteditable="true">https://www.bbc.com/news/world-middle-east-49782693</a>
+            </div>
+            <a class="twite__read-more" href="https://www.bbc.co.uk/faqs/questions/bbc_online/sharing">Read more about sharing.</a>
+            <p class="twite__new-window" aria-hidden="true">These are external links and will open in a new window</p>
+            <button class="twite__close-button">
+                <span class="off-screen">Close share panel</span>
+                <div class="twite__close-button-graphic" aria-hidden="true"></div>
+            </button>
+        </div>
+    </li>
 </ul>
-</li>
-<li class="toclevel-1 tocsection-43"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-44"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-45"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
-</ul>
+
+        
+    </div>
+
+                    </div>
+                            </div>
+            <div id="topic-tags"><div id="u66452962858602405"><div class="tags-container"><span class="off-screen">Related Topics</span><ul class="tags-list"><li class="tags-list__tags" data-entityid="topic_link_top"><a href="/news/topics/cjgn73rz67dt/gulf-crisis">Gulf crisis</a></li></ul></div></div></div>        </div>
+    </div>
+
+    <div class="story-body__inner" property="articleBody">
+        <figure class="media-with-caption">
+    <div class="player-with-placeholder">
+            <div class="player-with-placeholder__caption">Media playback is unsupported on your device</div>
+      <div class="player-with-placeholder">
+        <div class="media-player-wrapper">
+          <figure class="js-media-player-unprocessed media-player" data-playable='{"settings":{"counterName":"news.world.middle_east.story.49782693.page","edition":"International","pageType":"eav2","uniqueID":"49782693","ui":{"locale":{"lang":"en-gb"}},"externalEmbedUrl":"https://www.bbc.com/news/av/embed/p07nzn10/49782693","insideIframe":false,"statsObject":{"clipPID":"p07nzn0w"},"playlistObject":{"title":"Frank Gardner has a look at the damage, in an area normally closed off from journalists.","holdingImageURL":"https://ichef.bbci.co.uk/images/ic/$recipe/p07nzpjf.jpg","guidance":"","embedRights":"allowed","summary":"Frank Gardner has a look at the damage, in an area normally closed off from journalists.","liveRewind":false,"simulcast":false,"items":[{"vpid":"p07nzn10","live":false,"duration":122,"kind":"programme"}]}},"otherSettings":{"advertisingAllowed":true,"continuousPlayCfg":{"enabled":false},"isAutoplayOnForAudience":false}}'></figure>
+        </div>
+      </div>
+    </div>    <figcaption class="media-with-caption__caption"><span class="off-screen">Media caption</span>The BBC's Frank Gardner has been given access to the damaged facility in Saudi Arabia</figcaption>
+</figure><p class="story-body__introduction">Saudi Arabia says it will respond with "necessary measures" to attacks on two oil facilities as it reiterated the accusation that Iran was behind them.</p><p>Minister of State for Foreign Affairs Adel al-Jubeir said the weapons used were Iranian and vowed to release the full findings of the investigation.</p><p>Iran denies involvement in the attacks.</p><p>Earlier, a senior Iranian military official said Iran was ready to destroy any aggressor after the US announced it was sending troops to Saudi Arabia.</p><p>Iranian-backed Houthi rebels in Yemen have said they were responsible for the drone and missile strikes on 14 September that affected the global oil supply.</p><div id="bbccom_mpu_1_2_3" class="bbccom_slot mpu-ad" aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /**/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [1,2,3]);
+                }
+            })();
+            /**/
+        </script>
+    </div>
+</div><p>Tensions between the US and Iran have escalated since US President Donald Trump abandoned a deal limiting Iran's nuclear activities last year and reinstated sanctions.</p><h2 class="story-body__crosshead">Saudi Arabia: 'Take a stand'</h2><p>Speaking to reporters in Riyadh, Mr Jubeir said Saudi Arabia was in consultation with its allies and would take necessary and suitable measures after its investigation was complete, without giving details of possible actions. </p><p>He repeated that the strikes targeting the Abqaiq oil facility and the Khurais oil field had come from the north and not from Yemen but did not give a specific location, and urged the international community to take a stand.</p><ul class="story-body__unordered-list">
+<li class="story-body__list-item"><a href="https://www.bbc.co.uk/news/world-middle-east-49756092" class="story-body__link">What are Trump's options on Iran?</a></li>
+<li class="story-body__list-item"><a href="https://www.bbc.co.uk/news/world-middle-east-49760200" class="story-body__link">Why would Iran attack Saudi Arabia?</a></li>
+<li class="story-body__list-item"><a href="https://www.bbc.co.uk/news/world-middle-east-49775849#" class="story-body__link">BBC reporter at attacked site: 'They knew what they were doing'</a></li>
+</ul><p>"The kingdom calls upon the international community to assume its responsibility in condemning those that stand behind this act, and to take a firm and clear position against this reckless behaviour that threatens the global economy," he said.</p><p>The Saudi defence ministry showed off on Wednesday what it said were the remains of drones and cruise missiles proving Iranian involvement.</p><figure class="media-with-caption">
+    <div class="player-with-placeholder">
+            <img class="media-placeholder player-with-placeholder__image narrative-video-placeholder" src="https://ichef.bbci.co.uk/images/ic/720x405/p07npjz0.jpg">
+            <div class="player-with-placeholder__caption">Media playback is unsupported on your device</div>
+      <div class="player-with-placeholder">
+        <div class="media-player-wrapper">
+          <figure class="js-media-player-unprocessed media-player" data-playable='{"settings":{"counterName":"news.world.middle_east.story.49782693.page","edition":"International","pageType":"eav2","uniqueID":"49782693","ui":{"locale":{"lang":"en-gb"}},"externalEmbedUrl":"https://www.bbc.com/news/av/embed/p07np6g1/49782693","insideIframe":false,"statsObject":{"clipPID":"p07np6fy"},"playlistObject":{"title":"Saudi Arabia says the direction of the strikes showed the missiles could not have come from Yemen","holdingImageURL":"https://ichef.bbci.co.uk/images/ic/$recipe/p07npjz0.jpg","guidance":"","embedRights":"allowed","summary":"Saudi Arabia says the direction of the strikes showed the missiles could not have come from Yemen","liveRewind":false,"simulcast":false,"items":[{"vpid":"p07np6g1","live":false,"duration":69,"kind":"programme"}]}},"otherSettings":{"advertisingAllowed":true,"continuousPlayCfg":{"enabled":false},"isAutoplayOnForAudience":false}}'></figure>
+        </div>
+      </div>
+    </div>    <figcaption class="media-with-caption__caption"><span class="off-screen">Media caption</span>Saudi Arabia says the direction of the strikes showed the missiles could not have come from Yemen</figcaption>
+</figure><p>The US has also accused Iran of being behind the attacks, and unnamed senior officials have told US media that the evidence suggests the strikes originated in the south of Iran.</p><p>On Friday, Secretary of Defence Mark Esper said <a href="https://www.bbc.co.uk/news/world-us-canada-49777672" class="story-body__link">the US would send a yet-to-be-decided number of troops to Saudi Arabia</a> to boost the country's air and missile defences.</p><p>President Trump then announced new sanctions against Iran, focusing on the country's central bank and its sovereign wealth fund, while signalling that he wanted to avoid military conflict.</p><figure class="media-landscape no-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Presentational grey line" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/1226D/production/_105894347_grey_line-nc.png" data-width="640" data-height="2"></div>
+                
+                
+            </span>
+            
+        </figure><h2 class="story-body__crosshead">Customary condemnation</h2><figure class="media-landscape no-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Analysis box by Frank Gardner, security correspondent" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/129D3/production/_107934267_frankgardner-nc.png" data-width="1706" data-height="340"></div>
+                
+                
+            </span>
+            
+        </figure><p>The news conference in the glittering halls of Saudi Arabia's foreign ministry was fairly predictable in its customary condemnation of Iran.</p><p>The Islamic Republic, said the eloquent and softly-spoken minister of state for foreign affairs, was to blame for all the mischief-making in the region, including more than 260 ballistic missile attacks on Saudi Arabia by Iran's Yemeni allies, the Houthis.</p><p>He appeared to fully endorse President Donald Trump's controversial policy of maximum pressure on Iran's leaders. </p><p>Adel al-Jubeir made no mention of his country's bombing campaign in Yemen that, after more than four years, has failed to dislodge the Houthi rebels. Instead, he made it clear that now, in its hour of need, Saudi Arabia needed the support of its western allies more than ever, especially the US and Britain. </p><figure class="media-landscape no-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Presentational grey line" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/1226D/production/_105894347_grey_line-nc.png" data-width="640" data-height="2"></div>
+                
+                
+            </span>
+            
+        </figure><h2 class="story-body__crosshead">Iran: 'We'll pursue any aggressor'</h2><p>Earlier, the head of Iran's Revolutionary Guard in Iran, Maj Gen Hossein Salami, warned that the country's "readiness to respond to any aggression is definitive".</p><p><a href="https://www.bbc.co.uk/news/world-middle-east-49781350" class="story-body__link">"Be careful, a limited aggression won't remain limited.</a> We'll pursue any aggressor," he said at the opening of an exhibition of captured drones in the capital, Tehran. "We'll continue until the full destruction of any aggressor."</p><ul class="story-body__unordered-list">
+<li class="story-body__list-item"><a href="https://www.bbc.co.uk/news/world-middle-east-42008809" class="story-body__link">Why Saudi Arabia and Iran are bitter rivals</a></li>
+<li class="story-body__list-item"><a href="https://www.bbc.co.uk/news/world-middle-east-49718828" class="story-body__link">Who's using armed drones in the Middle East? </a></li>
+</ul><p>Speaking at the same event, the head of the Guards' aerospace branch, Brig Gen Amirali Hajizadeh, said the US ought to learn from its past failures and that any attack on Iran would receive "a crushing response".</p><p>Iran's Revolutionary Guard Corps (IRGC) are an elite branch of Iran's military and have been designated a terrorist organisation by the US.</p><h2 class="story-body__crosshead">The background you need</h2><p>The Houthis have repeatedly launched rockets, missiles and drones at populated areas in Saudi Arabia. They are in conflict with a Saudi-led coalition which backs a president who the rebels had forced to flee when the Yemeni conflict escalated in March 2015.</p><p>Iran, the regional rival of Saudi Arabia, is an opponent of the US, and tensions between the two have risen markedly this year. The US said Iran was behind attacks on two oil tankers in the Gulf in June and July, as well as on another four in May - accusations rejected by Tehran.</p><figure class="media-landscape no-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Map showing who supports whom" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/028C/production/_98825600_03_who_supports_who_640-nc.png" data-width="640" data-height="640"></div>
+                
+                
+            </span>
+            
+        </figure><figure class="media-landscape no-caption full-width">
+            <span class="image-and-copyright-container">
+                
+                
+                <div class="js-delayed-image-load" data-alt="Presentational white space" data-src="https://ichef.bbci.co.uk/news/320/cpsprodpb/604B/production/_97415642_007_in_numbers_624.png" data-width="624" data-height="1"></div>
+                
+                
+            </span>
+            
+        </figure>
+            </div>
+</div>
+                                                                                            <div id="topic-tags"><div id="u2590925171971321"><div class="tags-container"><h2 class="tags-title story-body__crosshead">Related Topics</h2><ul class="tags-list"><li class="tags-list__tags" data-entityid="topic_link_bottom"><a href="/news/topics/cjnwl8q4ggwt/iran">Iran</a></li><li class="tags-list__tags" data-entityid="topic_link_bottom"><a href="/news/topics/cx1m7zg01xyt/united-states">United States</a></li><li class="tags-list__tags" data-entityid="topic_link_bottom"><a href="/news/topics/cjgn73rz67dt/gulf-crisis">Gulf crisis</a></li><li class="tags-list__tags" data-entityid="topic_link_bottom"><a href="/news/topics/cv3nj70d4mqt/iran-us-relations">Iran-US relations</a></li><li class="tags-list__tags" data-entityid="topic_link_bottom"><a href="/news/topics/cwlw3xz0zl4t/saudi-arabia">Saudi Arabia</a></li></ul></div></div></div>
+                                                                                                <div class="share share--lightweight  show ghost-column">
+            <div id="share-tools"></div>
+            <h2 class="share__title share__title--lightweight">
+        Share this story        <a href="http://www.bbc.co.uk/help/web/sharing.shtml">About&nbsp;sharing</a>
+    </h2>
+        <ul class="share__tools share__tools--lightweight">
+                            <li class="share__tool share__tool--email">
+        <a href="mailto:?subject=Shared%20from%20BBC%20News&body=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693" >
+            <span>Email</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--facebook">
+        <a href="http://www.facebook.com/dialog/feed?app_id=58567469885&redirect_uri=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693&link=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693%3FSThisFB&display=popup" >
+            <span>Facebook</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--messengerdesktop">
+        <a href="http://www.facebook.com/dialog/send?app_id=58567469885&redirect_uri=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693&link=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693%3FSThisFB&display=popup" >
+            <span>Messenger</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--messengermobile">
+        <a href="fb-messenger://share?app_id=58567469885&redirect_uri=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693&link=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693%3FCMP%3Dshare_btn_me" target=_blank rel=noopener>
+            <span>Messenger</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--twitter">
+        <a href="https://twitter.com/intent/tweet?text=BBC%20News%20-%20Saudi%20Arabia%20vows%20to%20respond%20to%20oil%20attacks%20with%20%27necessary%20measures%27&url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693" class=shortenUrl data-social-url=https://twitter.com/intent/tweet?text=BBC+News+-+Saudi+Arabia+vows+to+respond+to+oil+attacks+with+%27necessary+measures%27&amp;url= data-target-url=https://www.bbc.com/news/world-middle-east-49782693>
+            <span>Twitter</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--pinterest">
+        <a href="https://uk.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693&description=The%20kingdom%20says%20it%20will%20take%20%22necessary%20measures%22%20as%20it%20reiterates%20that%20Iran%20is%20to%20blame.&title=Saudi%20Arabia%20vows%20to%20respond%20to%20oil%20attacks%20with%20%27necessary%20measures%27&media=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fspecial%2F2015%2Fnewsspec_10857%2Fbbc_news_logo.png%3Fcb%3D1" >
+            <span>Pinterest</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--whatsapp">
+        <a href="whatsapp://send?text=BBC%20News%20%7C%20Saudi%20Arabia%20vows%20to%20respond%20to%20oil%20attacks%20with%20%27necessary%20measures%27%20-%20https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693%3Focid%3Dwsnews.chat-apps.in-app-msg.whatsapp.trial.link1_.auin" >
+            <span>WhatsApp</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--linkedin">
+        <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-middle-east-49782693&title=Saudi%20Arabia%20vows%20to%20respond%20to%20oil%20attacks%20with%20%27necessary%20measures%27&summary=The%20kingdom%20says%20it%20will%20take%20%22necessary%20measures%22%20as%20it%20reiterates%20that%20Iran%20is%20to%20blame.&source=BBC" >
+            <span>LinkedIn</span>
+        </a>
+    </li>
+            </ul>
 </div>
 
-<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="thumb tright"><div class="thumbinner" style="width:222px;"><div id="mwe_player_0" class="PopUpMediaTransform" style="width:220px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;width:854px&quot;&gt;&lt;video id=&quot;mwe_player_1&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm/854px--I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:854px;height:480px&quot; class=&quot;kskin&quot; data-durationhint=&quot;60.141&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;I_Strike_Because..._(a_call_to_join_the_Global_Climate_Strike_on_20_September_2019).webm&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm.480p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;SD VP9 (480P)&quot; data-shorttitle=&quot;VP9 480P&quot; data-transcodekey=&quot;480p.vp9.webm&quot; data-width=&quot;854&quot; data-height=&quot;480&quot; data-bandwidth=&quot;923400&quot; data-framerate=&quot;23.976&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm.480p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;SD WebM (480P)&quot; data-shorttitle=&quot;WebM 480P&quot; data-transcodekey=&quot;480p.webm&quot; data-width=&quot;854&quot; data-height=&quot;480&quot; data-bandwidth=&quot;1037096&quot; data-framerate=&quot;23.976&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm.720p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;HD VP9 (720P)&quot; data-shorttitle=&quot;VP9 720P&quot; data-transcodekey=&quot;720p.vp9.webm&quot; data-width=&quot;1280&quot; data-height=&quot;720&quot; data-bandwidth=&quot;1555904&quot; data-framerate=&quot;23.976&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm.720p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;HD WebM (720P)&quot; data-shorttitle=&quot;WebM 720P&quot; data-transcodekey=&quot;720p.webm&quot; data-width=&quot;1280&quot; data-height=&quot;720&quot; data-bandwidth=&quot;1981176&quot; data-framerate=&quot;23.976&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm.1080p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Full HD VP9 (1080P)&quot; data-shorttitle=&quot;VP9 1080P&quot; data-transcodekey=&quot;1080p.vp9.webm&quot; data-width=&quot;1920&quot; data-height=&quot;1080&quot; data-bandwidth=&quot;2502200&quot; data-framerate=&quot;23.976&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Original WebM file, 1,920 × 1,080 (2.88 Mbps)&quot; data-shorttitle=&quot;WebM source&quot; data-width=&quot;1920&quot; data-height=&quot;1080&quot; data-bandwidth=&quot;2882174&quot; data-framerate=&quot;23.976&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm.1080p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Full HD WebM (1080P)&quot; data-shorttitle=&quot;WebM 1080P&quot; data-transcodekey=&quot;1080p.webm&quot; data-width=&quot;1920&quot; data-height=&quot;1080&quot; data-bandwidth=&quot;3876456&quot; data-framerate=&quot;23.976&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm.120p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Lowest bandwidth VP9 (120P)&quot; data-shorttitle=&quot;VP9 120P&quot; data-transcodekey=&quot;120p.vp9.webm&quot; data-width=&quot;214&quot; data-height=&quot;120&quot; data-bandwidth=&quot;205376&quot; data-framerate=&quot;23.976&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm.160p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Low bandwidth WebM (160P)&quot; data-shorttitle=&quot;WebM 160P&quot; data-transcodekey=&quot;160p.webm&quot; data-width=&quot;284&quot; data-height=&quot;160&quot; data-bandwidth=&quot;219656&quot; data-framerate=&quot;23.976&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm.180p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Low bandwidth VP9 (180P)&quot; data-shorttitle=&quot;VP9 180P&quot; data-transcodekey=&quot;180p.vp9.webm&quot; data-width=&quot;320&quot; data-height=&quot;180&quot; data-bandwidth=&quot;271072&quot; data-framerate=&quot;23.976&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm.240p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Small WebM (240P)&quot; data-shorttitle=&quot;WebM 240P&quot; data-transcodekey=&quot;240p.webm&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;317472&quot; data-framerate=&quot;23.976&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm.240p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Small VP9 (240P)&quot; data-shorttitle=&quot;VP9 240P&quot; data-transcodekey=&quot;240p.vp9.webm&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;352096&quot; data-framerate=&quot;23.976&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm.360p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM (360P)&quot; data-shorttitle=&quot;WebM 360P&quot; data-transcodekey=&quot;360p.webm&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;554664&quot; data-framerate=&quot;23.976&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm.360p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;VP9 (360P)&quot; data-shorttitle=&quot;VP9 360P&quot; data-transcodekey=&quot;360p.vp9.webm&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;582704&quot; data-framerate=&quot;23.976&quot;/&gt;&lt;track src=&quot;https://commons.wikimedia.org/w/api.php?action=timedtext&amp;amp;title=File%3AI_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm&amp;amp;lang=en&amp;amp;trackformat=srt&amp;amp;origin=%2A&quot; kind=&quot;subtitles&quot; type=&quot;text/x-srt&quot; srclang=&quot;en&quot; label=&quot;English (en) subtitles&quot; data-dir=&quot;ltr&quot;/&gt;&lt;/video&gt;&lt;/div&gt;"><img alt="File:I Strike Because... (a call to join the Global Climate Strike on 20 September 2019).webm" style="width:220px;height:124px" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm/220px--I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/3/3d/I_Strike_Because..._%28a_call_to_join_the_Global_Climate_Strike_on_20_September_2019%29.webm" title="Play media" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:I_Strike_Because..._(a_call_to_join_the_Global_Climate_Strike_on_20_September_2019).webm" class="internal" title="Enlarge"></a></div>A call to join the global climate strike on 20 September 2019</div></div></div>
-<p>The strike is the third global strike of the <a href="/wiki/School_strike_for_climate" title="School strike for climate">school strike for climate</a> movement. The first strike in March 2019 had 1.6 million participants from over 125 countries.<sup id="cite_ref-CNN_Melbourne_2-1" class="reference"><a href="#cite_note-CNN_Melbourne-2">&#91;2&#93;</a></sup><sup id="cite_ref-BBC_strike_2_10-0" class="reference"><a href="#cite_note-BBC_strike_2-10">&#91;10&#93;</a></sup> The second in May 2019 was timed to coincide with the <a href="/wiki/2019_European_Parliament_election" title="2019 European Parliament election">2019 European Parliament election</a>, consisting of over 1,600 events in 125 countries.<sup id="cite_ref-BBC_strike_2_10-1" class="reference"><a href="#cite_note-BBC_strike_2-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> The third set of global strikes are scheduled primarily for 20 and 27 September. They are timed to occur around the <a href="/wiki/United_Nations" title="United Nations">UN</a> Youth Climate Summit (21 September) and the <a href="/wiki/2019_UN_Climate_Action_Summit" title="2019 UN Climate Action Summit">UN Climate Action Summit</a> (23 September).<sup id="cite_ref-elle_1-1" class="reference"><a href="#cite_note-elle-1">&#91;1&#93;</a></sup> 27 September is also the anniversary of the publishing of <i><a href="/wiki/Silent_Spring" title="Silent Spring">Silent Spring</a></i>, a 1962 book which was key to starting the <a href="/wiki/Environmentalism" title="Environmentalism">environmentalist</a> movement.<sup id="cite_ref-elle_1-2" class="reference"><a href="#cite_note-elle-1">&#91;1&#93;</a></sup>
-</p><p>The strikes are predicted by some news media to be the largest <a href="/wiki/Climate_protests" class="mw-redirect" title="Climate protests">climate protest</a> in world history.<sup id="cite_ref-mirror_14-0" class="reference"><a href="#cite_note-mirror-14">&#91;14&#93;</a></sup><sup id="cite_ref-tele_15-0" class="reference"><a href="#cite_note-tele-15">&#91;15&#93;</a></sup><sup id="cite_ref-CNN_Melbourne_2-2" class="reference"><a href="#cite_note-CNN_Melbourne-2">&#91;2&#93;</a></sup> On 20 September, organisers reported that 1.4 million people took part in the German strikes,<sup id="cite_ref-Germany_strikers_7-1" class="reference"><a href="#cite_note-Germany_strikers-7">&#91;7&#93;</a></sup> and an estimated 300,000 protesters took part in Australian strikes.<sup id="cite_ref-abc_8-1" class="reference"><a href="#cite_note-abc-8">&#91;8&#93;</a></sup> A rally in London drew 100,000 participants, according to organisers.<sup id="cite_ref-BBC_live_9-1" class="reference"><a href="#cite_note-BBC_live-9">&#91;9&#93;</a></sup>
-</p>
-<h2><span class="mw-headline" id="Protests_by_country">Protests by country</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=2" title="Edit section: Protests by country">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Afghanistan">Afghanistan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=3" title="Edit section: Afghanistan">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In <a href="/wiki/Kabul" title="Kabul">Kabul</a>, youth marched against climate change while being protected by army troops. Air pollution is believed to cause many deaths per year in the city.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Australia">Australia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=4" title="Edit section: Australia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sydney_strike_(48763501892).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sydney_strike_%2848763501892%29.jpg/220px-Sydney_strike_%2848763501892%29.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sydney_strike_%2848763501892%29.jpg/330px-Sydney_strike_%2848763501892%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sydney_strike_%2848763501892%29.jpg/440px-Sydney_strike_%2848763501892%29.jpg 2x" data-file-width="3500" data-file-height="2333" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Sydney_strike_(48763501892).jpg" class="internal" title="Enlarge"></a></div>Protesters in Sydney</div></div></div>
-<p>On 20 September, organisers estimated that over 300,000 people attended 100 rallies for the global climate strike in Australia.<sup id="cite_ref-abc_8-2" class="reference"><a href="#cite_note-abc-8">&#91;8&#93;</a></sup> Over 2,500 businesses allowed employees to take part in the strikes, or closed entirely for the day.<sup id="cite_ref-abc_8-3" class="reference"><a href="#cite_note-abc-8">&#91;8&#93;</a></sup> In Melbourne, one protest gathered an estimated 100,000 participants.<sup id="cite_ref-CNN_Melbourne_2-3" class="reference"><a href="#cite_note-CNN_Melbourne-2">&#91;2&#93;</a></sup><sup id="cite_ref-tele_15-1" class="reference"><a href="#cite_note-tele-15">&#91;15&#93;</a></sup> Organisers claim that 80,000 people took part in a protest at <a href="/wiki/The_Domain,_Sydney" title="The Domain, Sydney">The Domain</a> in Sydney.<sup id="cite_ref-abc_8-4" class="reference"><a href="#cite_note-abc-8">&#91;8&#93;</a></sup> A strike in Brisbane gathered a reported 20,000 protesters,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> whilst organisers reported figures of 22,000, 15,000, 10,000 and 8,000 for strikes in Hobart, Canberra, Perth and Adelaide, respectively.<sup id="cite_ref-abc_8-5" class="reference"><a href="#cite_note-abc-8">&#91;8&#93;</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
-</p><p>Australian protests called for the government to reach "100 percent renewable energy generation and exports" by 2030, to refrain from starting new fossil fuel projects and to fund "a just transition and job creation for all fossil fuel industry workers and communities".<sup id="cite_ref-abc_8-6" class="reference"><a href="#cite_note-abc-8">&#91;8&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Bangladesh">Bangladesh</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=5" title="Edit section: Bangladesh">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Protests in <a href="/wiki/Dhaka" title="Dhaka">Dhaka</a> were joined by thousands of schoolchildren from different schools, urging world leaders to take action and forming a <a href="/wiki/Human_chain_(politics)" title="Human chain (politics)">human chain</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Belgium">Belgium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=6" title="Edit section: Belgium">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>According to the police, 15,000 people were on the streets in <a href="/wiki/Brussels" title="Brussels">Brussels</a> and headed for the European quarter.<sup id="cite_ref-auto1_20-0" class="reference"><a href="#cite_note-auto1-20">&#91;20&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Brazil">Brazil</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=7" title="Edit section: Brazil">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Thousands protested.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Burundi">Burundi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=8" title="Edit section: Burundi">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In <a href="/wiki/Bujumbura" title="Bujumbura">Bujumbura</a>, 35 activists cleared rubbish on the shores of <a href="/wiki/Lake_Tanganyika" title="Lake Tanganyika">Lake Tanganyika</a>.<sup id="cite_ref-BBC_live_9-2" class="reference"><a href="#cite_note-BBC_live-9">&#91;9&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Canada">Canada</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=9" title="Edit section: Canada">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Strikes began on 20 September,<sup id="cite_ref-GlobeAndMail_22-0" class="reference"><a href="#cite_note-GlobeAndMail-22">&#91;22&#93;</a></sup> with a "die-in" staged in Vancouver.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> Further climate action demonstrations are scheduled for 27 September, across 80 locations.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> The Toronto District School Board advised teachers to avoid scheduling tests or assignments on that day. Major demonstrations and marches are planned across the country, including ones in Vancouver, Toronto and Montreal, where Thunberg will be in attendance.<sup id="cite_ref-GlobeAndMail_22-1" class="reference"><a href="#cite_note-GlobeAndMail-22">&#91;22&#93;</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="China">China</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=10" title="Edit section: China">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>No officially sanctioned protests were held in China. A spokesperson for the China Youth Climate Action Network, Zheng Xiaowen, said that "Chinese youth have their own methods" and that action would take place.<sup id="cite_ref-Al_Jazeera_Asia_26-0" class="reference"><a href="#cite_note-Al_Jazeera_Asia-26">&#91;26&#93;</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Hong_Kong">Hong Kong</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=11" title="Edit section: Hong Kong">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>A planned student march was abandoned due to safety concerns amidst the <a href="/wiki/2019_Hong_Kong_protests" title="2019 Hong Kong protests">2019 Hong Kong protests</a>, although a small rally was held separately in the city's central business district.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Czechia">Czechia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=12" title="Edit section: Czechia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Thousands of youth reportedly gathered in <a href="/wiki/Prague" title="Prague">Prague</a>.<sup id="cite_ref-DW_Live_29-0" class="reference"><a href="#cite_note-DW_Live-29">&#91;29&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="France">France</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=13" title="Edit section: France">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>A group of 9,400 demonstrators joined a rally in Paris.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Georgia">Georgia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=14" title="Edit section: Georgia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>More than 100 people, including minors, gathered in front of the <a href="/wiki/Tbilisi" title="Tbilisi">Tbilisi</a> City Hall as part of the strikes. They also called for the protection of the city's wood and parklands.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Germany">Germany</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=15" title="Edit section: Germany">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Weltweite_Klimademo_am_Augsburger_Rathausplatz_20092019.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Weltweite_Klimademo_am_Augsburger_Rathausplatz_20092019.jpg/220px-Weltweite_Klimademo_am_Augsburger_Rathausplatz_20092019.jpg" decoding="async" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Weltweite_Klimademo_am_Augsburger_Rathausplatz_20092019.jpg/330px-Weltweite_Klimademo_am_Augsburger_Rathausplatz_20092019.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Weltweite_Klimademo_am_Augsburger_Rathausplatz_20092019.jpg/440px-Weltweite_Klimademo_am_Augsburger_Rathausplatz_20092019.jpg 2x" data-file-width="3264" data-file-height="1836" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Weltweite_Klimademo_am_Augsburger_Rathausplatz_20092019.jpg" class="internal" title="Enlarge"></a></div>Protesters in <a href="/wiki/Augsburg" title="Augsburg">Augsburg</a>, Germany.</div></div></div>
-<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:2019-09-20_Globaler_Klimastreik_Muenchen-11.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/2019-09-20_Globaler_Klimastreik_Muenchen-11.jpg/220px-2019-09-20_Globaler_Klimastreik_Muenchen-11.jpg" decoding="async" width="220" height="129" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/2019-09-20_Globaler_Klimastreik_Muenchen-11.jpg/330px-2019-09-20_Globaler_Klimastreik_Muenchen-11.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/2019-09-20_Globaler_Klimastreik_Muenchen-11.jpg/440px-2019-09-20_Globaler_Klimastreik_Muenchen-11.jpg 2x" data-file-width="5425" data-file-height="3185" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:2019-09-20_Globaler_Klimastreik_Muenchen-11.jpg" class="internal" title="Enlarge"></a></div>Protesters in <a href="/wiki/Munich" title="Munich">Munich</a>, Germany.</div></div></div>
-<p>Strikes took place in 575 cities across Germany,<sup id="cite_ref-Local_Germany_33-0" class="reference"><a href="#cite_note-Local_Germany-33">&#91;33&#93;</a></sup> with <a href="/wiki/Flixbus" title="Flixbus">Flixbus</a> offering free travel to protesters who take a selfie as evidence.<sup id="cite_ref-DW_Germany_34-0" class="reference"><a href="#cite_note-DW_Germany-34">&#91;34&#93;</a></sup> Some German companies encouraged their employees to strike, including Flixbus, the <a href="/wiki/GLS_Bank" title="GLS Bank">GLS Bank</a>, pension provider <i>Hannoversche Kassen</i>, price comparison website <a href="/wiki/Idealo" title="Idealo">Idealo</a> and energy company <a href="/w/index.php?title=Naturstrom_AG&amp;action=edit&amp;redlink=1" class="new" title="Naturstrom AG (page does not exist)">Naturstrom AG</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;&#91;<a href="https://de.wikipedia.org/wiki/Naturstrom_AG" class="extiw" title="de:Naturstrom AG">de</a>&#93;</span>; <a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a> municipal employees were also permitted to strike.<sup id="cite_ref-DW_Germany_34-1" class="reference"><a href="#cite_note-DW_Germany-34">&#91;34&#93;</a></sup><sup id="cite_ref-BS_Germany_35-0" class="reference"><a href="#cite_note-BS_Germany-35">&#91;35&#93;</a></sup><sup id="cite_ref-Local_Germany_33-1" class="reference"><a href="#cite_note-Local_Germany-33">&#91;33&#93;</a></sup> Organisers estimate that 1.4 million people in total joined strikes in Germany,<sup id="cite_ref-Germany_strikers_7-2" class="reference"><a href="#cite_note-Germany_strikers-7">&#91;7&#93;</a></sup> with 100,000 protesters in <a href="/wiki/Berlin" title="Berlin">Berlin</a>, 70,000 in <a href="/wiki/Hamburg" title="Hamburg">Hamburg</a> and 40,000 in Munich.<sup id="cite_ref-auto1_20-1" class="reference"><a href="#cite_note-auto1-20">&#91;20&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Greece">Greece</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=16" title="Edit section: Greece">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In Greece, protests took place in numerous places around the country, most notably in <a href="/wiki/Athens" title="Athens">Athens</a> and <a href="/wiki/Thessaloniki" title="Thessaloniki">Thessaloniki</a>.<sup id="cite_ref-Greece_36-0" class="reference"><a href="#cite_note-Greece-36">&#91;36&#93;</a></sup> The attendance in Athens was approximately 3,000 protestors. The protests have been supported by the municipal authority of Athens and other organizations, as well as the government of Greece, with the Greek Prime Minister <a href="/wiki/Kyriakos_Mitsotakis" title="Kyriakos Mitsotakis">Kyriakos Mitsotakis</a> describing the protection of environment as an issue "that finds all the Greeks united".<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup> Protests are organized from both local Fridays for Future groups and citizen's initiatives.<sup id="cite_ref-Greece_36-1" class="reference"><a href="#cite_note-Greece-36">&#91;36&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="India">India</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=17" title="Edit section: India">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In India, more than 14,000 people signed up for 26 events across the country as part of the global strikes.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup> In <a href="/wiki/Delhi" title="Delhi">Delhi</a>, more than 2,000 students and schoolchildren demanded the Prime Minister to declare an immediate climate emergency in India. An Indian think tank suggested that many Indian cities could soon run out of drinking water.<sup id="cite_ref-tele_15-2" class="reference"><a href="#cite_note-tele-15">&#91;15&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Indonesia">Indonesia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=18" title="Edit section: Indonesia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In Palangka Raya, in Indonesia’s Central Kalimantan province, youths carrying placards marched through heavy smog caused by forest fires.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Ivory_Coast">Ivory Coast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=19" title="Edit section: Ivory Coast">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In the Ivory Coast, protests took place against a proposed coal power plant in <a href="/wiki/San-P%C3%A9dro,_Ivory_Coast" title="San-Pédro, Ivory Coast">San Pédro</a>.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Kenya">Kenya</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=20" title="Edit section: Kenya">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Kenyan protesters were specifically demanding an end to government plans to build new <a href="/wiki/Coal" title="Coal">coal</a> power stations.<sup id="cite_ref-DW_Live_29-1" class="reference"><a href="#cite_note-DW_Live-29">&#91;29&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Kiribati">Kiribati</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=21" title="Edit section: Kiribati">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>A protest took place in <a href="/wiki/Kiribati" title="Kiribati">Kiribati</a>, where students held placards chanting "We are not sinking, we are fighting." The country is at great threat from rising sea levels.<sup id="cite_ref-Al_Jazeera_Asia_26-1" class="reference"><a href="#cite_note-Al_Jazeera_Asia-26">&#91;26&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Malta">Malta</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=22" title="Edit section: Malta">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>A protest of 300 people took place in <a href="/wiki/Valletta" title="Valletta">Valletta</a>, organised by members of <a href="/wiki/Extinction_Rebellion" title="Extinction Rebellion">Extinction Rebellion</a> Malta. Protesters staged a die-in and asked the <a href="/wiki/Maltese_Parliament" class="mw-redirect" title="Maltese Parliament">Maltese Parliament</a> to declare climate emergency.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup> The protest was endorsed by several NGOs and follows a series of others demanding climate justice.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Mexico">Mexico</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=23" title="Edit section: Mexico">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Thousands of young people in <a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a> join their counterparts across the world in demonstrations against climate change.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Nepal">Nepal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=24" title="Edit section: Nepal">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Youths planned protests in <a href="/wiki/Nepal" title="Nepal">Nepal</a>. Recent disasters including a storm that killed over 25 people in April, flash floods that killed hundreds, and unusual weather patterns, have reportedly alarmed the Nepalese.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="New_Zealand">New Zealand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=25" title="Edit section: New Zealand">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In New Zealand, nationwide school and intergenerational strikes are planned for 27 September .<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Nigeria">Nigeria</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=26" title="Edit section: Nigeria">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Turnout of the protests were reportedly low in <a href="/wiki/Lagos" title="Lagos">Lagos</a>, Nigeria's largest city. However more people were protesting in <a href="/wiki/Abuja" title="Abuja">Abuja</a>, numbering over a hundred.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;49&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Pakistan">Pakistan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=27" title="Edit section: Pakistan">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Students, politicians, and environmentalists joined the protests which took place across 32 towns and cities in Pakistan.<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;50&#93;</a></sup> In <a href="/wiki/Karachi" title="Karachi">Karachi</a>, protesters gathered in front of the <a href="/wiki/Frere_Hall" title="Frere Hall">Frere Hall</a> and addressed by activists inlcluding <a href="/wiki/Sheema_Kermani" title="Sheema Kermani">Sheema Kermani</a>.<sup id="cite_ref-Dawn_51-0" class="reference"><a href="#cite_note-Dawn-51">&#91;51&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Philippines">Philippines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=28" title="Edit section: Philippines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>A total of 17 strikes were registered in the country.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;52&#93;</a></sup> Filipino activists also marched in honor of those who were killed for defending the environment.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">&#91;53&#93;</a></sup> It was reported in 2018 that the Philippines is the deadliest country for those defending the environment and land.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">&#91;54&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Poland">Poland</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=29" title="Edit section: Poland">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Thousands of school children joined adults in protests in <a href="/wiki/Warsaw" title="Warsaw">Warsaw</a>, while protests also took place in other cities. Poland produces 80 percent of its electricity from coal. For years the country has blocked the adoption of ambitious climate targets.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;55&#93;</a></sup> Many middle schools gave students the day off to participate.<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">&#91;56&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Senegal">Senegal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=30" title="Edit section: Senegal">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>An estimated 200 students protested in <a href="/wiki/Dakar" title="Dakar">Dakar</a>.<sup id="cite_ref-BBC_live_9-3" class="reference"><a href="#cite_note-BBC_live-9">&#91;9&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Solomon_Islands">Solomon Islands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=31" title="Edit section: Solomon Islands">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In the <a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a>, protesters symbolically took to the seas rather than the streets, as the low-lying nation is at great risk from rising sea levels.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">&#91;57&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="South_Africa">South Africa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=32" title="Edit section: South Africa">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Across South Africa, 18 protests took place, including protests organised by the African Climate Alliance.<sup id="cite_ref-Maverick_20_58-0" class="reference"><a href="#cite_note-Maverick_20-58">&#91;58&#93;</a></sup> The strikes were supported by the South African Food Sovereignty Campaign, the Co-operative and Policy Alternative Center, <a href="/wiki/Earthlife_Africa" title="Earthlife Africa">Earthlife Africa</a>, and <a href="/wiki/Greenpeace" title="Greenpeace">Greenpeace</a>.<sup id="cite_ref-Maverick_20_58-1" class="reference"><a href="#cite_note-Maverick_20-58">&#91;58&#93;</a></sup> They were also endorsed by the <a href="/wiki/South_African_Federation_of_Trade_Unions" title="South African Federation of Trade Unions">South African Federation of Trade Unions</a>.<sup id="cite_ref-Reuters_SA_59-0" class="reference"><a href="#cite_note-Reuters_SA-59">&#91;59&#93;</a></sup> Protests took place at the headquarters of energy company <a href="/wiki/Sasol" title="Sasol">Sasol</a>, with protesters calling on Sasol to provide "a just transition plan that meets the needs of workers, affected communities, the country, the continent and the world".<sup id="cite_ref-Maverick_15_60-0" class="reference"><a href="#cite_note-Maverick_15-60">&#91;60&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Tanzania">Tanzania</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=33" title="Edit section: Tanzania">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>A march took place in <a href="/wiki/Dar_es_Salaam" title="Dar es Salaam">Dar es Salaam</a>, headed by a marching band.<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">&#91;61&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Thailand">Thailand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=34" title="Edit section: Thailand">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>More than 200 people stormed Thailand's environment secretary building and playing dead while chanting "save our Earth".<sup id="cite_ref-Dawn_51-1" class="reference"><a href="#cite_note-Dawn-51">&#91;51&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Turkey">Turkey</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=35" title="Edit section: Turkey">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>The focal points of the protests in Turkey were in <a href="/wiki/Istanbul" title="Istanbul">Istanbul</a>'s <a href="/wiki/Kad%C4%B1k%C3%B6y" title="Kadıköy">Kadıköy</a> and <a href="/wiki/%C5%9Ei%C5%9Fli" title="Şişli">Şişli</a> districts. The teenage climate activists were led by 13-year-old Atlas Sarrafoğlu and 18-year-old Selin Gören.<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">&#91;62&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Uganda">Uganda</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=36" title="Edit section: Uganda">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In Uganda's capital <a href="/wiki/Kampala" title="Kampala">Kampala</a>, protests against climate change were joined by hundreds of Ugandan children. It was also joined by the country's most high-profile youth activist, Leah Namurgewa, who is 15.<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">&#91;63&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Ukraine">Ukraine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=37" title="Edit section: Ukraine">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>A march took place in <a href="/wiki/Kiev" title="Kiev">Kiev</a> in which a thousand people participated, mostly youth.<sup id="cite_ref-64" class="reference"><a href="#cite_note-64">&#91;64&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="United_Kingdom">United Kingdom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=38" title="Edit section: United Kingdom">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:London_Climate_Strike_JPS_8650a-sm_(48765254446).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/London_Climate_Strike_JPS_8650a-sm_%2848765254446%29.jpg/220px-London_Climate_Strike_JPS_8650a-sm_%2848765254446%29.jpg" decoding="async" width="220" height="160" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/London_Climate_Strike_JPS_8650a-sm_%2848765254446%29.jpg/330px-London_Climate_Strike_JPS_8650a-sm_%2848765254446%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/London_Climate_Strike_JPS_8650a-sm_%2848765254446%29.jpg/440px-London_Climate_Strike_JPS_8650a-sm_%2848765254446%29.jpg 2x" data-file-width="6751" data-file-height="4912" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:London_Climate_Strike_JPS_8650a-sm_(48765254446).jpg" class="internal" title="Enlarge"></a></div>Protesters in London</div></div></div>
-<p>The <a href="/wiki/UK_Student_Climate_Network" title="UK Student Climate Network">UK Student Climate Network</a> (UKSCN) have planned over 200 events across the United Kingdom for 20 September. They support a "<a href="/wiki/Green_New_Deal#In_the_UK" title="Green New Deal">Green New Deal</a>" and for a reduction of the voting age from 18 to 16.<sup id="cite_ref-mirror_14-1" class="reference"><a href="#cite_note-mirror-14">&#91;14&#93;</a></sup> The strikes are supported by trade unions, the <a href="/wiki/University_and_College_Union" title="University and College Union">University and College Union</a>, <a href="/wiki/Unite_the_Union" title="Unite the Union">Unite the Union</a>, and the <a href="/wiki/Trades_Union_Congress" title="Trades Union Congress">Trades Union Congress</a>. <a href="/wiki/The_Co-operative_Bank" title="The Co-operative Bank">The Co-operative Bank</a> collaborated with Unite to allow its workforce to strike. Teachers were warned that encouraging students to strike or failing to record student absences could lead to legal or disciplinary action.<sup id="cite_ref-tele_15-3" class="reference"><a href="#cite_note-tele-15">&#91;15&#93;</a></sup>
-</p><p>Organisers said that roughly 100,000 people participated in a rally in London, where politician <a href="/wiki/Jeremy_Corbyn" title="Jeremy Corbyn">Jeremy Corbyn</a> gave a speech in which he told the young people in attendance: "you and a whole generation have brought the issue centre stage and I am absolutely delighted about that".<sup id="cite_ref-Standard_65-0" class="reference"><a href="#cite_note-Standard-65">&#91;65&#93;</a></sup> Protests in Edinburgh and Brighton reached 20,000 and 10,000 participants, respectively.<sup id="cite_ref-BBC_live_9-4" class="reference"><a href="#cite_note-BBC_live-9">&#91;9&#93;</a></sup><sup id="cite_ref-Standard_65-1" class="reference"><a href="#cite_note-Standard-65">&#91;65&#93;</a></sup> <a href="/wiki/Extinction_Rebellion" title="Extinction Rebellion">Extinction Rebellion</a> plan to block the <a href="/wiki/Port_of_Dover" title="Port of Dover">Port of Dover</a> on September 21.<sup id="cite_ref-tele_15-4" class="reference"><a href="#cite_note-tele-15">&#91;15&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=39" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<h4><span class="mw-headline" id="Planning">Planning</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=40" title="Edit section: Planning">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
-<p>A youth climate strike coalition came together to collaborate on the campaign.<sup id="cite_ref-66" class="reference"><a href="#cite_note-66">&#91;66&#93;</a></sup> The youth strike coalition, coordinated by <a href="/wiki/Future_Coalition" title="Future Coalition">Future Coalition</a>, includes national youth-led groups such as Zero Hour, Earth Uprising, Fridays For Future USA, <a href="/wiki/Sunrise_Movement" title="Sunrise Movement">Sunrise</a>, US Youth Climate Strike, International Indigenous Youth Council, Earth Guardians, and Extinction Rebellion Youth.<sup id="cite_ref-67" class="reference"><a href="#cite_note-67">&#91;67&#93;</a></sup>
-</p><p>In addition to the youth coalition, a broad adult climate strike coalition, coordinated by <a href="/wiki/350.org" title="350.org">350.org</a> and <a href="/wiki/March_On_(organization)" title="March On (organization)">March On</a>, is actively supporting the strike.<sup id="cite_ref-68" class="reference"><a href="#cite_note-68">&#91;68&#93;</a></sup> The adult coalition includes organizations <a href="/wiki/Sierra_Club" title="Sierra Club">Sierra Club</a>, <a href="/wiki/Center_for_Popular_Democracy" title="Center for Popular Democracy">Center for Popular Democracy</a>, <a href="/wiki/Natural_Resources_Defense_Council" title="Natural Resources Defense Council">NRDC</a>, <a href="/wiki/MoveOn" title="MoveOn">MoveOn</a>, <a href="/wiki/Hip_Hop_Caucus" title="Hip Hop Caucus">Hip Hop Caucus</a>, and <a href="/wiki/Oxfam" title="Oxfam">Oxfam</a>.<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">&#91;69&#93;</a></sup>
-</p>
-<h4><span class="mw-headline" id="Events">Events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=41" title="Edit section: Events">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
-<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:San_Francisco_Global_Climate_Strike_03.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/San_Francisco_Global_Climate_Strike_03.jpg/220px-San_Francisco_Global_Climate_Strike_03.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/San_Francisco_Global_Climate_Strike_03.jpg/330px-San_Francisco_Global_Climate_Strike_03.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/San_Francisco_Global_Climate_Strike_03.jpg/440px-San_Francisco_Global_Climate_Strike_03.jpg 2x" data-file-width="4032" data-file-height="3024" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:San_Francisco_Global_Climate_Strike_03.jpg" class="internal" title="Enlarge"></a></div>Protesters in <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a>, CA.</div></div></div>
-<p>The event is one of the largest climate mobilizations in US history.<sup id="cite_ref-auto_70-0" class="reference"><a href="#cite_note-auto-70">&#91;70&#93;</a></sup> Over 1,000 strike events were planned in all 50 states, Puerto Rico, and Washington, D.C.<sup id="cite_ref-NBC_71-0" class="reference"><a href="#cite_note-NBC-71">&#91;71&#93;</a></sup> The New York City school system, with more than one million students, gave permission for youth to skip school for the day to participate in the strike; the Boston school district followed suit, with Chicago's Department of Education announcing they would not mark students absent if they returned after the strike.<sup id="cite_ref-72" class="reference"><a href="#cite_note-72">&#91;72&#93;</a></sup><sup id="cite_ref-NBC_71-1" class="reference"><a href="#cite_note-NBC-71">&#91;71&#93;</a></sup>
-</p><p>In a Manhattan protest on 20 September, Swedish climate activist Greta Thunberg spoke, having <a href="/wiki/Voyage_of_Greta_Thunberg" title="Voyage of Greta Thunberg">sailed to the US across the Atlantic</a> in August 2019.<sup id="cite_ref-CNN_Melbourne_2-4" class="reference"><a href="#cite_note-CNN_Melbourne-2">&#91;2&#93;</a></sup>
-</p>
-<h4><span class="mw-headline" id="Support">Support</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=42" title="Edit section: Support">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
-<p>The 20 September climate strikes received broad support from different civil society sectors including over 2,300 faith leaders who signed a letter in support of the strike.<sup id="cite_ref-73" class="reference"><a href="#cite_note-73">&#91;73&#93;</a></sup>  
-</p><p>Numerous business including <a href="/wiki/Ben_%26_Jerry%27s" title="Ben &amp; Jerry&#39;s">Ben &amp; Jerry's</a>, <a href="/wiki/Patagonia_(clothing)" title="Patagonia (clothing)">Patagonia</a>, and <a href="/wiki/Lush_(company)" title="Lush (company)">Lush Cosmetics</a> announced they would be closed on the 20th to support the strike.<sup id="cite_ref-auto_70-1" class="reference"><a href="#cite_note-auto-70">&#91;70&#93;</a></sup><sup id="cite_ref-74" class="reference"><a href="#cite_note-74">&#91;74&#93;</a></sup> More than 6,000 websites, including <a href="/wiki/Tumblr" title="Tumblr">Tumblr</a> and <a href="/wiki/WordPress.com" title="WordPress.com">WordPress</a>, announced they would go dark to support the strike on Friday.<sup id="cite_ref-75" class="reference"><a href="#cite_note-75">&#91;75&#93;</a></sup> Over 1,700 <a href="/wiki/Amazon_(company)" title="Amazon (company)">Amazon</a> employees have signed an internal petition pledging to walk out over Amazon's lack of action on climate change.<sup id="cite_ref-76" class="reference"><a href="#cite_note-76">&#91;76&#93;</a></sup><sup id="cite_ref-77" class="reference"><a href="#cite_note-77">&#91;77&#93;</a></sup> A day before the strike, Amazon CEO, <a href="/wiki/Jeff_Bezos" title="Jeff Bezos">Jeff Bezos</a>, unveiled an extensive new plan to tackle climate change and committed to meet the goals of the UN’s <a href="/wiki/Paris_Agreement" title="Paris Agreement">Paris Agreement</a> ten years ahead of schedule.<sup id="cite_ref-78" class="reference"><a href="#cite_note-78">&#91;78&#93;</a></sup>
-</p>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=43" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/2019_in_politics_and_government" title="2019 in politics and government">2019 in politics and government</a></li>
-<li><a href="/wiki/Business_action_on_climate_change" title="Business action on climate change">Business action on climate change</a></li>
-<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">List of climate change initiatives</a></li>
-<li><a href="/wiki/List_of_international_environmental_agreements" title="List of international environmental agreements">List of international environmental agreements</a></li>
-<li><a href="/wiki/Paris_Agreement" title="Paris Agreement">Paris Agreement</a></li>
-<li><a href="/wiki/Politics_of_global_warming" title="Politics of global warming">Politics of global warming</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=44" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap mw-references-columns"><ol class="references">
-<li id="cite_note-elle-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-elle_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-elle_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-elle_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Feller, Madison (17 September 2019). <a rel="nofollow" class="external text" href="https://www.elle.com/culture/career-politics/a28985212/global-climate-strike-details-dates/">"The World Is Burning, and Teens Are Fighting: What to Know About the Global Climate Strike"</a>. <i><a href="/wiki/Elle_(magazine)" title="Elle (magazine)">Elle</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Elle&amp;rft.atitle=The+World+Is+Burning%2C+and+Teens+Are+Fighting%3A+What+to+Know+About+the+Global+Climate+Strike&amp;rft.date=2019-09-17&amp;rft.aulast=Feller&amp;rft.aufirst=Madison&amp;rft_id=https%3A%2F%2Fwww.elle.com%2Fculture%2Fcareer-politics%2Fa28985212%2Fglobal-climate-strike-details-dates%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
-</li>
-<li id="cite_note-CNN_Melbourne-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-CNN_Melbourne_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CNN_Melbourne_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CNN_Melbourne_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-CNN_Melbourne_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-CNN_Melbourne_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Lewis, Aimee (20 September 2019). <a rel="nofollow" class="external text" href="https://edition.cnn.com/2019/09/20/world/global-climate-strike-september-intl/index.html">"More than 100,000 have gathered in Melbourne as the world begins climate demonstrations"</a>. <i><a href="/wiki/CNN" title="CNN">CNN</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CNN&amp;rft.atitle=More+than+100%2C000+have+gathered+in+Melbourne+as+the+world+begins+climate+demonstrations&amp;rft.date=2019-09-20&amp;rft.aulast=Lewis&amp;rft.aufirst=Aimee&amp;rft_id=https%3A%2F%2Fedition.cnn.com%2F2019%2F09%2F20%2Fworld%2Fglobal-climate-strike-september-intl%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Milman, Oliver (20 September 2019). <a rel="nofollow" class="external text" href="https://www.theguardian.com/world/2019/sep/20/climate-strikes-us-students-greta-thunberg">"US to stage its largest ever climate strike: 'Somebody must sound the alarm<span class="cs1-kern-right">'</span>"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Guardian&amp;rft.atitle=US+to+stage+its+largest+ever+climate+strike%3A+%27Somebody+must+sound+the+alarm%27&amp;rft.date=2019-09-20&amp;rft.aulast=Milman&amp;rft.aufirst=Oliver&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2019%2Fsep%2F20%2Fclimate-strikes-us-students-greta-thunberg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Tollefson, Jeff (18 September 2019). <a rel="nofollow" class="external text" href="https://www.nature.com/immersive/d41586-019-02711-4/index.html">"The hard truths of climate change — by the numbers"</a>. <i><a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nature&amp;rft.atitle=The+hard+truths+of+climate+change+%E2%80%94+by+the+numbers&amp;rft.date=2019-09-18&amp;rft.aulast=Tollefson&amp;rft.aufirst=Jeff&amp;rft_id=https%3A%2F%2Fwww.nature.com%2Fimmersive%2Fd41586-019-02711-4%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/3139644/inside-the-youth-led-plan-to-pull-off-the-biggest-climate-strike-so-far/">"Inside The Youth-Led Plan To Pull Off The Biggest Climate Strike So Far"</a>. <a href="/wiki/MTV_News" title="MTV News">MTV News</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Inside+The+Youth-Led+Plan+To+Pull+Off+The+Biggest+Climate+Strike+So+Far&amp;rft.pub=MTV+News&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2F3139644%2Finside-the-youth-led-plan-to-pull-off-the-biggest-climate-strike-so-far%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Weise, Elizabeth (19 September 2019). <a rel="nofollow" class="external text" href="https://www.usatoday.com/story/news/nation/2019/09/19/climate-strike-us-students-skip-school-fight-climate-change/2368349001/">"<span class="cs1-kern-left">'</span>It's our future that's at stake': US students plan to skip school Friday to fight climate 'emergency<span class="cs1-kern-right">'</span>"</a>. <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=USA+Today&amp;rft.atitle=%27It%27s+our+future+that%27s+at+stake%27%3A+US+students+plan+to+skip+school+Friday+to+fight+climate+%27emergency%27&amp;rft.date=2019-09-19&amp;rft.aulast=Weise&amp;rft.aufirst=Elizabeth&amp;rft_id=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Fnation%2F2019%2F09%2F19%2Fclimate-strike-us-students-skip-school-fight-climate-change%2F2368349001%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-Germany_strikers-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Germany_strikers_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Germany_strikers_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Germany_strikers_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.stuttgarter-zeitung.de/inhalt.liveblog-zum-globalen-klimastreik-fridays-for-future-protestiert-in-2000-orten.c85e0e02-e49b-45d0-a5f6-5ebafa7f2b70.html">"Liveblog zum globalen Klimastreik: Fridays for Future protestiert in 2000 Orten"</a>. <i><a href="/wiki/Stuttgarter_Zeitung" title="Stuttgarter Zeitung">Stuttgarter Zeitung</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Stuttgarter+Zeitung&amp;rft.atitle=Liveblog+zum+globalen+Klimastreik%3A+Fridays+for+Future+protestiert+in+2000+Orten&amp;rft_id=https%3A%2F%2Fwww.stuttgarter-zeitung.de%2Finhalt.liveblog-zum-globalen-klimastreik-fridays-for-future-protestiert-in-2000-orten.c85e0e02-e49b-45d0-a5f6-5ebafa7f2b70.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-abc-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-abc_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-abc_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-abc_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-abc_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-abc_8-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-abc_8-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-abc_8-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.abc.net.au/news/2019-09-20/school-strike-for-climate-draws-thousands-to-australian-rallies/11531612">"Global climate strike sees 'hundreds of thousands' of Australians rally across the country"</a>. <i>ABC News</i>. 20 September 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ABC+News&amp;rft.atitle=Global+climate+strike+sees+%27hundreds+of+thousands%27+of+Australians+rally+across+the+country&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fwww.abc.net.au%2Fnews%2F2019-09-20%2Fschool-strike-for-climate-draws-thousands-to-australian-rallies%2F11531612&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-BBC_live-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBC_live_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBC_live_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BBC_live_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-BBC_live_9-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-BBC_live_9-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/live/world-49753710">"Climate Strike: Latest updates from around the world"</a>. <a href="/wiki/BBC" title="BBC">BBC</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Climate+Strike%3A+Latest+updates+from+around+the+world&amp;rft.pub=BBC&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Flive%2Fworld-49753710&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-BBC_strike_2-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBC_strike_2_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBC_strike_2_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/world-48392551">"Students walk out in global climate strike"</a>. <a href="/wiki/BBC" title="BBC">BBC</a>. 24 May 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">24 May</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Students+walk+out+in+global+climate+strike&amp;rft.date=2019-05-24&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-48392551&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.aljazeera.com/news/2019/05/pupils-renew-climate-action-world-strike-190524051317704.html">"<span class="cs1-kern-left">'</span>We're one, we're back': Pupils renew world climate action strike"</a>. <i><a href="/wiki/Al_Jazeera" title="Al Jazeera">Al Jazeera</a></i>. 24 May 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">24 May</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Al+Jazeera&amp;rft.atitle=%27We%27re+one%2C+we%27re+back%27%3A+Pupils+renew+world+climate+action+strike&amp;rft.date=2019-05-24&amp;rft_id=https%3A%2F%2Fwww.aljazeera.com%2Fnews%2F2019%2F05%2Fpupils-renew-climate-action-world-strike-190524051317704.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">CNN, Isabelle Gerretsen. <a rel="nofollow" class="external text" href="https://www.cnn.com/2019/05/24/world/global-climate-strike-school-students-protest-climate-change-intl/index.html">"Global Climate Strike: Record number of students walk out"</a>. <i>CNN</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CNN&amp;rft.atitle=Global+Climate+Strike%3A+Record+number+of+students+walk+out&amp;rft.aulast=CNN&amp;rft.aufirst=Isabelle+Gerretsen&amp;rft_id=https%3A%2F%2Fwww.cnn.com%2F2019%2F05%2F24%2Fworld%2Fglobal-climate-strike-school-students-protest-climate-change-intl%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Haynes, Suyin (24 May 2019). <a rel="nofollow" class="external text" href="http://time.com/5595365/global-climate-strikes-greta-thunberg/">"Students From 1,600 Cities Just Walked Out of School to Protest Climate Change. It Could Be Greta Thunberg's Biggest Strike Yet"</a>. <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 May</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Time&amp;rft.atitle=Students+From+1%2C600+Cities+Just+Walked+Out+of+School+to+Protest+Climate+Change.+It+Could+Be+Greta+Thunberg%27s+Biggest+Strike+Yet&amp;rft.date=2019-05-24&amp;rft.aulast=Haynes&amp;rft.aufirst=Suyin&amp;rft_id=http%3A%2F%2Ftime.com%2F5595365%2Fglobal-climate-strikes-greta-thunberg%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-mirror-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-mirror_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mirror_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Farhoud, Nada; Bloom, Dan (20 September 2019). <a rel="nofollow" class="external text" href="https://www.mirror.co.uk/news/world-news/global-climate-strike-millions-set-20126465">"Global climate strike: Millions set to take part in 'largest climate protest in history<span class="cs1-kern-right">'</span>"</a>. <i><a href="/wiki/Daily_Mirror" title="Daily Mirror">Daily Mirror</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Daily+Mirror&amp;rft.atitle=Global+climate+strike%3A+Millions+set+to+take+part+in+%27largest+climate+protest+in+history%27&amp;rft.date=2019-09-20&amp;rft.aulast=Farhoud&amp;rft.aufirst=Nada&amp;rft.au=Bloom%2C+Dan&amp;rft_id=https%3A%2F%2Fwww.mirror.co.uk%2Fnews%2Fworld-news%2Fglobal-climate-strike-millions-set-20126465&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-tele-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-tele_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tele_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-tele_15-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-tele_15-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-tele_15-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Johnson, Jamie (20 September 2019). <a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/news/2019/09/20/global-climate-strike-kicks-australia-britain-braces-weekend/">"Global climate strike protesters arrested as Britain braces for weekend of chaos"</a>. <i><a href="/wiki/The_Daily_Telegraph" title="The Daily Telegraph">The Daily Telegraph</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Daily+Telegraph&amp;rft.atitle=Global+climate+strike+protesters+arrested+as+Britain+braces+for+weekend+of+chaos&amp;rft.date=2019-09-20&amp;rft.aulast=Johnson&amp;rft.aufirst=Jamie&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2019%2F09%2F20%2Fglobal-climate-strike-kicks-australia-britain-braces-weekend%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.citynews1130.com/2019/09/20/protected-by-army-men-kabuls-youth-protest-climate-change/">"Protected by army men, Kabul's youth protest climate change"</a>. <i>www.citynews1130.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.citynews1130.com&amp;rft.atitle=Protected+by+army+men%2C+Kabul%27s+youth+protest+climate+change&amp;rft_id=https%3A%2F%2Fwww.citynews1130.com%2F2019%2F09%2F20%2Fprotected-by-army-men-kabuls-youth-protest-climate-change%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web">Mason, Melissa (20 September 2019). <a rel="nofollow" class="external text" href="https://www.pedestrian.tv/news/climate-strike-brisbane-photos/">"Over 20,000 Showed Up For The Climate Strike In Brissie &amp; The Pics Are Madness"</a>. <i>Pedestrian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Pedestrian&amp;rft.atitle=Over+20%2C000+Showed+Up+For+The+Climate+Strike+In+Brissie+%26+The+Pics+Are+Madness&amp;rft.date=2019-09-20&amp;rft.aulast=Mason&amp;rft.aufirst=Melissa&amp;rft_id=https%3A%2F%2Fwww.pedestrian.tv%2Fnews%2Fclimate-strike-brisbane-photos%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news">Groch, Sherryn (20 September 2019). <a rel="nofollow" class="external text" href="https://www.canberratimes.com.au/story/6397258/thousands-pack-canberra-streets-to-demand-climate-action/?cs=14225">"Global Climate Strike in Canberra: 15,000 join student march"</a>. <i>The Canberra Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Canberra+Times&amp;rft.atitle=Global+Climate+Strike+in+Canberra%3A+15%2C000+join+student+march&amp;rft.date=2019-09-20&amp;rft.aulast=Groch&amp;rft.aufirst=Sherryn&amp;rft_id=https%3A%2F%2Fwww.canberratimes.com.au%2Fstory%2F6397258%2Fthousands-pack-canberra-streets-to-demand-climate-action%2F%3Fcs%3D14225&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.thedailystar.net/city/news/children-join-global-climate-strike-dhaka-1802773">"Children join global climate strike in Dhaka"</a>. <i>The Daily Star</i>. 20 September 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Daily+Star&amp;rft.atitle=Children+join+global+climate+strike+in+Dhaka&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fwww.thedailystar.net%2Fcity%2Fnews%2Fchildren-join-global-climate-strike-dhaka-1802773&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-auto1-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-auto1_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-auto1_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.tagesschau.de/inland/klimastreiks-friday-for-future-105.html">"<span class="cs1-kern-left">"</span>Fridays for Future": Millionen fürs Klima"</a>. <i>tagesschau.de</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=tagesschau.de&amp;rft.atitle=%22Fridays+for+Future%22%3A+Millionen+f%C3%BCrs+Klima&amp;rft_id=https%3A%2F%2Fwww.tagesschau.de%2Finland%2Fklimastreiks-friday-for-future-105.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Queiroz, Sergio (20 September 2019). <a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-climate-change-strike-brazil/brazilian-climate-strikers-take-aim-at-bolsonaro-for-amazon-fires-idUSKBN1W52HX">"Brazilian climate strikers take aim at Bolsonaro for Amazon fires"</a>. <i>Reuters.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Reuters.com&amp;rft.atitle=Brazilian+climate+strikers+take+aim+at+Bolsonaro+for+Amazon+fires&amp;rft.date=2019-09-20&amp;rft.aulast=Queiroz&amp;rft.aufirst=Sergio&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-climate-change-strike-brazil%2Fbrazilian-climate-strikers-take-aim-at-bolsonaro-for-amazon-fires-idUSKBN1W52HX&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-GlobeAndMail-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-GlobeAndMail_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GlobeAndMail_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.theglobeandmail.com/canada/article-students-across-canada-expected-to-participate-in-mass-climate/">"Students across Canada expected to participate in mass climate protests"</a>. <i><a href="/wiki/The_Globe_and_Mail" title="The Globe and Mail">The Globe and Mail</a></i>. 20 September 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Globe+and+Mail&amp;rft.atitle=Students+across+Canada+expected+to+participate+in+mass+climate+protests&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fwww.theglobeandmail.com%2Fcanada%2Farticle-students-across-canada-expected-to-participate-in-mass-climate%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.cbc.ca/news/canada/british-columbia/climate-strike-vancouver-art-gallery-1.5291054">"Climate strike 'die-in' held in Vancouver as part of worldwide demonstrations"</a>. <a href="/wiki/CBC_News" title="CBC News">CBC News</a>. 20 September 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Climate+strike+%27die-in%27+held+in+Vancouver+as+part+of+worldwide+demonstrations&amp;rft.pub=CBC+News&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fwww.cbc.ca%2Fnews%2Fcanada%2Fbritish-columbia%2Fclimate-strike-vancouver-art-gallery-1.5291054&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">Belmonte, Lisa (17 September 2019). <a rel="nofollow" class="external text" href="https://www.narcity.com/news/ca/global-climate-strike-in-canada-is-going-to-be-huge">"A Massive Global Climate Strike Is Happening In 80 Canadian Places Next Week"</a>. <i><a href="/wiki/Narcity" class="mw-redirect" title="Narcity">Narcity</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Narcity&amp;rft.atitle=A+Massive+Global+Climate+Strike+Is+Happening+In+80+Canadian+Places+Next+Week&amp;rft.date=2019-09-17&amp;rft.aulast=Belmonte&amp;rft.aufirst=Lisa&amp;rft_id=https%3A%2F%2Fwww.narcity.com%2Fnews%2Fca%2Fglobal-climate-strike-in-canada-is-going-to-be-huge&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web">Gilson, Patrick John (19 September 2019). <a rel="nofollow" class="external text" href="https://www.narcity.com/news/ca/on/toronto/climate-strike-in-canada-will-have-toronto-students-skipping-school-to-participate">"The TDSB Is Totally Cool With Toronto Students Skipping Class For A Climate Strike"</a>. <i><a href="/wiki/Narcity" class="mw-redirect" title="Narcity">Narcity</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Narcity&amp;rft.atitle=The+TDSB+Is+Totally+Cool+With+Toronto+Students+Skipping+Class+For+A+Climate+Strike&amp;rft.date=2019-09-19&amp;rft.aulast=Gilson&amp;rft.aufirst=Patrick+John&amp;rft_id=https%3A%2F%2Fwww.narcity.com%2Fnews%2Fca%2Fon%2Ftoronto%2Fclimate-strike-in-canada-will-have-toronto-students-skipping-school-to-participate&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-Al_Jazeera_Asia-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-Al_Jazeera_Asia_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Al_Jazeera_Asia_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.aljazeera.com/news/2019/09/planet-thousands-join-global-climate-strike-asia-190920040636503.html">"<span class="cs1-kern-left">'</span>No Planet B': Hundreds of thousands join global climate strike"</a>. <i><a href="/wiki/Al_Jazeera" title="Al Jazeera">Al Jazeera</a></i>. 20 September 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Al+Jazeera&amp;rft.atitle=%27No+Planet+B%27%3A+Hundreds+of+thousands+join+global+climate+strike&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fwww.aljazeera.com%2Fnews%2F2019%2F09%2Fplanet-thousands-join-global-climate-strike-asia-190920040636503.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.irishtimes.com/news/world/asia-pacific/tens-of-thousands-join-climate-change-protests-across-world-1.4024673">"Tens of thousands join climate change protests across world"</a>. <i><a href="/wiki/The_Irish_Times" title="The Irish Times">The Irish Times</a></i>. 20 September 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Irish+Times&amp;rft.atitle=Tens+of+thousands+join+climate+change+protests+across+world&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fwww.irishtimes.com%2Fnews%2Fworld%2Fasia-pacific%2Ftens-of-thousands-join-climate-change-protests-across-world-1.4024673&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web">Ting, Victor (20 September 2019). <a rel="nofollow" class="external text" href="https://www.scmp.com/news/hong-kong/health-environment/article/3029763/hong-kong-environmental-activists-join-global">"Hong Kong environmental activists join global 'climate strike' to get green issues back on city's political agenda"</a>. <i><a href="/wiki/South_China_Morning_Post" title="South China Morning Post">South China Morning Post</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=South+China+Morning+Post&amp;rft.atitle=Hong+Kong+environmental+activists+join+global+%E2%80%98climate+strike%E2%80%99+to+get+green+issues+back+on+city%E2%80%99s+political+agenda&amp;rft.date=2019-09-20&amp;rft.aulast=Ting&amp;rft.aufirst=Victor&amp;rft_id=https%3A%2F%2Fwww.scmp.com%2Fnews%2Fhong-kong%2Fhealth-environment%2Farticle%2F3029763%2Fhong-kong-environmental-activists-join-global&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-DW_Live-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-DW_Live_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DW_Live_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.dw.com/en/fridays-for-future-global-climate-strike-live-updates/a-50505537">"Fridays for Future global climate strike — live updates"</a>. <i><a href="/wiki/Deutsche_Welle" title="Deutsche Welle">Deutsche Welle</a></i>. 20 September 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Deutsche+Welle&amp;rft.atitle=Fridays+for+Future+global+climate+strike+%E2%80%94+live+updates&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fwww.dw.com%2Fen%2Ffridays-for-future-global-climate-strike-live-updates%2Fa-50505537&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web">Darnault, Maïté; Fonteneau, Eva; Renon, Philippine (20 September 2019). <a rel="nofollow" class="external text" href="https://www.liberation.fr/france/2019/09/20/marches-des-jeunes-pour-le-climat-il-faut-se-bouger-le-cul_1752660">"Marches des jeunes pour le climat&#160;: «Il faut se bouger le cul&#160;!»"</a> &#91;Youth climate marches: "You have to move your ass!"&#93;. <i><a href="/wiki/Lib%C3%A9ration" title="Libération">Libération</a></i> (in French)<span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Lib%C3%A9ration&amp;rft.atitle=Marches+des+jeunes+pour+le+climat+%3A+%C2%ABIl+faut+se+bouger+le+cul+%21%C2%BB&amp;rft.date=2019-09-20&amp;rft.aulast=Darnault&amp;rft.aufirst=Ma%C3%AFt%C3%A9&amp;rft.au=Fonteneau%2C+Eva&amp;rft.au=Renon%2C+Philippine&amp;rft_id=https%3A%2F%2Fwww.liberation.fr%2Ffrance%2F2019%2F09%2F20%2Fmarches-des-jeunes-pour-le-climat-il-faut-se-bouger-le-cul_1752660&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.lemonde.fr/planete/article/2019/09/20/de-sydney-a-new-york-une-greve-mondiale-pour-le-climat_6012387_3244.html">"«&#160;Le niveau des océans monte, notre colère aussi&#160;»&#160;: une grève mondiale historique pour le climat"</a> &#91;"The level of the oceans is rising, our anger too": a historic global climate strike&#93;. <i><a href="/wiki/Le_Monde" title="Le Monde">Le Monde</a></i> (in French). 20 September 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Le+Monde&amp;rft.atitle=%C2%AB+Le+niveau+des+oc%C3%A9ans+monte%2C+notre+col%C3%A8re+aussi+%C2%BB+%3A+une+gr%C3%A8ve+mondiale+historique+pour+le+climat&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fwww.lemonde.fr%2Fplanete%2Farticle%2F2019%2F09%2F20%2Fde-sydney-a-new-york-une-greve-mondiale-pour-le-climat_6012387_3244.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://georgiatoday.ge/news/17385/Georgia-Joins-Global-Climate-Strike-">"Georgia Joins Global Climate Strike"</a>. <i>Georgia Today on the Web</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Georgia+Today+on+the+Web&amp;rft.atitle=Georgia+Joins+Global+Climate+Strike&amp;rft_id=http%3A%2F%2Fgeorgiatoday.ge%2Fnews%2F17385%2FGeorgia-Joins-Global-Climate-Strike-&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-Local_Germany-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-Local_Germany_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Local_Germany_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Loxton, Rachel (20 September 2019). <a rel="nofollow" class="external text" href="https://www.thelocal.de/20190917/five-things-to-know-about-the-upcoming-climate-strikes-in-germany">"Update: Six things to know about the climate strikes in Germany"</a>. <i><a href="/wiki/The_Local" title="The Local">The Local</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Local&amp;rft.atitle=Update%3A+Six+things+to+know+about+the+climate+strikes+in+Germany&amp;rft.date=2019-09-20&amp;rft.aulast=Loxton&amp;rft.aufirst=Rachel&amp;rft_id=https%3A%2F%2Fwww.thelocal.de%2F20190917%2Ffive-things-to-know-about-the-upcoming-climate-strikes-in-germany&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-DW_Germany-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-DW_Germany_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DW_Germany_34-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.dw.com/en/german-bus-operator-offers-free-trips-to-climate-protests/a-50447239">"German bus operator offers free trips to climate protests"</a>. <i><a href="/wiki/Deutsche_Welle" title="Deutsche Welle">Deutsche Welle</a></i>. 16 September 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Deutsche+Welle&amp;rft.atitle=German+bus+operator+offers+free+trips+to+climate+protests&amp;rft.date=2019-09-16&amp;rft_id=https%3A%2F%2Fwww.dw.com%2Fen%2Fgerman-bus-operator-offers-free-trips-to-climate-protests%2Fa-50447239&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-BS_Germany-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-BS_Germany_35-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.business-standard.com/article/pti-stories/big-global-climate-protests-on-friday-get-union-support-119091700846_1.html">"From India to Europe, 'global climate strike' events planned for Friday"</a>. <i>Business Standard</i>. 17 September 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Business+Standard&amp;rft.atitle=From+India+to+Europe%2C+%27global+climate+strike%27+events+planned+for+Friday&amp;rft.date=2019-09-17&amp;rft_id=https%3A%2F%2Fwww.business-standard.com%2Farticle%2Fpti-stories%2Fbig-global-climate-protests-on-friday-get-union-support-119091700846_1.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-Greece-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-Greece_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Greece_36-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.protothema.gr/environment/article/926978/duo-diadiloseis-simera-stin-athina-kata-tis-klimatikis-allagis/">"Δύο διαδηλώσεις σήμερα στην Αθήνα κατά της κλιματικής αλλαγής"</a> &#91;Two protests in Athens today against climate change&#93;. <i><a href="/wiki/Proto_Thema" title="Proto Thema">Proto Thema</a></i>. 20 September 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proto+Thema&amp;rft.atitle=%CE%94%CF%8D%CE%BF+%CE%B4%CE%B9%CE%B1%CE%B4%CE%B7%CE%BB%CF%8E%CF%83%CE%B5%CE%B9%CF%82+%CF%83%CE%AE%CE%BC%CE%B5%CF%81%CE%B1+%CF%83%CF%84%CE%B7%CE%BD+%CE%91%CE%B8%CE%AE%CE%BD%CE%B1+%CE%BA%CE%B1%CF%84%CE%AC+%CF%84%CE%B7%CF%82+%CE%BA%CE%BB%CE%B9%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE%CF%82+%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE%CF%82&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fwww.protothema.gr%2Fenvironment%2Farticle%2F926978%2Fduo-diadiloseis-simera-stin-athina-kata-tis-klimatikis-allagis%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.kathimerini.gr/1043555/article/epikairothta/politikh/kyr-mhtsotakhs-h-prostasia-toy-perivallontos-einai-ena-8ema-poy-mas-vriskei-enwmenoys">"Mr. Mitsotakis: «The protection of the environment is an issue that finds us united» (original: Κυρ. Μητσοτάκης: «Η προστασία του περιβάλλοντος είναι ένα θέμα που μας βρίσκει ενωμένους»)"</a>. Kathimerini. 20 September 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Mr.+Mitsotakis%3A+%C2%ABThe+protection+of+the+environment+is+an+issue+that+finds+us+united%C2%BB+%28original%3A+%CE%9A%CF%85%CF%81.+%CE%9C%CE%B7%CF%84%CF%83%CE%BF%CF%84%CE%AC%CE%BA%CE%B7%CF%82%3A+%C2%AB%CE%97+%CF%80%CF%81%CE%BF%CF%83%CF%84%CE%B1%CF%83%CE%AF%CE%B1+%CF%84%CE%BF%CF%85+%CF%80%CE%B5%CF%81%CE%B9%CE%B2%CE%AC%CE%BB%CE%BB%CE%BF%CE%BD%CF%84%CE%BF%CF%82+%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9+%CE%AD%CE%BD%CE%B1+%CE%B8%CE%AD%CE%BC%CE%B1+%CF%80%CE%BF%CF%85+%CE%BC%CE%B1%CF%82+%CE%B2%CF%81%CE%AF%CF%83%CE%BA%CE%B5%CE%B9+%CE%B5%CE%BD%CF%89%CE%BC%CE%AD%CE%BD%CE%BF%CF%85%CF%82%C2%BB%29&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fwww.kathimerini.gr%2F1043555%2Farticle%2Fepikairothta%2Fpolitikh%2Fkyr-mhtsotakhs-h-prostasia-toy-perivallontos-einai-ena-8ema-poy-mas-vriskei-enwmenoys&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.huffingtonpost.in/entry/global-climate-strike-india-greta-thunberg-news_in_5d849f2ce4b0849d47275572">"Climate Strike: Governments Need To Act, Next Generation At Risk, Says Climate Change Campaigner"</a>. <i><a href="/wiki/HuffPost" title="HuffPost">HuffPost India</a></i>. 20 September 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HuffPost+India&amp;rft.atitle=Climate+Strike%3A+Governments+Need+To+Act%2C+Next+Generation+At+Risk%2C+Says+Climate+Change+Campaigner&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fwww.huffingtonpost.in%2Fentry%2Fglobal-climate-strike-india-greta-thunberg-news_in_5d849f2ce4b0849d47275572&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.voanews.com/science-health/hundreds-thousands-rally-across-australia-asia-against-climate-change">"Hundreds of Thousands Rally Across Australia, Asia Against Climate Change"</a>. <i>Voice of America</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Voice+of+America&amp;rft.atitle=Hundreds+of+Thousands+Rally+Across+Australia%2C+Asia+Against+Climate+Change&amp;rft_id=https%3A%2F%2Fwww.voanews.com%2Fscience-health%2Fhundreds-thousands-rally-across-australia-asia-against-climate-change&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web">Oliver, Mark; Siddique, Haroon; Marsh, Sarah; Zhou, Naaman. <a rel="nofollow" class="external text" href="https://www.theguardian.com/environment/live/2019/sep/20/climate-strike-global-change-protest-sydney-melbourne-london-new-york-nyc-school-student-protest-greta-thunberg-rally-live-news-latest-updates">"Global climate strike: Greta Thunberg and school students lead climate crisis protest – live updates"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Global+climate+strike%3A+Greta+Thunberg+and+school+students+lead+climate+crisis+protest+%E2%80%93+live+updates&amp;rft.aulast=Oliver&amp;rft.aufirst=Mark&amp;rft.au=Siddique%2C+Haroon&amp;rft.au=Marsh%2C+Sarah&amp;rft.au=Zhou%2C+Naaman&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Flive%2F2019%2Fsep%2F20%2Fclimate-strike-global-change-protest-sydney-melbourne-london-new-york-nyc-school-student-protest-greta-thunberg-rally-live-news-latest-updates&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://timesofmalta.com/articles/view/malta-joins-rest-of-world-in-climate-strike-action.736634/">"Malta joins rest of the world in climate strike action"</a>. <i>Times of Malta</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Times+of+Malta&amp;rft.atitle=Malta+joins+rest+of+the+world+in+climate+strike+action&amp;rft_id=https%3A%2F%2Ftimesofmalta.com%2Farticles%2Fview%2Fmalta-joins-rest-of-world-in-climate-strike-action.736634%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.independent.com.mt/articles/2019-09-20/local-news/Climate-strike-in-Valletta-6736213749">"Climate strike in Valletta"</a>. <i><a href="/wiki/The_Malta_Independent" title="The Malta Independent">The Malta Independent</a></i>. 20 September 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Malta+Independent&amp;rft.atitle=Climate+strike+in+Valletta&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fwww.independent.com.mt%2Farticles%2F2019-09-20%2Flocal-news%2FClimate-strike-in-Valletta-6736213749&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.independent.com.mt/articles/2019-09-01/blogs-opinions/Climate-politics-6736212921">"Green movements in Malta - Extinction Rebellion and the climate emergency"</a>. <i>Malta Independent</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Malta+Independent&amp;rft.atitle=Green+movements+in+Malta+-+Extinction+Rebellion+and+the+climate+emergency&amp;rft_id=https%3A%2F%2Fwww.independent.com.mt%2Farticles%2F2019-09-01%2Fblogs-opinions%2FClimate-politics-6736212921&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite id="CITEREFJorge_BecerrilAxel_Martinez2019" class="citation">Jorge Becerril; Axel Martinez (20 September 2019), <a rel="nofollow" class="external text" href="https://www.milenio.com/politica/comunidad/cdmx-se-suma-a-protesta-contra-el-cambio-climatico">"Jóvenes de CdMx se suman a protesta mundial contra el cambio climático"</a> &#91;Young people from CDMX join worldwide protest against climate change&#93;, <i>Milenio</i> (in Spanish)<span class="reference-accessdate">, retrieved <span class="nowrap">20 September</span> 2019</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Milenio&amp;rft.atitle=J%C3%B3venes+de+CdMx+se+suman+a+protesta+mundial+contra+el+cambio+clim%C3%A1tico&amp;rft.date=2019-09-20&amp;rft.au=Jorge+Becerril&amp;rft.au=Axel+Martinez&amp;rft_id=https%3A%2F%2Fwww.milenio.com%2Fpolitica%2Fcomunidad%2Fcdmx-se-suma-a-protesta-contra-el-cambio-climatico&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="https://noticieros.televisa.com/ultimas-noticias/cambio-climatico-fridays-for-future-marcha-ciudad-mexico-clima-medio-ambiente/">"Marcharán en CDMX contra cambio climático, durante 'Fridays for future<span class="cs1-kern-right">'</span>"</a> &#91;Marches in CDMX against climate change, during 'Fridays for future'&#93;, <i>Televisa News</i> (in Spanish), 20 September 2019<span class="reference-accessdate">, retrieved <span class="nowrap">20 September</span> 2019</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Televisa+News&amp;rft.atitle=Marchar%C3%A1n+en+CDMX+contra+cambio+clim%C3%A1tico%2C+durante+%E2%80%98Fridays+for+future%E2%80%99&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fnoticieros.televisa.com%2Fultimas-noticias%2Fcambio-climatico-fridays-for-future-marcha-ciudad-mexico-clima-medio-ambiente%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation web">Adhikari, Priyanka (20 September 2019). <a rel="nofollow" class="external text" href="https://myrepublica.nagariknetwork.com/news/youths-to-march-for-climate-justice/">"Youths to march for climate justice"</a>. <i>My Republica</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=My+Republica&amp;rft.atitle=Youths+to+march+for+climate+justice&amp;rft.date=2019-09-20&amp;rft.aulast=Adhikari&amp;rft.aufirst=Priyanka&amp;rft_id=https%3A%2F%2Fmyrepublica.nagariknetwork.com%2Fnews%2Fyouths-to-march-for-climate-justice%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.schoolstrike4climatenz.com/">"Join us on September 27th. Strike 4 Climate"</a>. School Strike 4 Climate Action NZ<span class="reference-accessdate">. Retrieved <span class="nowrap">21 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Join+us+on+September+27th.+Strike+4+Climate&amp;rft.pub=School+Strike+4+Climate+Action+NZ&amp;rft_id=https%3A%2F%2Fwww.schoolstrike4climatenz.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation news">Te, Mandy (20 September 2019). <a rel="nofollow" class="external text" href="https://www.stuff.co.nz/environment/climate-news/115951535/climate-strike-students-shave-heads-in-aucklands-aotea-square">"Climate strike: Students shave heads in Auckland's Aotea Square"</a>. <i><a href="/wiki/Stuff.co.nz" title="Stuff.co.nz">Stuff.co.nz</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Stuff.co.nz&amp;rft.atitle=Climate+strike%3A+Students+shave+heads+in+Auckland%27s+Aotea+Square&amp;rft.date=2019-09-20&amp;rft.aulast=Te&amp;rft.aufirst=Mandy&amp;rft_id=https%3A%2F%2Fwww.stuff.co.nz%2Fenvironment%2Fclimate-news%2F115951535%2Fclimate-strike-students-shave-heads-in-aucklands-aotea-square&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.aitpost.com/global-climate-change-strike-today-2/">"Global climate change strike today"</a>. 20 September 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Global+climate+change+strike+today&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fwww.aitpost.com%2Fglobal-climate-change-strike-today-2%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><cite class="citation web">Jamal, Sana (20 September 2019). <a rel="nofollow" class="external text" href="https://gulfnews.com/world/asia/pakistan/pakistani-students-youth-join-global-climate-change-campaign-1.66554299">"Pakistani students, youth join global climate change campaign"</a>. <i><a href="/wiki/Gulf_News" title="Gulf News">Gulf News</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gulf+News&amp;rft.atitle=Pakistani+students%2C+youth+join+global+climate+change+campaign&amp;rft.date=2019-09-20&amp;rft.aulast=Jamal&amp;rft.aufirst=Sana&amp;rft_id=https%3A%2F%2Fgulfnews.com%2Fworld%2Fasia%2Fpakistan%2Fpakistani-students-youth-join-global-climate-change-campaign-1.66554299&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-Dawn-51"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dawn_51-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dawn_51-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Ali, Sana (20 September 2019). <a rel="nofollow" class="external text" href="https://www.dawn.com/news/1506308/tens-of-thousands-to-take-part-in-global-climate-protests-today">"Pakistanis answer call to march against climate change in vast global protest"</a>. <i><a href="/wiki/Dawn_(newspaper)" title="Dawn (newspaper)">Dawn</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dawn&amp;rft.atitle=Pakistanis+answer+call+to+march+against+climate+change+in+vast+global+protest&amp;rft.date=2019-09-20&amp;rft.aulast=Ali&amp;rft.aufirst=Sana&amp;rft_id=https%3A%2F%2Fwww.dawn.com%2Fnews%2F1506308%2Ftens-of-thousands-to-take-part-in-global-climate-protests-today&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><cite class="citation web">Madarang, Catalina Ricci S. (20 September 2019). <a rel="nofollow" class="external text" href="http://www.interaksyon.com/trends-spotlights/2019/09/20/155115/greta-thurnberg-philippines-climate-strike/">"Teen advocate Greta Thunberg wishes Philippines luck on first day of #ClimateStrike"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Teen+advocate+Greta+Thunberg+wishes+Philippines+luck+on+first+day+of+%23ClimateStrike&amp;rft.date=2019-09-20&amp;rft.aulast=Madarang&amp;rft.aufirst=Catalina+Ricci+S.&amp;rft_id=http%3A%2F%2Fwww.interaksyon.com%2Ftrends-spotlights%2F2019%2F09%2F20%2F155115%2Fgreta-thurnberg-philippines-climate-strike%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.independent.co.uk/environment/global-climate-strike-live-protests-greta-thunberg-speech-demonstrations-a9112986.html">"Global strikes begin in what could be largest climate protest in history - follow live"</a>. <i><a href="/wiki/The_Independent" title="The Independent">The Independent</a></i>. 20 September 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Independent&amp;rft.atitle=Global+strikes+begin+in+what+could+be+largest+climate+protest+in+history+-+follow+live&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fenvironment%2Fglobal-climate-strike-live-protests-greta-thunberg-speech-demonstrations-a9112986.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><cite class="citation web">Watts, Jonathan (30 July 2019). <a rel="nofollow" class="external text" href="https://www.theguardian.com/environment/2019/jul/30/philippines-deadliest-country-defenders-environment-global-witness">"Philippines is deadliest country for defenders of environment"</a> &#8211; via www.theguardian.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Philippines+is+deadliest+country+for+defenders+of+environment&amp;rft.date=2019-07-30&amp;rft.aulast=Watts&amp;rft.aufirst=Jonathan&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2F2019%2Fjul%2F30%2Fphilippines-deadliest-country-defenders-environment-global-witness&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xinhuanet.com/english/2019-09/20/c_138408508.htm">"Young Poles rally against climate change - Xinhua &#124; English.news.cn"</a>. <i>Xinhua</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Xinhua&amp;rft.atitle=Young+Poles+rally+against+climate+change+-+Xinhua+%26%23124%3B+English.news.cn&amp;rft_id=http%3A%2F%2Fwww.xinhuanet.com%2Fenglish%2F2019-09%2F20%2Fc_138408508.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.france24.com/en/20190920-australia-global-climate-strike-greta-thunberg-united-nations-youth-summit">"<span class="cs1-kern-left">'</span>The earth is on fire': Young people lead global climate change protests"</a>. <a href="/wiki/France_24" title="France 24">France 24</a>. 20 September 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%27The+earth+is+on+fire%27%3A+Young+people+lead+global+climate+change+protests&amp;rft.pub=France+24&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fwww.france24.com%2Fen%2F20190920-australia-global-climate-strike-greta-thunberg-united-nations-youth-summit&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><cite class="citation web">Drury, Colin (20 September 2019). <a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/world/asia/climate-strike-change-protests-solomon-islands-global-warming-demonstrations-south-pacific-kiribati-a9113386.html">"<span class="cs1-kern-left">'</span>Our existence is at stake': Students on islands being swallowed by rising seas join global climate strike"</a>. <i><a href="/wiki/The_Independent" title="The Independent">The Independent</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Independent&amp;rft.atitle=%27Our+existence+is+at+stake%27%3A+Students+on+islands+being+swallowed+by+rising+seas+join+global+climate+strike&amp;rft.date=2019-09-20&amp;rft.aulast=Drury&amp;rft.aufirst=Colin&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fworld%2Fasia%2Fclimate-strike-change-protests-solomon-islands-global-warming-demonstrations-south-pacific-kiribati-a9113386.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-Maverick_20-58"><span class="mw-cite-backlink">^ <a href="#cite_ref-Maverick_20_58-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Maverick_20_58-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Bloom, Kevin (20 September 2019). <a rel="nofollow" class="external text" href="https://www.dailymaverick.co.za/article/2019-09-20-pick-your-protest-sa-climate-action-kicks-into-global-gear/">"Pick your protest: SA climate action gets personal"</a>. <i><a href="/wiki/Daily_Maverick" title="Daily Maverick">Daily Maverick</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Daily+Maverick&amp;rft.atitle=Pick+your+protest%3A+SA+climate+action+gets+personal&amp;rft.date=2019-09-20&amp;rft.aulast=Bloom&amp;rft.aufirst=Kevin&amp;rft_id=https%3A%2F%2Fwww.dailymaverick.co.za%2Farticle%2F2019-09-20-pick-your-protest-sa-climate-action-kicks-into-global-gear%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-Reuters_SA-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-Reuters_SA_59-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Vavi, Zwelinzima; Lenferna, Alex (13 September 2019). <a rel="nofollow" class="external text" href="http://news.trust.org//item/20190913130314-av8ob/">"OPINOIN: South African unions and activists call on workers to join climate strikes"</a>. Thomas Reuters Foundation<span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=OPINOIN%3A+South+African+unions+and+activists+call+on+workers+to+join+climate+strikes&amp;rft.pub=Thomas+Reuters+Foundation&amp;rft.date=2019-09-13&amp;rft.aulast=Vavi&amp;rft.aufirst=Zwelinzima&amp;rft.au=Lenferna%2C+Alex&amp;rft_id=http%3A%2F%2Fnews.trust.org%2F%2Fitem%2F20190913130314-av8ob%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-Maverick_15-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-Maverick_15_60-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Satgar, Vishwas (15 September 2019). <a rel="nofollow" class="external text" href="https://www.dailymaverick.co.za/article/2019-09-15-the-climate-emergency-disruption-and-rebellion-are-now-a-matter-of-life-and-death/">"The climate emergency: Disruption and rebellion are now a matter of life and death"</a>. <i><a href="/wiki/Daily_Maverick" title="Daily Maverick">Daily Maverick</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Daily+Maverick&amp;rft.atitle=The+climate+emergency%3A+Disruption+and+rebellion+are+now+a+matter+of+life+and+death&amp;rft.date=2019-09-15&amp;rft.aulast=Satgar&amp;rft.aufirst=Vishwas&amp;rft_id=https%3A%2F%2Fwww.dailymaverick.co.za%2Farticle%2F2019-09-15-the-climate-emergency-disruption-and-rebellion-are-now-a-matter-of-life-and-death%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://edition.cnn.com/world/live-news/global-climate-strike-2019/index.html">"Live updates: Global climate strike"</a>. <a href="/wiki/CNN" title="CNN">CNN</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Live+updates%3A+Global+climate+strike&amp;rft.pub=CNN&amp;rft_id=https%3A%2F%2Fedition.cnn.com%2Fworld%2Flive-news%2Fglobal-climate-strike-2019%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hurriyetdailynews.com/world-children-rise-against-climate-crisis-146739">"World children 'rise' against climate crisis - World News"</a>. <i>Hürriyet Daily News</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=H%C3%BCrriyet+Daily+News&amp;rft.atitle=World+children+%E2%80%98rise%E2%80%99+against+climate+crisis+-+World+News&amp;rft_id=http%3A%2F%2Fwww.hurriyetdailynews.com%2Fworld-children-rise-against-climate-crisis-146739&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.business-standard.com/article/pti-stories/hundreds-of-ugandan-children-hold-climate-strike-119092001002_1.html">"Hundreds of Ugandan children hold climate strike"</a>. 20 September 2019 &#8211; via Business Standard.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hundreds+of+Ugandan+children+hold+climate+strike&amp;rft.date=2019-09-20&amp;rft_id=https%3A%2F%2Fwww.business-standard.com%2Farticle%2Fpti-stories%2Fhundreds-of-ugandan-children-hold-climate-strike-119092001002_1.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text"><span class="languageicon">(in Ukrainian)</span> <cite class="citation web"><a rel="nofollow" class="external text" href="https://www.unian.ua/m/ecology/10692735-klimat-zminyuyetsya-a-vlada-rozvodit-rukami-v-centri-kiyeva-proyshov-marsh-na-zahist-klimatu-i-tvarin-foto.html">"<span class="cs1-kern-left">"</span>Climate is changing, power is shaking hands": march on climate and animal protection took place in the center of Kiev (photo)"</a>. <a href="/wiki/UNIAN" class="mw-redirect" title="UNIAN">UNIAN</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%22Climate+is+changing%2C+power+is+shaking+hands%22%3A+march+on+climate+and+animal+protection+took+place+in+the+center+of+Kiev+%28photo%29&amp;rft.pub=UNIAN&amp;rft_id=https%3A%2F%2Fwww.unian.ua%2Fm%2Fecology%2F10692735-klimat-zminyuyetsya-a-vlada-rozvodit-rukami-v-centri-kiyeva-proyshov-marsh-na-zahist-klimatu-i-tvarin-foto.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-Standard-65"><span class="mw-cite-backlink">^ <a href="#cite_ref-Standard_65-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Standard_65-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Jarvis, Jacob (20 September 2019). <a rel="nofollow" class="external text" href="https://www.standard.co.uk/news/world/climate-strikes-youth-activists-gather-worldwide-to-demand-environmental-action-a4242756.html">"Climate strikes: Youth activists gather worldwide to demand environmental action ahead of UN summit"</a>. <i><a href="/wiki/Evening_Standard" title="Evening Standard">Evening Standard</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Evening+Standard&amp;rft.atitle=Climate+strikes%3A+Youth+activists+gather+worldwide+to+demand+environmental+action+ahead+of+UN+summit&amp;rft.date=2019-09-20&amp;rft.aulast=Jarvis&amp;rft.aufirst=Jacob&amp;rft_id=https%3A%2F%2Fwww.standard.co.uk%2Fnews%2Fworld%2Fclimate-strikes-youth-activists-gather-worldwide-to-demand-environmental-action-a4242756.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-66">^</a></b></span> <span class="reference-text"><cite class="citation web">Reese, Ashley. <a rel="nofollow" class="external text" href="https://theslot.jezebel.com/and-here-we-have-a-19-year-old-climate-activist-treatin-1837898637">"And Here We Have a 19-Year-Old Climate Activist Treating Joe Biden With Abject Skepticism &#91;UPDATED&#93;"</a>. <i>The Slot</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Slot&amp;rft.atitle=And+Here+We+Have+a+19-Year-Old+Climate+Activist+Treating+Joe+Biden+With+Abject+Skepticism+%5BUPDATED%5D&amp;rft.aulast=Reese&amp;rft.aufirst=Ashley&amp;rft_id=https%3A%2F%2Ftheslot.jezebel.com%2Fand-here-we-have-a-19-year-old-climate-activist-treatin-1837898637&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-67">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://strikewithus.org/">"US Climate Strikes"</a>. <i>Strike With Us</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Strike+With+Us&amp;rft.atitle=US+Climate+Strikes&amp;rft_id=https%3A%2F%2Fstrikewithus.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-68">^</a></b></span> <span class="reference-text"><cite class="citation web">Isham, Jonathan (30 August 2019). <a rel="nofollow" class="external text" href="https://www.theguardian.com/commentisfree/2019/aug/30/climate-strike-teachers-students-greta-thunberg">"A teachable moment: educators must join students in demanding climate justice"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Guardian&amp;rft.atitle=A+teachable+moment%3A+educators+must+join+students+in+demanding+climate+justice&amp;rft.date=2019-08-30&amp;rft.aulast=Isham&amp;rft.aufirst=Jonathan&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2019%2Faug%2F30%2Fclimate-strike-teachers-students-greta-thunberg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-69">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.commondreams.org/news/2019/08/30/united-electrical-becomes-first-us-industrial-union-endorse-green-new-deal-and">"United Electrical Becomes First US Industrial Union to Endorse Green New Deal and Global Climate Strike"</a>. <i>Common Dreams</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Common+Dreams&amp;rft.atitle=United+Electrical+Becomes+First+US+Industrial+Union+to+Endorse+Green+New+Deal+and+Global+Climate+Strike&amp;rft_id=https%3A%2F%2Fwww.commondreams.org%2Fnews%2F2019%2F08%2F30%2Funited-electrical-becomes-first-us-industrial-union-endorse-green-new-deal-and&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-auto-70"><span class="mw-cite-backlink">^ <a href="#cite_ref-auto_70-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-auto_70-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.nbcnews.com/news/us-news/global-climate-strike-which-companies-are-closing-their-doors-n1055621">"Global Climate Strike: Which companies are closing their doors?"</a>. <a href="/wiki/NBC_News" title="NBC News">NBC News</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Global+Climate+Strike%3A+Which+companies+are+closing+their+doors%3F&amp;rft.pub=NBC+News&amp;rft_id=https%3A%2F%2Fwww.nbcnews.com%2Fnews%2Fus-news%2Fglobal-climate-strike-which-companies-are-closing-their-doors-n1055621&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-NBC-71"><span class="mw-cite-backlink">^ <a href="#cite_ref-NBC_71-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NBC_71-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.nbcnews.com/news/us-news/nyc-schools-let-1-1-million-students-cut-class-climate-n1055516">"NYC schools to let 1.1 million students cut class for climate strike"</a>. <a href="/wiki/NBC_News" title="NBC News">NBC News</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NYC+schools+to+let+1.1+million+students+cut+class+for+climate+strike&amp;rft.pub=NBC+News&amp;rft_id=https%3A%2F%2Fwww.nbcnews.com%2Fnews%2Fus-news%2Fnyc-schools-let-1-1-million-students-cut-class-climate-n1055516&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-72"><span class="mw-cite-backlink"><b><a href="#cite_ref-72">^</a></b></span> <span class="reference-text"><cite class="citation web">Chen, Elaine. <a rel="nofollow" class="external text" href="https://www.chicagotribune.com/news/breaking/ct-youth-climate-strike-amazon-walkout-20190918-s2cgqgjsdjbxtgyeeq5irbht7m-story.html">"Students and labor activists to rally downtown Friday to back international climate strike, Amazon walkout"</a>. <i><a href="/wiki/Chicago_Tribune" title="Chicago Tribune">Chicago Tribune</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Chicago+Tribune&amp;rft.atitle=Students+and+labor+activists+to+rally+downtown+Friday+to+back+international+climate+strike%2C+Amazon+walkout&amp;rft.aulast=Chen&amp;rft.aufirst=Elaine&amp;rft_id=https%3A%2F%2Fwww.chicagotribune.com%2Fnews%2Fbreaking%2Fct-youth-climate-strike-amazon-walkout-20190918-s2cgqgjsdjbxtgyeeq5irbht7m-story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-73"><span class="mw-cite-backlink"><b><a href="#cite_ref-73">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://actionnetwork.org/forms/sign-on-letter-people-of-faith-for-the-climate-strikes">"Sign-on Letter: People of Faith for the Climate Strikes"</a>. <i>actionnetwork.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=actionnetwork.org&amp;rft.atitle=Sign-on+Letter%3A+People+of+Faith+for+the+Climate+Strikes&amp;rft_id=https%3A%2F%2Factionnetwork.org%2Fforms%2Fsign-on-letter-people-of-faith-for-the-climate-strikes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-74"><span class="mw-cite-backlink"><b><a href="#cite_ref-74">^</a></b></span> <span class="reference-text"><cite class="citation web">ago, Ryan Barwick|2 days. <a rel="nofollow" class="external text" href="https://www.adweek.com/brand-marketing/brands-are-closing-their-doors-in-support-of-the-global-climate-strike/">"Brands Are Closing Their Doors in Support of the Global Climate Strike"</a>. <i>www.adweek.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.adweek.com&amp;rft.atitle=Brands+Are+Closing+Their+Doors+in+Support+of+the+Global+Climate+Strike&amp;rft.aulast=ago&amp;rft.aufirst=Ryan+Barwick%7C2+days&amp;rft_id=https%3A%2F%2Fwww.adweek.com%2Fbrand-marketing%2Fbrands-are-closing-their-doors-in-support-of-the-global-climate-strike%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-75"><span class="mw-cite-backlink"><b><a href="#cite_ref-75">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://globalclimatestrike.net/press-release-over-1000-websites-join-digital-climate-strike/">"Press Release: Over 6,000 websites and major companies plan to join 'Digital Climate Strike' next week"</a>. <i>Global Climate Strike → Sep. 20–27</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Global+Climate+Strike+%E2%86%92+Sep.+20%E2%80%9327&amp;rft.atitle=Press+Release%3A+Over+6%2C000+websites+and+major+companies+plan+to+join+%27Digital+Climate+Strike%27+next+week&amp;rft_id=https%3A%2F%2Fglobalclimatestrike.net%2Fpress-release-over-1000-websites-join-digital-climate-strike%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-76"><span class="mw-cite-backlink"><b><a href="#cite_ref-76">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://grist.org/article/amazon-employees-will-walk-out-over-the-companys-climate-inaction/">"Amazon employees will walk out over the company's climate inaction"</a>. <i>Grist</i>. 11 September 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Grist&amp;rft.atitle=Amazon+employees+will+walk+out+over+the+company%27s+climate+inaction&amp;rft.date=2019-09-11&amp;rft_id=https%3A%2F%2Fgrist.org%2Farticle%2Famazon-employees-will-walk-out-over-the-companys-climate-inaction%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-77"><span class="mw-cite-backlink"><b><a href="#cite_ref-77">^</a></b></span> <span class="reference-text"><cite class="citation web">Clifford, Catherine (11 September 2019). <a rel="nofollow" class="external text" href="https://www.cnbc.com/2019/09/11/amazon-employee-on-walkout-for-climate-change.html">"Amazon employee on walkout for climate change: I was feeling 'hopeless,' 'ashamed' of my role there"</a>. <a href="/wiki/CNBC" title="CNBC">CNBC</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Amazon+employee+on+walkout+for+climate+change%3A+I+was+feeling+%27hopeless%2C%27+%27ashamed%27+of+my+role+there&amp;rft.pub=CNBC&amp;rft.date=2019-09-11&amp;rft.aulast=Clifford&amp;rft.aufirst=Catherine&amp;rft_id=https%3A%2F%2Fwww.cnbc.com%2F2019%2F09%2F11%2Famazon-employee-on-walkout-for-climate-change.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-78"><span class="mw-cite-backlink"><b><a href="#cite_ref-78">^</a></b></span> <span class="reference-text"><cite class="citation web">Palmer, Annie (19 September 2019). <a rel="nofollow" class="external text" href="https://www.cnbc.com/2019/09/19/jeff-bezos-speaks-about-amazon-sustainability-in-washington-dc.html">"Jeff Bezos unveils sweeping plan to tackle climate change"</a>. <a href="/wiki/CNBC" title="CNBC">CNBC</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jeff+Bezos+unveils+sweeping+plan+to+tackle+climate+change&amp;rft.pub=CNBC&amp;rft.date=2019-09-19&amp;rft.aulast=Palmer&amp;rft.aufirst=Annie&amp;rft_id=https%3A%2F%2Fwww.cnbc.com%2F2019%2F09%2F19%2Fjeff-bezos-speaks-about-amazon-sustainability-in-washington-dc.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeptember+2019+climate+strikes" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-</ol></div></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit&amp;section=45" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a rel="nofollow" class="external text" href="https://globalclimatestrike.net/">Global Climate Strike</a></li>
-<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Global_Climate_Strike_on_20_September_2019" class="extiw" title="commons:Category:Global Climate Strike on 20 September 2019">Global Climate Strike on 20 September 2019</a> at Wikimedia Commons</li></ul>
-<!-- 
-NewPP limit report
-Parsed by mw1341
-Cached time: 20190921043121
-Cache expiry: 2592000
-Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.860 seconds
-Real time usage: 1.015 seconds
-Preprocessor visited node count: 4086/1000000
-Preprocessor generated node count: 0/1500000
-Post‐expand include size: 148957/2097152 bytes
-Template argument size: 1531/2097152 bytes
-Highest expansion depth: 14/40
-Expensive parser function count: 3/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 244423/5000000 bytes
-Number of Wikibase entities loaded: 1/400
-Lua time usage: 0.492/10.000 seconds
-Lua memory usage: 14.69 MB/50 MB
--->
-<!--
-Transclusion expansion time report (%,ms,calls,template)
-100.00%  865.797      1 -total
- 69.02%  597.584      1 Template:Reflist
- 38.71%  335.150     67 Template:Cite_web
- 15.77%  136.562      1 Template:Uk_icon
- 15.48%  134.051      1 Template:Link_language
-  8.27%   71.587      1 Template:Infobox_civil_conflict
-  6.71%   58.096      1 Template:Infobox
-  5.41%   46.872      1 Template:Current_event
-  5.31%   45.973      9 Template:Cite_news
-  5.18%   44.834      1 Template:Commons_category-inline
--->
-
-<!-- Saved in parser cache with key enwiki:pcache:idhash:59419585-0!canonical and timestamp 20190921043122 and revision id 916885245
- -->
-</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
-
-<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=September_2019_climate_strikes&amp;oldid=916885245">https://en.wikipedia.org/w/index.php?title=September_2019_climate_strikes&amp;oldid=916885245</a>"</div>
-
-<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2019_in_the_environment" title="Category:2019 in the environment">2019 in the environment</a></li><li><a href="/wiki/Category:2019_protests" title="Category:2019 protests">2019 protests</a></li><li><a href="/wiki/Category:Climate_change_and_society" title="Category:Climate change and society">Climate change and society</a></li><li><a href="/wiki/Category:Direct_action" title="Category:Direct action">Direct action</a></li><li><a href="/wiki/Category:Environmental_protests" title="Category:Environmental protests">Environmental protests</a></li><li><a href="/wiki/Category:Global_warming" title="Category:Global warming">Global warming</a></li><li><a href="/wiki/Category:September_2019_events" title="Category:September 2019 events">September 2019 events</a></li><li><a href="/wiki/Category:Student_strikes" title="Category:Student strikes">Student strikes</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:CS1_Spanish-language_sources_(es)" title="Category:CS1 Spanish-language sources (es)">CS1 Spanish-language sources (es)</a></li><li><a href="/wiki/Category:Articles_with_Ukrainian-language_external_links" title="Category:Articles with Ukrainian-language external links">Articles with Ukrainian-language external links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2019" title="Category:Use dmy dates from September 2019">Use dmy dates from September 2019</a></li><li><a href="/wiki/Category:Current_events_from_September_2019" title="Category:Current events from September 2019">Current events from September 2019</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li></ul></div></div>
-<div class="visualClear"></div>
-
-</div>
-</div>
-<div id='mw-data-after-content'>
-<div class="read-more-container"></div>
+                                                                                                <div class="story-more">
+          <div class="group story-alsos more-on-this-story"> <div class="group__header"> <h2 class="group__title">More on this story</h2> </div> <div class="group__body"> <ul class="units-list ">    <li class="unit unit--regular" data-entityid="more-on-this-story#1" >  <a href="/news/av/world-middle-east-49782930/bbc-reporter-tours-damaged-facility" class="unit__link-wrapper"> <div class="unit__body"> <div class="unit__header">  <div class="unit__title">        
+    <span class="icon-new icon-new--video-square-red"><span class="off-screen"> Video</span></span>
+    
+    
+   <span class="cta"> BBC reporter tours damaged facility </span> </div>    <div class="unit__meta"> <div class="date date--v1" data-seconds="1569075890" data-datetime="21 September 2019">21 September 2019</div> </div>  </div> </div> </a>  </li>     <li class="unit unit--regular" data-entityid="more-on-this-story#2" >  <a href="/news/world-middle-east-49760200" class="unit__link-wrapper"> <div class="unit__body"> <div class="unit__header">  <div class="unit__title">     <span class="cta"> Why would Iran attack Saudi Arabia? </span> </div>    <div class="unit__meta"> <div class="date date--v1" data-seconds="1568935534" data-datetime="20 September 2019">20 September 2019</div> </div>  </div> </div> </a>  </li>     <li class="unit unit--regular" data-entityid="more-on-this-story#3" >  <a href="/news/world-middle-east-49746645" class="unit__link-wrapper"> <div class="unit__body"> <div class="unit__header">  <div class="unit__title">     <span class="cta"> Saudi Arabia oil attacks: Weapons debris 'proves Iran behind them' </span> </div>    <div class="unit__meta"> <div class="date date--v1" data-seconds="1568837393" data-datetime="18 September 2019">18 September 2019</div> </div>  </div> </div> </a>  </li>     <li class="unit unit--regular" data-entityid="more-on-this-story#4" >  <a href="/news/world-middle-east-49718828" class="unit__link-wrapper"> <div class="unit__body"> <div class="unit__header">  <div class="unit__title">     <span class="cta"> Saudi oil attacks: Who's using drones in the Middle East? </span> </div>    <div class="unit__meta"> <div class="date date--v1" data-seconds="1568731501" data-datetime="17 September 2019">17 September 2019</div> </div>  </div> </div> </a>  </li>     <li class="unit unit--regular" data-entityid="more-on-this-story#5" >  <a href="/news/world-middle-east-42008809" class="unit__link-wrapper"> <div class="unit__body"> <div class="unit__header">  <div class="unit__title">     <span class="cta"> Why Saudi Arabia and Iran are bitter rivals </span> </div>    <div class="unit__meta"> <div class="date date--v1" data-seconds="1568638479" data-datetime="16 September 2019">16 September 2019</div> </div>  </div> </div> </a>  </li>   </ul> </div> </div>      </div>
+                                                                                            
+                                                                                                    <div id=comp-pattern-library-7
+            class="hidden"
+            data-post-load-url="/news/pattern-library-components?options%5BassetId%5D=49782693&amp;options%5Bcontainer_class%5D=container-more-from-this-index&amp;options%5Bdata%5D%5Bsource%5D=candy_parent_index&amp;options%5Bdata%5D%5Bsource_params%5D%5Bsection_title%5D=1&amp;options%5Bcomponents%5D%5B0%5D%5Bname%5D=sparrow&amp;options%5Bcomponents%5D%5B0%5D%5Blimit%5D=3&amp;options%5Bloading_strategy%5D=post_load&amp;options%5Bstats%5D%5Blink_location%5D=more-section-index&amp;options%5Bstats%5D%5Bstrapline_link_location%5D=more-from-this-index-headline&amp;options%5Bstats%5D%5Bsection_label%5D=more-from-this-index-section-label&amp;options%5Basset_id%5D=world-middle-east-49782693&amp;presenter=pattern-library-presenter">
+        </div>                                                                                                    <div id=comp-from-other-news-sites
+            class="hidden"
+            data-comp-meta="{&quot;id&quot;:&quot;comp-from-other-news-sites&quot;,&quot;type&quot;:&quot;from-other-news-sites&quot;,&quot;handler&quot;:&quot;default&quot;,&quot;deviceGroups&quot;:null,&quot;opts&quot;:{&quot;assetId&quot;:&quot;49782693&quot;,&quot;conditions&quot;:[&quot;is_local_page&quot;],&quot;loading_strategy&quot;:&quot;post_load&quot;,&quot;asset_id&quot;:&quot;world-middle-east-49782693&quot;,&quot;position_info&quot;:{&quot;instanceNo&quot;:1,&quot;positionInRegion&quot;:7,&quot;lastInRegion&quot;:true,&quot;lastOnPage&quot;:false,&quot;column&quot;:&quot;primary_column&quot;}},&quot;template&quot;:&quot;/component/from-other-news-sites&quot;}">
+        </div>                                
+<div id="bbccom_outbrain_ar_5_1_2_3_4" class="bbccom_slot outbrain-ad"  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('outbrain_ar_5', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
 </div>
 
-<div id="mw-navigation">
-<h2>Navigation menu</h2>
-<div id="mw-head">
-<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
-<h3 id="p-personal-label">Personal tools</h3>
-<ul>
-<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=September+2019+climate+strikes" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=September+2019+climate+strikes" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
-</div>
-<div id="left-navigation">
-<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
-<h3 id="p-namespaces-label">Namespaces</h3>
-<ul>
-<li id="ca-nstab-main" class="selected"><span><a href="/wiki/September_2019_climate_strikes" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:September_2019_climate_strikes" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li></ul>
-</div>
-<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
-<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
-<h3 id="p-variants-label">
-<span>Variants</span>
-</h3>
-<ul class="menu">
-</ul>
-</div>
-</div>
-<div id="right-navigation">
-<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
-<h3 id="p-views-label">Views</h3>
-<ul>
-<li id="ca-view" class="collapsible selected"><span><a href="/wiki/September_2019_climate_strikes">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li></ul>
-</div>
-<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
-<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
-<h3 id="p-cactions-label"><span>More</span></h3>
-<ul class="menu">
-</ul>
-</div>
-<div id="p-search" role="search">
-<h3>
-<label for="searchInput">Search</label>
-</h3>
-<form action="/w/index.php" id="searchform">
-<div id="simpleSearch">
-<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/></div>
-</form>
-</div>
-</div>
-</div>
-<div id="mw-panel">
-<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
-<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
-<h3 id="p-navigation-label">Navigation</h3>
-<div class="body">
-<ul>
-<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
-</div>
-</div>
-<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
-<h3 id="p-interaction-label">Interaction</h3>
-<div class="body">
-<ul>
-<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li></ul>
-</div>
-</div>
-<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
-<h3 id="p-tb-label">Tools</h3>
-<div class="body">
-<ul>
-<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/September_2019_climate_strikes" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/September_2019_climate_strikes" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=September_2019_climate_strikes&amp;oldid=916885245" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=September_2019_climate_strikes&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q67205392" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=September_2019_climate_strikes&amp;id=916885245" title="Information on how to cite this page">Cite this page</a></li></ul>
-</div>
-</div>
-<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
-<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
-<div class="body">
-<ul>
-<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Global_Climate_Strike_on_20_September_2019" hreflang="en">Wikimedia Commons</a></li></ul>
-</div>
-</div>
-<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
-<h3 id="p-coll-print_export-label">Print/export</h3>
-<div class="body">
-<ul>
-<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=September+2019+climate+strikes">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=September+2019+climate+strikes&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=September_2019_climate_strikes&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
-</div>
-</div>
-<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
-<h3 id="p-lang-label">Languages</h3>
-<div class="body">
-<ul>
-<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D8%B6%D8%B1%D8%A7%D8%A8_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A_%D9%85%D9%86_%D8%A3%D8%AC%D9%84_%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE_2019" title="الإضراب العالمي من أجل المناخ 2019 – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9A%CE%BB%CE%B9%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AD%CF%82_%CE%B4%CE%B9%CE%B1%CE%B4%CE%B7%CE%BB%CF%8E%CF%83%CE%B5%CE%B9%CF%82_%CE%A3%CE%B5%CF%80%CF%84%CE%B5%CE%BC%CE%B2%CF%81%CE%AF%CE%BF%CF%85_2019" title="Κλιματικές διαδηλώσεις Σεπτεμβρίου 2019 – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D9%87%D9%BE%DB%8C%D9%85%D8%A7%DB%8C%DB%8C_%D8%A7%D9%82%D9%84%DB%8C%D9%85_%D8%B3%D9%BE%D8%AA%D8%A7%D9%85%D8%A8%D8%B1_%DB%B2%DB%B0%DB%B1%DB%B9" title="راهپیمایی اقلیم سپتامبر ۲۰۱۹ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Greve_clim%C3%A1tica_de_setembro_de_2019" title="Greve climática de setembro de 2019 – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BB%D1%96%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%81%D1%82%D1%80%D0%B0%D0%B9%D0%BA_(2019)" title="Кліматичний страйк (2019) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Bi%E1%BB%83u_t%C3%ACnh_kh%C3%AD_h%E1%BA%ADu_th%C3%A1ng_9_n%C4%83m_2019" title="Biểu tình khí hậu tháng 9 năm 2019 – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li></ul>
-<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q67205392#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div></div>
-</div>
-</div>
-</div>
-<div id="footer" role="contentinfo">
-<ul id="footer-info">
-<li id="footer-info-lastmod"> This page was last edited on 21 September 2019, at 04:31<span class="anonymous-show">&#160;(UTC)</span>.</li>
-<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
-</ul>
-<ul id="footer-places">
-<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
-<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=September_2019_climate_strikes&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-</ul>
-<ul id="footer-icons" class="noprint">
-<li id="footer-copyrightico">
-<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
-<li id="footer-poweredbyico">
-<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
-</ul>
-<div style="clear: both;"></div>
+<div id="bbccom_outbrain_ar_7_1_2_3_4" class="bbccom_slot outbrain-ad"  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('outbrain_ar_7', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
 </div>
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.860","walltime":"1.015","ppvisitednodes":{"value":4086,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":148957,"limit":2097152},"templateargumentsize":{"value":1531,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":244423,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  865.797      1 -total"," 69.02%  597.584      1 Template:Reflist"," 38.71%  335.150     67 Template:Cite_web"," 15.77%  136.562      1 Template:Uk_icon"," 15.48%  134.051      1 Template:Link_language","  8.27%   71.587      1 Template:Infobox_civil_conflict","  6.71%   58.096      1 Template:Infobox","  5.41%   46.872      1 Template:Current_event","  5.31%   45.973      9 Template:Cite_news","  5.18%   44.834      1 Template:Commons_category-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.492","limit":"10.000"},"limitreport-memusage":{"value":15399298,"limit":52428800}},"cachereport":{"origin":"mw1341","timestamp":"20190921043121","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","name":"September 2019 climate strikes","url":"https://en.wikipedia.org/wiki/September_2019_climate_strikes","sameAs":"http://www.wikidata.org/entity/Q67205392","mainEntity":"http://www.wikidata.org/entity/Q67205392","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https://www.wikimedia.org/static/images/wmf-hor-googpub.png"}},"datePublished":"2018-12-17T23:07:05Z","dateModified":"2019-09-21T04:31:22Z","image":"https://upload.wikimedia.org/wikipedia/en/9/9f/Logo_of_Climate_Strike.png","headline":"worldwide day of action around climate change"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1256"});});</script>
-</body>
-</html>
+<div id="bbccom_outbrain_ar_8_1_2_3_4" class="bbccom_slot outbrain-ad"  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('outbrain_ar_8', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+
+<div id="bbccom_outbrain_ar_9_3_4" class="bbccom_slot outbrain-ad"  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('outbrain_ar_9', [3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+                                        </div>
+                                     <div class="column--secondary" role="complementary">
+                                                                            <div id="comp-top-stories-promo" class="top-stories-promo">
+    <h2 class="top-stories-promo__title">Top Stories</h2>
+                    <a href="/news/world-middle-east-49782693" class="top-stories-promo-story" data-asset-id="/news/world-middle-east-49782693"data-entityid="top-stories#1">
+        <strong class="top-stories-promo-story__title">Saudis vow to respond to attack on oil sites</strong>
+                    <p class="top-stories-promo-story__summary top-stories-promo-story__summary--none">The kingdom says it will take "necessary measures" as it reiterates that Iran is to blame.</p>
+                    <div class="date date--v2" data-seconds="1569084369" data-datetime="21 September 2019">21 September 2019</div>
+    </a>
+                    <a href="/news/av/world-middle-east-49782930/saudi-arabia-oil-attacks-a-look-at-the-damage" class="top-stories-promo-story" data-asset-id="/news/av/world-middle-east-49782930/saudi-arabia-oil-attacks-a-look-at-the-damage"data-entityid="top-stories#3">
+        <strong class="top-stories-promo-story__title">Saudi Arabia oil attacks: A look at the damage</strong>
+                    <div class="date date--v2" data-seconds="1569075890" data-datetime="21 September 2019">21 September 2019</div>
+    </a>
+                    <a href="/news/49781152" class="top-stories-promo-story" data-asset-id="/news/49781152"data-entityid="top-stories#5">
+        <strong class="top-stories-promo-story__title">UK opposition moves to fend off 'civil war'</strong>
+                    <div class="date date--v2" data-seconds="1569083659" data-datetime="21 September 2019">21 September 2019</div>
+    </a>
+        </div>                                
+<div id="bbccom_mpu_4" class="bbccom_slot mpu-ad"  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu', [4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+                                                            
+<div class="features-and-analysis" id="comp-features-and-analysis" >
+    <h2 class="features-and-analysis__title">
+        
+        Features
+    </h2>
+    <div class="features-and-analysis__stories promo-unit-spacer">
+        
+        <div class="features-and-analysis__story"  data-entityid="features-and-analysis#1">
+            <a href="/news/world-middle-east-49775849" class="bold-image-promo">
+                <div class="bold-image-promo__image">
+                            <div class="responsive-image responsive-image--16by9">
+                                
+                                    <div class="js-delayed-image-load" data-src="https://ichef.bbci.co.uk/news/304/cpsprodpb/FF81/production/_108890456_hi056648233.jpg" data-width="976" data-height="549" data-alt="A destroyed oil installation at Saudi Arabia's Abqaiq oil processing plant"></div>
+                                    <!--[if lt IE 9]>
+                                    <img src="https://ichef.bbci.co.uk/news/304/cpsprodpb/FF81/production/_108890456_hi056648233.jpg" class="js-image-replace" alt="A destroyed oil installation at Saudi Arabia's Abqaiq oil processing plant" width="976" height="549" />
+                                    <![endif]-->
+                                
+                            </div>
+                </div>
+                <h3 class="bold-image-promo__title">Race on to restore supply after Saudi oil attacks</h3>
+                
+            </a>
+        </div>
+        
+        
+        <div class="features-and-analysis__story"  data-entityid="features-and-analysis#2">
+            <a href="/news/av/science-environment-49669971/artist-captures-how-humans-are-reshaping-the-planet" class="bold-image-promo">
+                <div class="bold-image-promo__image">
+                            <div class="responsive-image responsive-image--16by9">
+                                <div class="responsive-image__inner-for-label"><!-- closed in responsive-image-end -->
+                                    <div class="js-delayed-image-load" data-src="https://ichef.bbci.co.uk/news/304/cpsprodpb/3D17/production/_108893651_p07nzrbq.jpg" data-width="1024" data-height="576" data-alt="Potash mine, image by Edward Burtynsky"></div>
+                                    <!--[if lt IE 9]>
+                                    <img src="https://ichef.bbci.co.uk/news/304/cpsprodpb/3D17/production/_108893651_p07nzrbq.jpg" class="js-image-replace" alt="Potash mine, image by Edward Burtynsky" width="1024" height="576" />
+                                    <![endif]-->
+                                    <div class="responsive-image__label" aria-hidden="true">
+                                                <span class="icon video"><span class="off-screen"> Video</span></span>
+                                                
+                                                
+                                                
+                                    </div>
+                                <!-- opened in responsive-image-start --></div>
+                            </div>
+                </div>
+                <h3 class="bold-image-promo__title">Artist captures how humans are reshaping the planet</h3>
+                
+            </a>
+        </div>
+        
+        
+        <div class="features-and-analysis__story"  data-entityid="features-and-analysis#3">
+            <a href="/news/world-us-canada-49760165" class="bold-image-promo">
+                <div class="bold-image-promo__image">
+                            <div class="responsive-image responsive-image--16by9">
+                                
+                                    <div class="js-delayed-image-load" data-src="https://ichef.bbci.co.uk/news/304/cpsprodpb/220F/production/_108891780_trump_modi_976getty.jpg" data-width="976" data-height="549" data-alt="Modi and Trump"></div>
+                                    <!--[if lt IE 9]>
+                                    <img src="https://ichef.bbci.co.uk/news/304/cpsprodpb/220F/production/_108891780_trump_modi_976getty.jpg" class="js-image-replace" alt="Modi and Trump" width="976" height="549" />
+                                    <![endif]-->
+                                
+                            </div>
+                </div>
+                <h3 class="bold-image-promo__title">Trump is off to a rally... but this time it's someone else's</h3>
+                
+            </a>
+        </div>
+        
+<div id="bbccom_infeed_news_story_1_2_3_4_5" class="bbccom_slot infeednewsstory-ad"  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('infeed_news_story', [1,2,3,4,5]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+
+        
+        <div class="features-and-analysis__story"  data-entityid="features-and-analysis#4">
+            <a href="/news/world-asia-49758043" class="bold-image-promo">
+                <div class="bold-image-promo__image">
+                            <div class="responsive-image responsive-image--16by9">
+                                
+                                    <div class="js-delayed-image-load" data-src="https://ichef.bbci.co.uk/news/304/cpsprodpb/124AF/production/_108872947_mediaitem108872946.jpg" data-width="976" data-height="549" data-alt="Amazones, a mascot in Ama City"></div>
+                                    <!--[if lt IE 9]>
+                                    <img src="https://ichef.bbci.co.uk/news/304/cpsprodpb/124AF/production/_108872947_mediaitem108872946.jpg" class="js-image-replace" alt="Amazones, a mascot in Ama City" width="976" height="549" />
+                                    <![endif]-->
+                                
+                            </div>
+                </div>
+                <h3 class="bold-image-promo__title">'Dominatrix with an onion': Japan’s mad mascots </h3>
+                
+            </a>
+        </div>
+        
+        
+        <div class="features-and-analysis__story"  data-entityid="features-and-analysis#5">
+            <a href="/news/world-europe-49778845" class="bold-image-promo">
+                <div class="bold-image-promo__image">
+                            <div class="responsive-image responsive-image--16by9">
+                                
+                                    <div class="js-delayed-image-load" data-src="https://ichef.bbci.co.uk/news/304/cpsprodpb/5BE9/production/_108892532_tv056641184.jpg" data-width="976" data-height="549" data-alt="A British and an EU flag at the EU Commission HQ in Brussels"></div>
+                                    <!--[if lt IE 9]>
+                                    <img src="https://ichef.bbci.co.uk/news/304/cpsprodpb/5BE9/production/_108892532_tv056641184.jpg" class="js-image-replace" alt="A British and an EU flag at the EU Commission HQ in Brussels" width="976" height="549" />
+                                    <![endif]-->
+                                
+                            </div>
+                </div>
+                <h3 class="bold-image-promo__title">What next in the Brexit PR war?</h3>
+                
+            </a>
+        </div>
+        
+        
+        <div class="features-and-analysis__story"  data-entityid="features-and-analysis#6">
+            <a href="/news/av/world-us-canada-49760164/what-us-children-are-sacrificing-for-climate" class="bold-image-promo">
+                <div class="bold-image-promo__image">
+                            <div class="responsive-image responsive-image--16by9">
+                                <div class="responsive-image__inner-for-label"><!-- closed in responsive-image-end -->
+                                    <div class="js-delayed-image-load" data-src="https://ichef.bbci.co.uk/news/304/cpsprodpb/9429/production/_108892973_p07nyvhb.jpg" data-width="1024" data-height="576" data-alt="Young people want politicians to act but they aren't just leaving it to others. Here's what they're giving up."></div>
+                                    <!--[if lt IE 9]>
+                                    <img src="https://ichef.bbci.co.uk/news/304/cpsprodpb/9429/production/_108892973_p07nyvhb.jpg" class="js-image-replace" alt="Young people want politicians to act but they aren't just leaving it to others. Here's what they're giving up." width="1024" height="576" />
+                                    <![endif]-->
+                                    <div class="responsive-image__label" aria-hidden="true">
+                                                <span class="icon video"><span class="off-screen"> Video</span></span>
+                                                
+                                                
+                                                
+                                    </div>
+                                <!-- opened in responsive-image-start --></div>
+                            </div>
+                </div>
+                <h3 class="bold-image-promo__title">What US children are sacrificing for climate</h3>
+                
+            </a>
+        </div>
+        
+        
+        <div class="features-and-analysis__story"  data-entityid="features-and-analysis#7">
+            <a href="https://www.bbc.com/reel/video/p07np1lt/the-strange-london-landmark-that-nobody-knows" class="bold-image-promo">
+                <div class="bold-image-promo__image">
+                            <div class="responsive-image responsive-image--16by9">
+                                
+                                    <div class="js-delayed-image-load" data-src="https://ichef.bbci.co.uk/news/304/cpsprodpb/4888/production/_108886581_p07nvqxb.jpg" data-width="464" data-height="261" data-alt="Aerial shot of London"></div>
+                                    <!--[if lt IE 9]>
+                                    <img src="https://ichef.bbci.co.uk/news/304/cpsprodpb/4888/production/_108886581_p07nvqxb.jpg" class="js-image-replace" alt="Aerial shot of London" width="464" height="261" />
+                                    <![endif]-->
+                                
+                            </div>
+                </div>
+                <h3 class="bold-image-promo__title">BBC Reel: The strange London landmark that nobody knows</h3>
+                
+            </a>
+        </div>
+        
+        
+        <div class="features-and-analysis__story"  data-entityid="features-and-analysis#8">
+            <a href="/news/world-asia-49751410" class="bold-image-promo">
+                <div class="bold-image-promo__image">
+                            <div class="responsive-image responsive-image--16by9">
+                                
+                                    <div class="js-delayed-image-load" data-src="https://ichef.bbci.co.uk/news/304/cpsprodpb/46F6/production/_108866181_prideflag.png" data-width="976" data-height="549" data-alt="Attendees at Incheon Queer Festival draped in a rainbow flag"></div>
+                                    <!--[if lt IE 9]>
+                                    <img src="https://ichef.bbci.co.uk/news/304/cpsprodpb/46F6/production/_108866181_prideflag.png" class="js-image-replace" alt="Attendees at Incheon Queer Festival draped in a rainbow flag" width="976" height="549" />
+                                    <![endif]-->
+                                
+                            </div>
+                </div>
+                <h3 class="bold-image-promo__title">'She said I don't need a son like you'</h3>
+                
+            </a>
+        </div>
+        
+        
+        <div class="features-and-analysis__story"  data-entityid="features-and-analysis#9">
+            <a href="/sport/football/49535481" class="bold-image-promo">
+                <div class="bold-image-promo__image">
+                            <div class="responsive-image responsive-image--16by9">
+                                
+                                    <div class="js-delayed-image-load" data-src="https://ichef.bbci.co.uk/news/304/cpsprodpb/9414/production/_108880973_nouri_getty_index_promo.png" data-width="1024" data-height="576" data-alt="Ajax fans display a giant banner in support of Abdelhak Nouri of Ajax before the UEFA Champions League Qualifying Third Round match between Ajax and OSC Nice at Amsterdam Arena on August 2, 2017 in Amsterdam"></div>
+                                    <!--[if lt IE 9]>
+                                    <img src="https://ichef.bbci.co.uk/news/304/cpsprodpb/9414/production/_108880973_nouri_getty_index_promo.png" class="js-image-replace" alt="Ajax fans display a giant banner in support of Abdelhak Nouri of Ajax before the UEFA Champions League Qualifying Third Round match between Ajax and OSC Nice at Amsterdam Arena on August 2, 2017 in Amsterdam" width="1024" height="576" />
+                                    <![endif]-->
+                                
+                            </div>
+                </div>
+                <h3 class="bold-image-promo__title">The Ajax prodigy struck down by tragedy</h3>
+                
+            </a>
+        </div>
+        
+    </div>
+</div>
+                                
+<div id="bbccom_native_1_2_3_4" class="bbccom_slot native-ad"  >
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('native', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+                                                            
+
+    <div id="comp-elsewhere-on-the-bbc" class="distinct-component-group container-heron">
+        
+            <h2 class="group-title " data-entityid="#elsewhere_on_the_bbc">
+    
+    Elsewhere on the BBC
+</h2>
+<div class="heron">
+    <div class="heron__item faux-block-link" data-entityid="hyper-promotional-content#1">
+        <div class="heron__item-image">
+        <div class="responsive-image responsive-image--16by9">
+            
+                <div class="js-delayed-image-load" data-src="https://ichef.bbci.co.uk/news/200/cpsprodpb/1343E/production/_102501987_lyrics-quiz.jpg" data-width="624" data-height="351" data-alt="Michael Stipe, Jimmi Hendrix and Taylor Swift - lyrics quiz image"></div>
+                <!--[if lt IE 9]>
+                <img src="https://ichef.bbci.co.uk/news/200/cpsprodpb/1343E/production/_102501987_lyrics-quiz.jpg" class="js-image-replace" alt="Michael Stipe, Jimmi Hendrix and Taylor Swift - lyrics quiz image" width="624" height="351" />
+                <![endif]-->
+            
+        </div>
+        </div>
+        <div class="heron__item-body">
+            <a href="https://www.bbc.co.uk/music/articles/d37a03cb-41e5-43c8-b88d-8e1f59fd9998?intc_type=promo&amp;intc_location=news&amp;intc_campaign=misheardlyrics_quiz&amp;intc_linkname=bbcmusic_rm_low_c3" class="title-link">
+                
+                <h3 class="title-link__title">
+                    
+                    <span class="title-link__title-text">Lyrics quiz</span>
+                </h3>
+            </a>            <p class="heron__item-summary">Have you been getting these songs wrong?</p>
+        </div>
+        <a href="https://www.bbc.co.uk/music/articles/d37a03cb-41e5-43c8-b88d-8e1f59fd9998?intc_type=promo&amp;intc_location=news&amp;intc_campaign=misheardlyrics_quiz&amp;intc_linkname=bbcmusic_rm_low_c3" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Lyrics quiz</a>
+    </div>
+    <div class="heron__item faux-block-link" data-entityid="hyper-promotional-content#2">
+        <div class="heron__item-image">
+        <div class="responsive-image responsive-image--16by9">
+            
+                <div class="js-delayed-image-load" data-src="https://ichef.bbci.co.uk/news/200/cpsprodpb/1386C/production/_102408997_extreme-heat.jpg" data-width="624" data-height="351" data-alt="extreme heat image"></div>
+                <!--[if lt IE 9]>
+                <img src="https://ichef.bbci.co.uk/news/200/cpsprodpb/1386C/production/_102408997_extreme-heat.jpg" class="js-image-replace" alt="extreme heat image" width="624" height="351" />
+                <![endif]-->
+            
+        </div>
+        </div>
+        <div class="heron__item-body">
+            <a href="https://www.bbc.co.uk/bbcthree/article/063dba1d-2ab2-40e3-9837-3d70481ef82c?intc_type=promo&amp;intc_location=news&amp;intc_campaign=whathappenstoyourbodyinheat_article&amp;intc_linkname=bbcthree_yc_low_c3" class="title-link">
+                
+                <h3 class="title-link__title">
+                    
+                    <span class="title-link__title-text">Feeling hot</span>
+                </h3>
+            </a>            <p class="heron__item-summary">What happens to your body in extreme heat?</p>
+        </div>
+        <a href="https://www.bbc.co.uk/bbcthree/article/063dba1d-2ab2-40e3-9837-3d70481ef82c?intc_type=promo&amp;intc_location=news&amp;intc_campaign=whathappenstoyourbodyinheat_article&amp;intc_linkname=bbcthree_yc_low_c3" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Feeling hot</a>
+    </div>
+</div>
+
+        
+    </div>
+
+                                                                                                    <div id=comp-most-popular
+            class="hidden"
+            data-comp-meta="{&quot;id&quot;:&quot;comp-most-popular&quot;,&quot;type&quot;:&quot;most-popular&quot;,&quot;handler&quot;:&quot;mostPopular&quot;,&quot;deviceGroups&quot;:null,&quot;opts&quot;:{&quot;assetId&quot;:&quot;49782693&quot;,&quot;loading_strategy&quot;:&quot;post_load&quot;,&quot;position_info&quot;:{&quot;instanceNo&quot;:1,&quot;positionInRegion&quot;:4,&quot;lastInRegion&quot;:true,&quot;lastOnPage&quot;:false,&quot;column&quot;:&quot;secondary_column&quot;}}}">
+        </div>                                
+<div id="bbccom_mpu_bottom_1_2_3_4" class="bbccom_slot mpu-bottom-ad"  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('mpu_bottom', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+
+<div id="bbccom_outbrain_ar_9_1_2" class="bbccom_slot outbrain-ad"  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('outbrain_ar_9', [1,2]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+
+<div id="bbccom_adsense_1_2_3_4" class="bbccom_slot adsense-ad"  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('adsense', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+
+<div id="bbccom_inread_1_2_3_4" class="bbccom_slot inread"  aria-hidden="true">
+    <div class="bbccom_advert">
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            (function() {
+                if (window.bbcdotcom && bbcdotcom.adverts && bbcdotcom.adverts.slotAsync) {
+                    bbcdotcom.adverts.slotAsync('inread', [1,2,3,4]);
+                }
+            })();
+            /*]]>*/
+        </script>
+    </div>
+</div>
+                                        </div>
+             </div>          </div> </div>                         <div class="page__foot">
+                                                                            <div class="trust-project">
+    <div class="trust-project__inner">
+        <a href="https://www.bbc.co.uk/news/help-41670342" class="trust-project__link"><span class="svg-icon--24 svg-icon--info-caption" data-grunticon-embed></span><span class="trust-project__link-text">Why you can trust BBC News</span></a>
+    </div>
+</div>                                                                        </div>
+             </div> 
+   
+
+<div id="core-navigation" class="navigation--footer">
+    <h2 class="navigation--footer__heading">BBC News Navigation</h2>
+
+            <nav id="secondary-navigation--bottom" class="secondary-navigation--bottom" role="navigation" aria-label="World">
+            <a class="secondary-navigation__title navigation-arrow " href="/news/world"><span>World</span></a>
+                            <span class="navigation-core-title"><span>Sections</span></span>
+                <ul class="secondary-navigation--bottom__toplevel">
+                                                            <li>
+                        <a href="/news/world/africa"><span>Africa</span></a>
+                                            </li>
+                                        <li>
+                        <a href="/news/world/asia"><span>Asia</span></a>
+                                            </li>
+                                        <li>
+                        <a href="/news/world/australia"><span>Australia</span></a>
+                                            </li>
+                                        <li>
+                        <a href="/news/world/europe"><span>Europe</span></a>
+                                            </li>
+                                        <li>
+                        <a href="/news/world/latin_america"><span>Latin America</span></a>
+                                            </li>
+                                        <li class="selected">
+                        <a href="/news/world/middle_east"><span>Middle East</span></a>
+                         <span class="off-screen">selected</span>                    </li>
+                                        <li>
+                        <a href="/news/world/us_and_canada"><span>US &amp; Canada</span></a>
+                                            </li>
+                                    </ul>
+                    </nav>
+    
+    <nav id="navigation--bottom" class="navigation navigation--bottom core--with-secondary" role="navigation" aria-label="BBC News">
+                <ul class="navigation--bottom__toplevel">
+                        <li class="">
+                    <a href="/news" class="">
+                        <span>Home</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/video_and_audio/headlines" class="">
+                        <span>Video</span>
+                    </a>
+                                                        </li>
+                            <li class="selected navigation-list-item--open">
+                    <a href="/news/world" data-panel-id="js-navigation-panel-World" class="navigation-arrow navigation-arrow--open">
+                        <span>World</span>
+                    </a>
+                     <span class="off-screen">selected</span>                                            <div class="navigation-panel js-navigation-panel-World">
+                            <div class="navigation-panel__content">
+                                <ul class="navigation-panel-secondary">
+                                    <li><a href="/news/world"><span>World Home</span></a></li>
+                                                                                                                    <li>
+                                            <a href="/news/world/africa"><span>Africa</span></a>                                        </li>
+                                                                                                                                                            <li>
+                                            <a href="/news/world/asia"><span>Asia</span></a>                                        </li>
+                                                                                                                                                            <li>
+                                            <a href="/news/world/australia"><span>Australia</span></a>                                        </li>
+                                                                                                                                                            <li>
+                                            <a href="/news/world/europe"><span>Europe</span></a>                                        </li>
+                                                                                                                                                            <li>
+                                            <a href="/news/world/latin_america"><span>Latin America</span></a>                                        </li>
+                                                                                                                                                            <li class="selected">
+                                            <a href="/news/world/middle_east"><span>Middle East</span></a> <span class="off-screen">selected</span>                                        </li>
+                                                                                                                                                            <li>
+                                            <a href="/news/world/us_and_canada"><span>US &amp; Canada</span></a>                                        </li>
+                                                                                                            </ul>
+                            </div>
+                        </div>
+                                    </li>
+                            <li class="">
+                    <a href="/news/uk" data-panel-id="js-navigation-panel-UK" class="navigation-arrow">
+                        <span>UK</span>
+                    </a>
+                                                                <div class="navigation-panel navigation-panel--closed js-navigation-panel-UK">
+                            <div class="navigation-panel__content">
+                                <ul class="navigation-panel-secondary">
+                                    <li><a href="/news/uk"><span>UK Home</span></a></li>
+                                                                                                                    <li>
+                                            <a href="/news/england"><span>England</span></a>                                        </li>
+                                                                                                                                                            <li>
+                                            <a href="/news/northern_ireland"><span>N. Ireland</span></a>                                        </li>
+                                                                                                                                                            <li>
+                                            <a href="/news/scotland"><span>Scotland</span></a>                                        </li>
+                                                                                                                                                            <li>
+                                            <a href="/news/wales"><span>Wales</span></a>                                        </li>
+                                                                                                                                                            <li>
+                                            <a href="/news/politics"><span>Politics</span></a>                                        </li>
+                                                                                                            </ul>
+                            </div>
+                        </div>
+                                    </li>
+                            <li class="">
+                    <a href="/news/business" data-panel-id="js-navigation-panel-Business" class="navigation-arrow">
+                        <span>Business</span>
+                    </a>
+                                                                <div class="navigation-panel navigation-panel--closed js-navigation-panel-Business">
+                            <div class="navigation-panel__content">
+                                <ul class="navigation-panel-secondary">
+                                    <li><a href="/news/business"><span>Business Home</span></a></li>
+                                                                                                                    <li>
+                                            <a href="/news/business/market-data"><span>Market Data</span></a>                                        </li>
+                                                                                                                                                            <li>
+                                            <a href="/news/business-38507481"><span>Global Trade</span></a>                                        </li>
+                                                                                                                                                            <li>
+                                            <a href="/news/business/companies"><span>Companies</span></a>                                        </li>
+                                                                                                                                                            <li>
+                                            <a href="/news/business-22434141"><span>Entrepreneurship</span></a>                                        </li>
+                                                                                                                                                            <li>
+                                            <a href="/news/business-11428889"><span>Technology of Business</span></a>                                        </li>
+                                                                                                                                                            <li>
+                                            <a href="/news/business-45489065"><span>Connected World</span></a>                                        </li>
+                                                                                                                                                            <li>
+                                            <a href="/news/business-12686570"><span>Global Education</span></a>                                        </li>
+                                                                                                                                                            <li>
+                                            <a href="/news/business/economy"><span>Economy</span></a>                                        </li>
+                                                                                                            </ul>
+                            </div>
+                        </div>
+                                    </li>
+                            <li class="">
+                    <a href="/news/technology" class="">
+                        <span>Tech</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/science_and_environment" class="">
+                        <span>Science</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/stories" class="">
+                        <span>Stories</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/entertainment_and_arts" class="">
+                        <span>Entertainment &amp; Arts</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/health" class="">
+                        <span>Health</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/world_radio_and_tv" class="">
+                        <span>World News TV</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/in_pictures" class="">
+                        <span>In Pictures</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/realitycheck" class="">
+                        <span>Reality Check</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/newsbeat" class="">
+                        <span>Newsbeat</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/special_reports" class="">
+                        <span>Special Reports</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/explainers" class="">
+                        <span>Explainers</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/the_reporters" class="">
+                        <span>The Reporters</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/have_your_say" class="">
+                        <span>Have Your Say</span>
+                    </a>
+                                                        </li>
+                    </ul>
+    </nav>
+</div>   
+
+    <div id="comp-pattern-library-2" class="distinct-component-group ">
+        
+            <div id="bbc-news-services" class="blue-tit" role="navigation" aria-label="BBC News Services">
+    <div class="blue-tit__inner">
+        <h2 class="blue-tit__title">BBC News Services</h2>
+        <ul class="blue-tit__list">
+            <li class="blue-tit__list-item">
+                <a href="https://www.bbc.co.uk/news/10628994" class="blue-tit__list-item-link mobile">On your mobile</a>
+            </li>
+            <li class="blue-tit__list-item">
+                <a href="https://www.bbc.co.uk/news/help-17655000" class="blue-tit__list-item-link connected-tv">On your connected tv</a>
+            </li>
+            <li class="blue-tit__list-item">
+                <a href="https://www.bbc.co.uk/news/10628323" class="blue-tit__list-item-link newsletter">Get news alerts</a>
+            </li>
+            <li class="blue-tit__list-item">
+                <a href="https://www.bbc.co.uk/news/20039682" class="blue-tit__list-item-link contact-us">Contact BBC News</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+        
+    </div>
+
+   </div><!-- closes #site-container --> </div>
+<div id="orb-footer" class="orb-footer" dir="ltr"><div id="navp-orb-footer-promo"></div><aside role="complementary"><div id="orb-aside" class="orb-nav-sec b-r b-g-p"><div class="orb-footer-inner" role="navigation" aria-label="BBC"><h2 class="orb-footer-lead">Explore the BBC</h2><div class="orb-footer-primary-links"><ul><li class="orb-nav-home"><a href="https://www.bbc.co.uk">Home</a></li><li class="orb-nav-news"><a href="https://www.bbc.co.uk/news">News</a></li><li class="orb-nav-sport"><a href="https://www.bbc.co.uk/sport">Sport</a></li><li class="orb-nav-weather"><a href="https://www.bbc.co.uk/weather">Weather</a></li><li class="orb-nav-iplayer"><a href="https://www.bbc.co.uk/iplayer">iPlayer</a></li><li class="orb-nav-sounds"><a href="https://www.bbc.co.uk/sounds">Sounds</a></li><li class="orb-nav-cbbc"><a href="https://www.bbc.co.uk/cbbc">CBBC</a></li><li class="orb-nav-cbeebies"><a href="https://www.bbc.co.uk/cbeebies">CBeebies</a></li><li class="orb-nav-food"><a href="https://www.bbc.co.uk/food">Food</a></li><li class="orb-nav-bitesize"><a href="https://www.bbc.co.uk/bitesize">Bitesize</a></li><li class="orb-nav-arts"><a href="https://www.bbc.co.uk/arts">Arts</a></li><li class="orb-nav-taster"><a href="https://www.bbc.co.uk/taster">Taster</a></li><li class="orb-nav-local"><a href="https://www.bbc.co.uk/news/localnews">Local</a></li><li class="orb-nav-tv"><a href="https://www.bbc.co.uk/tv">TV</a></li><li class="orb-nav-radio"><a href="https://www.bbc.co.uk/radio">Radio</a></li><li class="orb-nav-three"><a href="https://www.bbc.co.uk/bbcthree">Three</a></li></ul></div></div></div></aside><footer role="contentinfo"><div id="orb-contentinfo" class="orb-nav-sec b-r b-g-p"><script>window.orb.worldwideFooterlinks = '<li class="orb-footer-ads"><a href="https://advertising.bbcworldwide.com/">Advertise with us<'+'/a><'+'/li><li class="orb-footer-adchoices"><a href="https://www.bbc.com/usingthebbc/cookies/how-does-the-bbc-use-cookies-for-advertising/">Ad choices<'+'/a><'+'/li>';</script><div class="orb-footer-inner"> <ul><li class="orb-footer-terms"><a href="https://www.bbc.co.uk/usingthebbc/terms/">Terms of Use</a></li><li class="orb-footer-about"><a href="https://www.bbc.co.uk/aboutthebbc">About the BBC</a></li><li class="orb-footer-privacy"><a href="https://www.bbc.co.uk/usingthebbc/privacy/">Privacy Policy</a></li><li class="orb-footer-cookies"><a href="https://www.bbc.co.uk/usingthebbc/cookies/">Cookies</a></li><li class="orb-footer-accessibility"><a href="https://www.bbc.co.uk/accessibility/">Accessibility Help</a></li><li class="orb-footer-parental"><a href="https://www.bbc.co.uk/guidance">Parental Guidance</a></li><li class="orb-footer-contact"><a href="https://www.bbc.co.uk/contact">Contact the BBC</a></li><li class="orb-footer-newsletter"><a href="https://www.bbc.co.uk/bbcnewsletter">Get Personalised Newsletters</a></li></ul><small><em class="orb-hilight">Copyright &copy; 2019 BBC.</em> The BBC is not responsible for the content of external sites. <span class="orb-footer-links"><a href="https://www.bbc.co.uk/help/web/links/" class="orb-hilight">Read about our approach to external linking.</a></span></small></div></div></div></footer></div><script id="orb-js-script" data-assetpath="https://nav.files.bbci.co.uk/orbit/3.0.0-672.79448400/" src="https://nav.files.bbci.co.uk/orbit/3.0.0-672.79448400/js/orb.min.js"></script> <script type="text/javascript">require(['orb/lib/_$'], function($) {
+        $.ready(function() {
+            initialiseFooter();
+        });
+
+        var scrollCheckTimer;
+        var didScroll;
+        var previousPosition = 0;
+        var delta = 5;
+        var PROMO_SHOW_BREAKPOINT = 1500;
+        var pageLength = 0;
+
+        function initialiseFooter() {
+            // Suppress this feature on browsers we no longer test
+            var myNav = navigator.userAgent.toLowerCase();
+            var oldIE = (myNav.indexOf('msie') !== -1) && parseInt(myNav.split('msie')[1], 10) <= 10;
+            if (!oldIE) {
+                require(['orb/cookies'], function (bbccookies) {
+                    var disabledByCookie = (parseInt(bbccookies.get('ckns_nav_promofail')) || 0) >= 3;
+                    if (!disabledByCookie) {
+                        require(['orb/fig'], function (orbFig) {
+                            orbFig.load(function (fig) {
+                                if (fig.geo.isUK()) {
+                                    setUpLazyLoading();
+                                }
+                            });
+                        });
+                    }
+                });
+            }
+        }
+
+        function setUpLazyLoading() {
+            // offsetHeight is expensive to calculate, only do it once.
+            pageLength = Math.abs(document.body.offsetHeight);
+
+            if (pageLength < getViewportHeight() + 300 || pageLength - getCurrentPosition() < PROMO_SHOW_BREAKPOINT) {
+                loadPromo();
+
+            } else {
+                window.onscroll = function () {
+                    didScroll = true;
+                };
+
+                scrollCheckTimer = setInterval(function () {
+                    if (didScroll) {
+                        hasScrolled();
+                        didScroll = false;
+                    }
+                }, 250);
+            }
+        }
+
+        function loadPromo() {
+            clearInterval(scrollCheckTimer);
+
+            require(['orb/async/_footerpromo'], function(promo) {
+                promo.init('https://navpromo.api.bbci.co.uk', '');
+            });
+        }
+
+        function getViewportHeight() {
+            return window.innerHeight;
+        }
+
+        function getCurrentPosition() {
+            return Math.abs(window.scrollY || document.body.scrollTop || document.documentElement.scrollTop);
+        }
+
+        function hasScrolled() {
+            var currentPosition = getCurrentPosition();
+            if (Math.abs(previousPosition - currentPosition) <= delta) {
+                return;
+            }
+            if (currentPosition > previousPosition) {
+                if ((pageLength - currentPosition) <= PROMO_SHOW_BREAKPOINT) {
+                    loadPromo();
+                }
+            }
+            previousPosition = currentPosition;
+        }
+
+    })</script><script type="text/javascript">/*<![CDATA[*/
+                require(['orb/fig', 'orb/nav'], function(fig, nav) {
+                    fig.load(function(fig) {
+                        if (fig.geo.isUK()) {
+                            nav.loadJs('https://nav.files.bbci.co.uk/orbit/3.0.0-672.79448400/js/edr.min.js');
+                        }
+                    });
+                });
+            /*]]>*/</script><script type="text/javascript">require.config({
+            paths: {
+                "mybbc/templates": '//mybbc.files.bbci.co.uk/notification-ui/3.9.10/templates',
+                "mybbc/notifications": '//mybbc.files.bbci.co.uk/notification-ui/3.9.10/js'
+            }
+        });
+
+        require(['mybbc/notifications/NotificationsMain', 'idcta/idcta-1'], function (NotificationsMain, idcta) {
+
+            var loadNotifications = function (isUK) {
+                if (isUK) {
+                    window.bbcpage.loadCSS('//mybbc.files.bbci.co.uk/notification-ui/3.9.10/css/main.min.css').then(function() {
+                        NotificationsMain.run(idcta, '//mybbc.files.bbci.co.uk/notification-ui/3.9.10/');
+                    });
+                }
+            };
+            
+            if (window.bbcuser && window.bbcuser.isUKCombined && typeof(window.bbcuser.isUKCombined) === 'function') {
+                // Use new API from Orbit if available
+                window.bbcuser.isUKCombined().then(function(isUK) {
+                    loadNotifications(isUK);  
+                });
+            } else {
+                // Fallback to fig (ORB support)
+                var orbFig = window.orb.fig;
+                loadNotifications(orbFig.geo.isUK());
+            }
+        });</script><!-- BBCDOTCOM bodyLast --><div class="bbccom_display_none"><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && window.bbcdotcom.analytics && bbcdotcom.config && !bbcdotcom.config.isSportApp() && !bbcdotcom.config.isReel()) { bbcdotcom.analytics.page(); } /*]]>*/</script><noscript><img src="//ssc.api.bbc.com/?c1=2&c2=19293874&ns_site=bbc&name=" height="1" width="1" alt=""></noscript><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.currencyProviders) { bbcdotcom.currencyProviders.write(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.currencyProviders) { bbcdotcom.currencyProviders.postWrite(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.stats && bbcdotcom.data.stats === 1 && bbcdotcom.utils && window.location.pathname === '/' && window.bbccookies && bbccookies.readPolicy('necessary') ) { var wwhpEdition = bbcdotcom.utils.getMetaPropertyContent('wwhp-edition'); var _sf_async_config={}; /** CONFIGURATION START **/ _sf_async_config.uid = 50924; _sf_async_config.domain = "bbc.co.uk"; _sf_async_config.title = "Homepage"+(wwhpEdition !== '' ? ' - '+wwhpEdition : ''); _sf_async_config.sections = "Homepage"+(wwhpEdition !== '' ? ', Homepage - '+wwhpEdition : ''); _sf_async_config.region = wwhpEdition; _sf_async_config.path = "/"+(wwhpEdition !== '' ? '?'+wwhpEdition : ''); /** CONFIGURATION END **/ (function(){ function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement("script"); e.setAttribute("language", "javascript"); e.setAttribute("type", "text/javascript"); e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); } var oldonload = window.onload; window.onload = (typeof window.onload != "function") ? loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); } /*]]>*/</script><script type="text/javascript">/*<![CDATA[*/ (function() { window.bbcdotcom.bodyLast = true; }()); /*]]>*/</script></div><!-- BBCDOTCOM all code in page --><script type="text/javascript">if (window.SEARCHBOX.suppress === false && window.SEARCHBOX.locale && /^en-?.*?/.test(window.SEARCHBOX.locale)) {
+    require.config({
+      paths: {
+        "search/searchbox": window.SEARCHBOX.searchboxAppStaticPrefix,
+      }
+    });
+
+    if (bbcuser && bbcuser.isUKCombined) {
+        bbcuser.isUKCombined().then(function (isUK) {
+            if (isUK) {
+                require(['search/searchbox/searchboxDrawer'], function (SearchboxDrawer) {
+                  SearchboxDrawer.run(window.SEARCHBOX);
+                });
+            }
+        });
+    }
+
+  }</script>  <script type="text/javascript">window.COOKIES_STATIC_HOST = 'https://nav.files.bbci.co.uk/orbit-webmodules/0.0.1-332.8fd22d2/cookie-banner//cookie-prompt/';</script><script src="https://nav.files.bbci.co.uk/orbit-webmodules/0.0.1-332.8fd22d2/cookie-banner/cookie-banners.bundle.js" async=""></script><script type="text/javascript">require(["istats-1","orb/cookies"],function(o,t){if(t.isAllowed("s1"))try{if(!require.s.contexts._.config.paths.idcta)return void i();require(["idcta/idcta-1"],function(t){t&&"function"==typeof t.getIStatsLabels&&o.addLabels(t.getIStatsLabels()),i()},function(t){throw t})}catch(t){console&&"function"==typeof console.log&&console.log("an exception occurred while adding idcta labels to istats, invoking istats without them",t),i()}function i(){o.invoke()}});</script><script type="text/javascript">"use strict";require(["reverb"],function(e){return e.initialise().then(function(){return e.viewEvent()})});</script><script src="https://nav.files.bbci.co.uk/orbit-webmodules/0.0.1-332.8fd22d2/detectview/detectview.bundle.js" async=""></script> </div><!-- closes .direction -->  <script> window.old_onload = window.onload; window.onload = function() { if(window.old_onload) { window.old_onload(); } window.loaded = true; }; </script> <!-- Chartbeat Web Analytics code - start -->
+<script type="text/javascript">
+    /** CONFIGURATION START **/
+    var _sf_async_config = {};
+
+    _sf_async_config.uid = "50924";
+    _sf_async_config.domain = "www.bbc.co.uk";
+    _sf_async_config.sections = "News, News - middle-east, News - STY, News - middle-east - STY, News - news-category";
+    <!-- if page is an index, add the edition to the path -->
+    _sf_async_config.path = "bbc.co.uk/news/world-middle-east-49782693";
+
+        (function() {
+        var cookiePrefix = 'ckns_sylphid';
+        _sf_async_config.idSync = _sf_async_config.idSync || {};
+
+        if (document.cookie.indexOf(cookiePrefix) !== -1) {
+            var cookieSplit = document.cookie.split(';');
+            var cookieLength = cookieSplit.length;
+            while (cookieLength--) {
+                var cookie = cookieSplit[cookieLength].replace(/^s+|s+$/g, '');
+                var cookieName = cookie.split('=')[0];
+                if (cookieName.indexOf(cookiePrefix) === 0) {
+                    _sf_async_config.idSync.bbc_hid = cookieSplit[cookieLength].split('=')[1];
+                    break;
+                }
+            }
+        }
+    }());
+
+    /** CONFIGURATION END **/
+    (function(){
+        function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement("script");
+            e.setAttribute("language", "javascript");
+            e.setAttribute("type", "text/javascript");
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != "function") ?
+            loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    }());
+</script>
+<!-- Chartbeat Web Analytics code - end -->
+     <!-- mpulse start -->
+<script>
+(function(){
+    window.bbcnewsperformance = {};
+    var perf = window.performance;
+
+    function firstScrollTimer() {
+        document.removeEventListener('scroll', firstScrollTimer);
+
+        perf.mark('firstScroll');
+        perf.measure('scrolltime', 'firstScroll');
+        var timing = perf.getEntriesByName('scrolltime');
+        bbcnewsperformance.firstScrollTime = timing[0].startTime;
+    }
+
+    if (perf && perf.mark && perf.measure) {
+        document.addEventListener('scroll', firstScrollTimer);
+    }
+
+    var random = Math.random();
+    var rate   = 0.25;
+    var throttle = 0.02;
+    var forceMpulse = window.location.href.match(/force_mpulse/);
+
+    if (rate && throttle && (random < (rate * throttle)) || forceMpulse) {
+        if(window.BOOMR && window.BOOMR.version){return;}
+        var dom,doc,where,iframe = document.createElement('iframe'),win = window;
+
+        function boomerangSaveLoadTime(e) {
+            win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+        }
+        if (win.addEventListener) {
+            win.addEventListener("load", boomerangSaveLoadTime, false);
+        } else if (win.attachEvent) {
+            win.attachEvent("onload", boomerangSaveLoadTime);
+        }
+
+        iframe.src = "javascript:false";
+        iframe.title = ""; iframe.role="presentation";
+        (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+        where = document.getElementsByTagName('script')[0];
+        where.parentNode.insertBefore(iframe, where);
+
+        try {
+            doc = iframe.contentWindow.document;
+        } catch(e) {
+            dom = document.domain;
+            iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+            doc = iframe.contentWindow.document;
+        }
+        doc.open()._l = function() {
+            var js = this.createElement("script");
+            if(dom) this.domain = dom;
+            js.id = "boomr-if-as";
+            js.src = '//c.go-mpulse.net/boomerang/' +
+            '86ZLR-T78UG-6FNFN-UVDPZ-VZFWR';
+            BOOMR_lstart=new Date().getTime();
+            this.body.appendChild(js);
+        };
+        doc.write('<body onload="document._l();">');
+        doc.close();
+    }
+})();
+</script>
+<!-- mpulse end -->
+ </body> </html> 
+
+
+
+
+
+
+
+
+
+
+
+
 `
