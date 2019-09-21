@@ -6,11 +6,11 @@ Simple document and query processor for [nowsearch.xyz](https://github.com/eklem
 [![MIT License][license-image]][license-url]
 [![Build Status][travis-image]][travis-url]
 
-## Distribution and demo
+## Demo
 
-Check out the [daq-proc interactive demo](https://eklem.github.io/daq-proc/demo/). Just add some words and figure it out.
+Check out the [daq-proc interactive demo](https://eklem.github.io/daq-proc/demo/). It showcases the document processor end. Just add some words and figure it out. For the query side, the [hit-highlighter also has an interactive demo](https://eklem.github.io/hit-highlighter/demo/).
 
-![Screenshot of the daq-proc broser demo](./demo/daq-proc-demo-screenshot.png)
+![Screenshot of the daq-proc broser demo(./demo/daq-proc-demo-screenshot.png)](https://eklem.github.io/daq-proc/demo/)
 
 This library is not creating anything new, but just packaging 6 libraries that goes well togehter into one browser distribution file. Also showing how it may be usefull through tests and the interactive demo.
 
@@ -23,12 +23,11 @@ This library is not creating anything new, but just packaging 6 libraries that g
 * [`stopword`](https://github.com/fergiemcdowall/stopword) - Removes stopwords from an array of words. To keep your index small and remove all words without a scent of information and/or remove stopwords from the query, making the search engine work less hard to find relevant results.
 * [`words'n'numbers`](https://github.com/eklem/words-n-numbers) - Extract words and optionally numbers from a string of text into arrays. Arrays that can be fed to `stopword`, `eklem-headline-parser` and `ngraminator`.
 
-
 ## Browser
 
 ### Example - document processing side
 
-```javascript
+```HTML
 <script src="daq-proc.js"></script>
 
 <script>
@@ -69,7 +68,28 @@ This library is not creating anything new, but just packaging 6 libraries that g
 
 ### Example - Query side
 
-... WIP
+```HTML
+<script src="daq-proc.js"></script>
+
+<script>
+  // exposing the underlying libraries in a transparent way
+  const {cheerio, ehp, highlight, ngraminator, sw, wnn} = dqp
+
+  const query = ['interesting', 'words']
+  const searchResult = ['some', 'interesting', 'words', 'to', 'remember']
+
+  highlight(query, searchResult)
+
+  // returns:
+  //[
+  //  'some',
+  //  '<span class="highlighted">interesting</span>',
+  //  '<span class="highlighted">words</span>',
+  //  'to',
+  //  'remember'
+  //]
+</script>
+```
 
 
 ## Node.js
