@@ -10,7 +10,7 @@ Simple document and query processor for [nowsearch.xyz](https://github.com/eklem
 
 Check out the [daq-proc interactive demo](https://eklem.github.io/daq-proc/demo/). It showcases the document processor end. Just add some words and figure it out. For the query side, the [hit-highlighter also has an interactive demo](https://eklem.github.io/hit-highlighter/demo/).
 
-![Screenshot of the daq-proc broser demo(./demo/daq-proc-demo-screenshot.png)](https://eklem.github.io/daq-proc/demo/)
+[![Screenshot of the daq-proc broser demo](./demo/daq-proc-demo-screenshot.png)](https://eklem.github.io/daq-proc/demo/)
 
 This library is not creating anything new, but just packaging 6 libraries that goes well togehter into one browser distribution file. Also showing how it may be usefull through tests and the interactive demo.
 
