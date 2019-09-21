@@ -1,18 +1,18 @@
 const path = require('path')
-const package = require('./package.json')
+const pkg = require('./package.json')
 const glob = require('glob')
 
-module.exports =  [
+module.exports = [
   // Generating browser version of document and query processor
   {
     mode: 'production',
     entry: './index.js',
     output: {
       path: path.resolve(__dirname, 'dist'),
-      filename: 'daq-proc.' + package.version+ '.js',
+      filename: 'daq-proc.' + pkg.version + '.js',
       library: 'dqp'
     },
-    devtool: "none", // prevent webpack from using eval() on my module
+    devtool: 'none' // prevent webpack from using eval() on my module
   },
 
   // Generating a latest browser version of document and query processor (same as latest version number)
@@ -24,7 +24,7 @@ module.exports =  [
       filename: 'daq-proc.latest.js',
       library: 'dqp'
     },
-    devtool: "none", // prevent webpack from using eval() on my module
+    devtool: 'none' // prevent webpack from using eval() on my module
   },
 
   // Generating test script for the browser
