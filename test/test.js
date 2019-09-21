@@ -1,9 +1,9 @@
 const test = require('tape')
-const { cheerio, ehp, ngraminator, sw, wnn } = require('../index.js')
+const { cheerio, ehp, highlight, ngraminator, sw, wnn } = require('../index.js')
 const $ = cheerio.load(require('./test-data.js')) // Example grabbed from view-source:https://www.bbc.com/news/world-middle-east-49782693
 
 test('extract strings from html, arrays from strings, remove stopwords, make ngrams, find keywords ', function (t) {
-  t.plan(9)
+  t.plan(10)
 
   // Extracting title with Cheerio selectors
   const headlineString = $('h1').text()
@@ -40,4 +40,9 @@ test('extract strings from html, arrays from strings, remove stopwords, make ngr
   // Calculate keywords in title based on bodytext context
   const keywords = ehp.findKeywords(headlineStopped, bodyStopped, 5)
   t.looseEqual(keywords, ['saudi', 'arabia', 'oil', 'attacks', 'necessary'])
+
+  // Highlight a result item where query words matches
+  const query = ['saudi', 'arabia', 'attacks']
+  const highlighted = highlight(query, headlineArray)
+  t.looseEqual(highlighted, ['<span class="highlighted">saudi</span>', '<span class="highlighted">arabia</span>', 'vows', 'to', 'respond', 'to', 'oil', '<span class="highlighted">attacks</span>', 'with', 'necessary', 'measures'])
 })
