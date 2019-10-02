@@ -93,7 +93,10 @@ This library is not creating anything new, but just packaging 6 libraries that g
 
 
 ## Node.js
-It's fully possible to use on Node.js too. The tests are both for Node.js and the browser. But it's only wrapping 6 libraries for the ease of use in the browser, so I'm not sure why you would do that. [Holler if you disagree =)](https://github.com/eklem/daq-proc/issues/new).
+It's fully possible to use on Node.js too. The tests are both for Node.js and the browser. It's only wrapping 6 libraries for the ease of use in the browser, but could come in handy for i.e. simple crawler scenarios.
+
+## Something missing?
+[Create an issue so we can discuss =)](https://github.com/eklem/daq-proc/issues/new).
 
 [license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
 [license-url]: LICENSE
