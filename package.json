@@ -1,6 +1,6 @@
 {
   "name": "daq-proc",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Simple document processor for [nowsearch.xyz](https://github.com/eklem/nowsearch.xyz) to makes search running in the browser and node.js a little better. Removes stopwords (smaller index and less irrelevant hits), extract keywords to filter on and prepares ngrams for auto-complete functionality.",
   "main": "index.js",
   "scripts": {
@@ -18,18 +18,18 @@
     "nlp"
   ],
   "dependencies": {
-    "words-n-numbers": "^2.0.0",
-    "stopword": "^0.3.3",
-    "eklem-headline-parser": "^2.0.2",
-    "ngraminator": "^2.0.0",
-    "hit-highlighter": "1.0.0",
+    "words-n-numbers": "^2.0.1",
+    "stopword": "^0.3.4",
+    "eklem-headline-parser": "^2.0.3",
+    "ngraminator": "^2.0.1",
+    "hit-highlighter": "1.0.1",
     "cheerio": "1.0.0-rc.3"
   },
   "devDependencies": {
-    "standard": "^14.3.1",
-    "webpack": "^4.40.2",
-    "webpack-cli": "^3.3.6",
-    "tape": "^4.11.0",
+    "standard": "^14.3.2",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11",
+    "tape": "^4.13.2",
     "tape-run": "^6.0.1"
   },
   "author": "Espen Klem",
