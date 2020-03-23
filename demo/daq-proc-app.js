@@ -27,7 +27,7 @@ const daqProc = function () {
   populate(JSON.stringify(bodyArray, 2, ' '), 'bodyArrDiv')
 
   // Prep for defining arrays of language to remove stopwords from.
-  const languages = { af: sw.af, bn: sw.bn, br: sw.br, zh: sw.zh, da: sw.da, nl: sw.nl, en: sw.en, fa: sw.fa, fi: sw.fi, fr: sw.fr, de: sw.de, ha: sw.ha, he: sw.he, hi: sw.hi, id: sw.id, it: sw.it, ja: sw.ja, lgg: sw.lgg, lggo: sw.lggo, ar: sw.ar, no: sw.no, pl: sw.pl, pt: sw.pt, pa: sw.pa, ru: sw.ru, so: sw.so, st: sw.st, es: sw.es, sw: sw.sw, sv: sw.sv, vi: sw.vi, yo: sw.yo, zu: sw.zu }
+  const languages = { af: sw.af, ar: sw.ar, bg: sw.bg, bn: sw.bn, br: sw.br, ca: sw.ca, cs: sw.cs, da: sw.da, de: sw.de, el: sw.el, en: sw.en, eo: sw.eo, es: sw.es, et: sw.et, eu: sw.eu, fa: sw.fa, fi: sw.fi, fr: sw.fr, ga: sw.ga, gl: sw.gl, ha: sw.ha, he: sw.he, hi: sw.hi, hr: sw.hr, hu: sw.hu, hy: sw.hy, id: sw.id, it: sw.it, ja: sw.ja, ko: sw.ko, la: sw.la, lgg: sw.lgg, lggo: sw.lggo, lv: sw.lv, mr: sw.mr, nl: sw.nl, no: sw.no, pl: sw.pl, pt: sw.pt, ptbr: sw.ptbr, pa: sw.pa, ro: sw.ro, ru: sw.ru, sk: sw.sk, sl: sw.sl, so: sw.so, st: sw.st, sv: sw.sv, sw: sw.sw, th: sw.th, tr: sw.tr, vi: sw.vi, yo: sw.yo, zh: sw.zh, zu: sw.zu }
   let code = document.getElementById("languageSelected").value || en
   console.log(code)
   // Removing stopwords
