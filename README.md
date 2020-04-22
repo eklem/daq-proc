@@ -81,13 +81,7 @@ This library is not creating anything new, but just packaging 6 libraries that g
   highlight(query, searchResult)
 
   // returns:
-  //[
-  //  'some',
-  //  '<span class="highlighted">interesting</span>',
-  //  '<span class="highlighted">words</span>',
-  //  'to',
-  //  'remember'
-  //]
+  // 'some <span class="highlighted">interesting words</span> to remember'
 </script>
 ```
 
