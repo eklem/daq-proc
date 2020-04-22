@@ -5,6 +5,7 @@ Simple document and query processor for [nowsearch.xyz](https://github.com/eklem
 [![NPM downloads][npm-downloads-image]][npm-url]
 [![MIT License][license-image]][license-url]
 [![Build Status][travis-image]][travis-url]
+[![JavaScript Style Guide][standardjs-image]][standardjs-url]
 
 ## Demo
 
@@ -99,4 +100,6 @@ It's fully possible to use on Node.js too. The tests are both for Node.js and th
 [npm-downloads-image]: http://img.shields.io/npm/dm/daq-proc.svg?style=flat
 [travis-url]: http://travis-ci.org/eklem/daq-proc
 [travis-image]: http://img.shields.io/travis/eklem/daq-proc.svg?style=flat
+[standardjs-url]: https://standardjs.com
+[standardjs-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square
 
