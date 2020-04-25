@@ -21,7 +21,7 @@
     "words-n-numbers": "^2.0.1",
     "stopword": "^1.0.0",
     "eklem-headline-parser": "^2.0.5",
-    "ngraminator": "^2.0.1",
+    "ngraminator": "^2.0.3",
     "hit-highlighter": "2.0.0",
     "cheerio": "1.0.0-rc.3"
   },
