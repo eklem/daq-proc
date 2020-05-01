@@ -6,7 +6,9 @@
   "scripts": {
     "compile-for-browser": "webpack",
     "empty-sandbox": "rm -rf test/sandbox && mkdir test/sandbox",
-    "test": "standard './*.js' './test/*.js' && npm run empty-sandbox && npm run compile-for-browser && tape ./test/test.js && cat test/sandbox/bundle.js | tape-run && rm -rf test/sandbox"
+    "test": "standard './*.js' './test/*.js' && npm run empty-sandbox && npm run compile-for-browser && tape ./test/test.js && cat test/sandbox/bundle.js | tape-run && rm -rf test/sandbox",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -23,7 +25,8 @@
     "eklem-headline-parser": "^2.0.5",
     "ngraminator": "^2.0.3",
     "hit-highlighter": "2.0.0",
-    "cheerio": "1.0.0-rc.3"
+    "cheerio": "1.0.0-rc.3",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "standard": "^14.3.3",
@@ -37,5 +40,6 @@
   "bugs": {
     "url": "https://github.com/eklem/nowsearch-docproc/issues"
   },
-  "homepage": "https://github.com/eklem/nowsearch-docproc#readme"
+  "homepage": "https://github.com/eklem/nowsearch-docproc#readme",
+  "snyk": true
 }
