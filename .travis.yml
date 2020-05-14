@@ -1,11 +1,13 @@
-sudo: false
 language: node_js
+os: linux
+dist: bionic
 cache:
   directories:
     - node_modules
 node_js:
   - '10'
   - '12'
+  - '14'
 before_script:
   - npm prune
 branches:
