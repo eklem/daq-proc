@@ -1,0 +1,41 @@
+
+h1, h2, h3, h4, h5, h6 {
+  margin-left:0px;
+}
+
+h2 {
+  line-height:1em;
+  margin-top:5px;
+  margin-bottom:5px;
+}
+
+#header {
+  padding-left:10px;
+}
+
+#queryContainer, #config {
+  background:#cccccc;
+  padding:10px;
+}
+
+#highlighted {
+  padding: 10px;
+  background: #eeeeee;
+}
+#highlighted p {
+  font-size:1.2rem;
+}
+
+#highlighted p span.hitHighlight {
+  background:#ffff00;
+  display:inline-block;
+  padding:0 7px 0 7px;
+}
+
+input, select {
+  font-size:1.2rem;
+  margin-left:0;
+}
+input {
+  width:100%;
+}

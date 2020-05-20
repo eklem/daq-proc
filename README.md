@@ -10,7 +10,8 @@ Simple document and query processor for [nowsearch.xyz](https://github.com/eklem
 
 ## Demo
 
-Check out the [daq-proc interactive demo](https://eklem.github.io/daq-proc/demo/). It showcases the document processor end. Just add some words and figure it out. For the query side, the [hit-highlighter also has an interactive demo](https://eklem.github.io/hit-highlighter/demo/).
+* [document processor](https://eklem.github.io/daq-proc/demo/document-processing/). It showcases the document processor end. Just add some words and figure it out.
+* [query processor](https://eklem.github.io/daq-proc/demo/query-processing/) (lacking `leven` showcase, just hit-highlighter for now).
 
 [![Screenshot of the daq-proc broser demo](./demo/daq-proc-demo-screenshot.png)](https://eklem.github.io/daq-proc/demo/)
 

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./mini-default.min.css">
+    <link rel="stylesheet" href="./mini-additions.css">
+    <script src="../dist/hit-highlighter.latest.js"></script>
+    <title>Hit-highlighter browser demo</title>
+  </head>
+
+  <body>
+    <div id="header">
+      <h1>Hit-highlighter demo</h1>
+    </div>
+
+    <div id="queryContainer">
+      <div id="query">
+        <h2>Query</h2>
+        <input type="text" id="querytext" placeholder="some query words" /><br />
+      </div>
+    </div>
+    <div id="config"><h2>Max words</h2>
+      <select name="maxwordselect" id="maxwords">
+        <option value="50">50</option>
+        <option value="40">40</option>
+        <option value="30">30</option>
+        <option value="20">20</option>
+        <option value="10">10</option>
+      </select>
+    </div>
+
+    <div id="highlighted">
+      <h2>Hit highlighted</h2>
+      <div id="itemWithHighlights"></div>
+    </div>
+
+    <script src="./query-processor-app.js"></script>
+  </body>
+</html> 
