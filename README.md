@@ -13,7 +13,7 @@ Simple document and query processor for [nowsearch.xyz](https://github.com/eklem
 * [document processor](https://eklem.github.io/daq-proc/demo/document-processing/). It showcases the document processor end. Just add some words and figure it out.
 * [query processor](https://eklem.github.io/daq-proc/demo/query-processing/) (lacking `leven` showcase, just hit-highlighter for now).
 
-[![Screenshot of the daq-proc broser demo](./demo/daq-proc-demo-screenshot.png)](https://eklem.github.io/daq-proc/demo/)
+[![Screenshot of the daq-proc broser demo](./demo/document-processing/daq-proc-demo-screenshot.png)](https://eklem.github.io/daq-proc/demo/)
 
 This library is not creating anything new, but just packaging 6 libraries that goes well togehter into one browser distribution file. Also showing how it may be usefull through tests and the interactive demo.
 
