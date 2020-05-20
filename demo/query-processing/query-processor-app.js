@@ -1,3 +1,6 @@
+// exposing the underlying libraries in a transparent way
+const {highlight, leven} = dqp
+
 // Populating div with only meaningful words
 const populateItem = function (result) {
   // console.log('Boom')
