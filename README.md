@@ -21,6 +21,7 @@ This library is not creating anything new, but just packaging 6 libraries that g
 * [`cheerio`](https://github.com/cheeriojs/cheerio) - Here specifically used to extract text from all- or parts of the HTML.
 * [`eklem-headline-parser`](https://github.com/eklem/eklem-headline-parser) - Determines the most relevant keywords in a headline by considering article context
 * [`hit-highlighter`](https://github.com/eklem/hit-highlighter) - Higlighting hits from a query in a result item.
+* [`leven`](https://github.com/sindresorhus/leven) - Calculating Levenshtein distance between two words. Good for fuzzy matching.
 * [`ngraminator`](https://github.com/fergiemcdowall/ngraminator) - Generate n-grams.
 * [`stopword`](https://github.com/fergiemcdowall/stopword) - Removes stopwords from an array of words. To keep your index small and remove all words without a scent of information and/or remove stopwords from the query, making the search engine work less hard to find relevant results.
 * [`words'n'numbers`](https://github.com/eklem/words-n-numbers) - Extract words and optionally numbers from a string of text into arrays. Arrays that can be fed to `stopword`, `eklem-headline-parser`, `ngraminator` and `hit-highlighter`.
