@@ -20,7 +20,7 @@
     "nlp"
   ],
   "dependencies": {
-    "words-n-numbers": "^2.0.1",
+    "words-n-numbers": "^2.0.3",
     "stopword": "^1.0.1",
     "eklem-headline-parser": "^2.0.5",
     "ngraminator": "^2.0.4",
