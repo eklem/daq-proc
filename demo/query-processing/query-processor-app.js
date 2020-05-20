@@ -31,7 +31,7 @@ const hitHighlight = function () {
   // console.log(querytext)
   // console.log(itemtext)
   // console.log(itemmaxwords)
-  const hitHighlighted = window.highlight(querytext, itemtext, { itemMaxWords: itemmaxwords })
+  const hitHighlighted = highlight(querytext, itemtext, { itemMaxWords: itemmaxwords })
   console.log('Hit(s) highlighted: ' + hitHighlighted)
   populateItem(hitHighlighted)
 }
