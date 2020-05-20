@@ -1,9 +1,9 @@
 const test = require('tape')
-const { cheerio, ehp, highlight, ngraminator, sw, wnn } = require('../index.js')
+const { cheerio, ehp, highlight, leven, ngraminator, sw, wnn } = require('../index.js')
 const $ = cheerio.load(require('./test-data.js')) // Example grabbed from view-source:https://www.bbc.com/news/world-middle-east-49782693
 
 test('extract strings from html, arrays from strings, remove stopwords, make ngrams, find keywords ', function (t) {
-  t.plan(10)
+  t.plan(11)
 
   // Extracting title with Cheerio selectors
   const headlineString = $('h1').text()
@@ -45,4 +45,8 @@ test('extract strings from html, arrays from strings, remove stopwords, make ngr
   const query = ['saudi', 'arabia', 'attacks']
   const highlighted = highlight(query, headlineArray)
   t.deepEqual(highlighted, '<span class="hitHighlight">saudi arabia</span> vows to respond to oil <span class="hitHighlight">attacks</span> with necessary measures ')
+
+  // Calculate a Levenshtein distance
+  const distance = leven('cat', 'cow')
+  t.deepEqual(distance, 2)
 })
