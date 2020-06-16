@@ -1,4 +1,3 @@
-
 h1, h2, h3, h4, h5, h6 {
   margin-left:0px;
 }
@@ -32,10 +31,25 @@ h2 {
   padding:0 7px 0 7px;
 }
 
+.truncated {
+  background:#dddddd;
+  margin:5px;
+  padding:3px 10px;
+}
+
+.truncated:after, .truncated:before {
+  content: " ... ";
+}
+
+.truncated:last-child {
+  margin-right:0;
+}
+
 input, select {
   font-size:1.2rem;
   margin-left:0;
 }
+
 input {
   width:100%;
 }

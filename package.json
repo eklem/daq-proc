@@ -1,6 +1,6 @@
 {
   "name": "daq-proc",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Simple document processor to make search running in the browser and node.js a little better. Supports 50+ languages. Removes stopwords (smaller index and less irrelevant hits), extract keywords to filter on and prepares ngrams for auto-complete functionality.",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "stopword": "^1.0.1",
     "eklem-headline-parser": "^2.0.5",
     "ngraminator": "^2.0.4",
-    "hit-highlighter": "2.0.1",
+    "hit-highlighter": "2.0.3",
     "cheerio": "1.0.0-rc.3",
     "leven-match": "1.0.0",
     "snyk": "^1.327.0"
