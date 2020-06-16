@@ -11,7 +11,7 @@ Simple document and query processor for [nowsearch.xyz](https://github.com/eklem
 ## Demo
 
 * [document processor](https://eklem.github.io/daq-proc/demo/document-processing/). It showcases the document processor end. Just add some words and figure it out.
-* [query processor](https://eklem.github.io/daq-proc/demo/query-processing/) (lacking `leven` showcase, just hit-highlighter for now).
+* [query processor](https://eklem.github.io/daq-proc/demo/query-processing/) (lacking `leven-match` showcase, just hit-highlighter for now).
 
 [![Screenshot of the daq-proc broser demo](./demo/document-processing/daq-proc-demo-screenshot.png)](https://eklem.github.io/daq-proc/demo/)
 
@@ -22,7 +22,7 @@ This library is not creating anything new, but just packaging 6 libraries that g
 * [`cheerio`](https://github.com/cheeriojs/cheerio) - Here specifically used to extract text from all- or parts of the HTML.
 * [`eklem-headline-parser`](https://github.com/eklem/eklem-headline-parser) - Determines the most relevant keywords in a headline by considering article context
 * [`hit-highlighter`](https://github.com/eklem/hit-highlighter) - Higlighting hits from a query in a result item.
-* [`leven`](https://github.com/sindresorhus/leven) - Calculating Levenshtein distance between two words. Good for fuzzy matching.
+* [`leven-match`](https://github.com/eklem/leven-match) - Calculating Levenshtein match between words in two arrays within given distance. Good for fuzzy matching.
 * [`ngraminator`](https://github.com/fergiemcdowall/ngraminator) - Generate n-grams.
 * [`stopword`](https://github.com/fergiemcdowall/stopword) - Removes stopwords from an array of words. To keep your index small and remove all words without a scent of information and/or remove stopwords from the query, making the search engine work less hard to find relevant results.
 * [`words'n'numbers`](https://github.com/eklem/words-n-numbers) - Extract words and optionally numbers from a string of text into arrays. Arrays that can be fed to `stopword`, `eklem-headline-parser`, `ngraminator` and `hit-highlighter`.
@@ -36,7 +36,7 @@ This library is not creating anything new, but just packaging 6 libraries that g
 
 <script>
   // exposing the underlying libraries in a transparent way
-  const {cheerio, ehp, highlight, ngraminator, sw, wnn} = dqp
+  const {cheerio, ehp, highlight, lvm, ngraminator, sw, wnn} = dqp
 
   // input
   const headlineString = 'Document and query processing for the browser!'
@@ -77,15 +77,21 @@ This library is not creating anything new, but just packaging 6 libraries that g
 
 <script>
   // exposing the underlying libraries in a transparent way
-  const {cheerio, ehp, highlight, ngraminator, sw, wnn} = dqp
+  const {cheerio, ehp, highlight, lvm, ngraminator, sw, wnn} = dqp
 
   const query = ['interesting', 'words']
   const searchResult = ['some', 'interesting', 'words', 'to', 'remember']
 
   highlight(query, searchResult)
-
   // returns:
   // 'some <span class="highlighted">interesting words</span> to remember'
+
+  const index = ['return', 'all', 'word', 'matches', 'between', 'two', 'arrays', 'within', 'given', 'levenshtein', 'distance', 'intended', 'use', 'is', 'to', 'words', 'in', 'a', 'query', 'that', 'has', 'an', 'index', 'good', 'for', 'autocomplete', 'type', 'functionality,', 'and', 'some', 'cases', 'also', 'searching']
+  const query = ['qvery', 'words', 'levensthein']
+
+  lvm.levenMatch(query, index, {distance: 2})
+  // returns:
+  //[ [ 'query' ], [ 'word', 'words' ], [ 'levenshtein' ] ]
 </script>
 ```
 

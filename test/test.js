@@ -1,5 +1,5 @@
 const test = require('tape')
-const { cheerio, ehp, highlight, leven, ngraminator, sw, wnn } = require('../index.js')
+const { cheerio, ehp, highlight, lvm, ngraminator, sw, wnn } = require('../index.js')
 const $ = cheerio.load(require('./test-data.js')) // Example grabbed from view-source:https://www.bbc.com/news/world-middle-east-49782693
 
 test('extract strings from html, arrays from strings, remove stopwords, make ngrams, find keywords ', function (t) {
@@ -42,11 +42,13 @@ test('extract strings from html, arrays from strings, remove stopwords, make ngr
   t.deepEqual(keywords, ['saudi', 'arabia', 'oil', 'attacks', 'necessary'])
 
   // Highlight a result item where query words matches
-  const query = ['saudi', 'arabia', 'attacks']
+  let query = ['saudi', 'arabia', 'attacks']
   const highlighted = highlight(query, headlineArray)
   t.deepEqual(highlighted, '<span class="hitHighlight">saudi arabia</span> vows to respond to oil <span class="hitHighlight">attacks</span> with necessary measures ')
 
-  // Calculate a Levenshtein distance
-  const distance = leven('cat', 'cow')
-  t.deepEqual(distance, 2)
+  // Matched query words within Levenshtein distance of 2
+  const index = ['return', 'all', 'word', 'matches', 'between', 'two', 'arrays', 'within', 'given', 'levenshtein', 'distance', 'intended', 'use', 'is', 'to', 'words', 'in', 'a', 'query', 'that', 'has', 'an', 'index', 'good', 'for', 'autocomplete', 'type', 'functionality,', 'and', 'some', 'cases', 'also', 'searching']
+  query = ['qvery', 'words', 'levensthein']
+  const matched = lvm.levenMatch(query, index, { distance: 2 })
+  t.deepEqual(matched, [['query'], ['word', 'words'], ['levenshtein']])
 })
