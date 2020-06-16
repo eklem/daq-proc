@@ -11,7 +11,7 @@ Simple document and query processor for [nowsearch.xyz](https://github.com/eklem
 ## Demo
 
 * [document processor](https://eklem.github.io/daq-proc/demo/document-processing/). It showcases the document processor end. Just add some words and figure it out.
-* [query processor](https://eklem.github.io/daq-proc/demo/query-processing/) (lacking `leven-match` showcase, just hit-highlighter for now).
+* [query processor](https://eklem.github.io/daq-proc/demo/query-processing/). Showcases hit highlighting and truncating text if needed. Possible to turn fuzzy matching on/off.
 
 [![Screenshot of the daq-proc broser demo](./demo/document-processing/daq-proc-demo-screenshot.png)](https://eklem.github.io/daq-proc/demo/)
 
