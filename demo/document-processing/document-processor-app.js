@@ -22,8 +22,8 @@ const daqProc = function () {
   let headlineString = document.getElementById('headlinetext').value
   let bodyString = document.getElementById("bodytext").value
   let emojiString = headlineString.concat(' ', bodyString)
-  let headlineArray = wnn.extract(headlineString, { regex: wnn.wordsNumbersEmojis, toLowercase: true })
-  let bodyArray = wnn.extract(bodyString, { regex: wnn.wordsNumbersEmojis, toLowercase: true })
+  let headlineArray = wnn.extract(headlineString, { regex: wnn.wordsNumbers, toLowercase: true })
+  let bodyArray = wnn.extract(bodyString, { regex: wnn.wordsNumbers, toLowercase: true })
   let emojiArray = wnn.extract(emojiString, { regex: wnn.emojis })
   populate(JSON.stringify(headlineArray, 2, ' '), 'headlineArrDiv')
   populate(JSON.stringify(bodyArray, 2, ' '), 'bodyArrDiv')
@@ -45,6 +45,7 @@ const daqProc = function () {
   populate(JSON.stringify(bodyNgrams, 2, ' '), 'bodyNgramifiedDiv')
 
   // Emoji population
+  emojiArray = emojiArray.join('')
   emojiArray = [...new Set(emojiArray)]
   populate(JSON.stringify(emojiArray, 2, ' '), 'emojisFoundDiv')
 
