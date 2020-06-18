@@ -1,28 +1,30 @@
 // exposing the underlying libraries in a transparent way
-const {wnn, sw, ngraminator, ehp} = dqp
+const { wnn, sw, ngraminator, ehp } = dqp
 
 // Listen to key up on headlinetext and initiate a daq-proc
-document.getElementById("languageSelected").onchange = function() {
+document.getElementById('languageSelected').onchange = function () {
   daqProc()
 }
 
 // Listen to key up on headlinetext and initiate a daq-proc
-document.getElementById("headlinetext").onkeyup = function() {
+document.getElementById('headlinetext').onkeyup = function () {
   daqProc()
 }
 
 // Listen to key up on bodytext and initiate daq-proc
-document.getElementById("bodytext").onkeyup = function() {
+document.getElementById('bodytext').onkeyup = function () {
   daqProc()
 }
 
 // document and query processing
 const daqProc = function () {
   // Extract array of words and populate
-  let headlineString = document.getElementById("headlinetext").value
+  let headlineString = document.getElementById('headlinetext').value
   let bodyString = document.getElementById("bodytext").value
+  let emojiString = headlineString.concat(' ', bodyString)
   let headlineArray = wnn.extract(headlineString, { regex: wnn.wordsNumbersEmojis, toLowercase: true })
   let bodyArray = wnn.extract(bodyString, { regex: wnn.wordsNumbersEmojis, toLowercase: true })
+  let emojiArray = wnn.extract(emojiString, { regex: wnn.emojis })
   populate(JSON.stringify(headlineArray, 2, ' '), 'headlineArrDiv')
   populate(JSON.stringify(bodyArray, 2, ' '), 'bodyArrDiv')
 
@@ -42,13 +44,17 @@ const daqProc = function () {
   let bodyNgrams = ngraminator(bodyStopped, [2,3,4])
   populate(JSON.stringify(bodyNgrams, 2, ' '), 'bodyNgramifiedDiv')
 
+  // Emoji population
+  emojiArray = [...new Set(emojiArray)]
+  populate(JSON.stringify(emojiArray, 2, ' '), 'emojisFoundDiv')
+
   // Calculating keywords
   let keywords = ehp.findKeywords(headlineStopped, bodyStopped, 5)
   populate(JSON.stringify(keywords, 2, ' '), 'keywordsFoundDiv')
 }
 
 // Populating HTML elements with results
-const populate = function(result, elementToPopulate) {
+const populate = function (result, elementToPopulate) {
   const node = document.createElement('pre')
   node.innerHTML = result
   emptyElement(elementToPopulate)

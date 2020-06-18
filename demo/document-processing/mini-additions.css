@@ -34,11 +34,11 @@ h2 {
   padding:0 10px 0 0;
 }
 
-#wordsnNumbers, #stopwords, #ngraminator, #keywords {
+#wordsnNumbers, #stopwords, #ngraminator, #keywords, #emojis {
   padding: 0 0 0 10px;
   flex: 1 1 auto;
 }
-#wordsnNumbers > div, #stopwords > div, #ngraminator > div, #keywords > div {
+#wordsnNumbers > div, #stopwords > div, #ngraminator > div, #keywords > div, #emojis > div {
   margin:0 0 10px 0;
 }
 
