@@ -1,6 +1,6 @@
 {
   "name": "daq-proc",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Simple document processor to make search running in the browser and node.js a little better. Supports 50+ languages. Removes stopwords (smaller index and less irrelevant hits), extract keywords to filter on and prepares ngrams for auto-complete functionality.",
   "main": "index.js",
   "scripts": {
@@ -33,7 +33,7 @@
     "standard": "^14.3.3",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11",
-    "tape": "^5.0.0-next.5",
+    "tape": "^5.0.1",
     "tape-run": "^7.0.0"
   },
   "author": "Espen Klem",
