@@ -27,7 +27,7 @@
     "hit-highlighter": "2.0.3",
     "cheerio": "1.0.0-rc.3",
     "leven-match": "1.0.0",
-    "snyk": "^1.382.0"
+    "snyk": "^1.384.0"
   },
   "devDependencies": {
     "standard": "^14.3.4",
