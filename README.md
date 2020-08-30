@@ -102,13 +102,13 @@ It's fully possible to use on Node.js too. The tests are both for Node.js and th
 ## Something missing?
 [Create an issue so we can discuss =)](https://github.com/eklem/daq-proc/issues/new).
 
-[license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
+[license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
 [license-url]: LICENSE
 [npm-url]: https://npmjs.org/package/daq-proc
-[npm-version-image]: http://img.shields.io/npm/v/daq-proc.svg?style=flat
-[npm-downloads-image]: http://img.shields.io/npm/dm/daq-proc.svg?style=flat
-[travis-url]: http://travis-ci.org/eklem/daq-proc
-[travis-image]: http://img.shields.io/travis/eklem/daq-proc.svg?style=flat
+[npm-version-image]: https://img.shields.io/npm/v/daq-proc.svg?style=flat
+[npm-downloads-image]: https://img.shields.io/npm/dm/daq-proc.svg?style=flat
+[travis-url]: https://travis-ci.org/eklem/daq-proc
+[travis-image]: https://img.shields.io/travis/eklem/daq-proc.svg?style=flat
 [snyk-url]: https://snyk.io/test/github/eklem/daq-proc?targetFile=package.json
 [snyk-image]: https://snyk.io/test/github/eklem/daq-proc/badge.svg?targetFile=package.json
 [standardjs-url]: https://standardjs.com
