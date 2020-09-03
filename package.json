@@ -25,7 +25,7 @@
     "hit-highlighter": "2.0.3",
     "leven-match": "1.0.0",
     "ngraminator": "^2.0.4",
-    "snyk": "^1.387.1",
+    "snyk": "^1.388.0",
     "stopword": "^1.0.1",
     "words-n-numbers": "^3.0.0"
   },
