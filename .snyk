@@ -4,8 +4,8 @@ version: v1.14.1
 ignore:
   SNYK-JS-LODASH-590103:
     - cheerio > lodash:
-        reason: defauld wizard choice
-        expires: '2020-10-05T07:42:53.550Z'
+        reason: None given
+        expires: '2020-10-06T06:09:21.116Z'
 # patches apply the minimum changes required to fix a vulnerability
 patch:
   SNYK-JS-LODASH-567746:
