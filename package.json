@@ -23,7 +23,7 @@
     "hit-highlighter": "2.0.3",
     "leven-match": "1.0.0",
     "ngraminator": "^2.0.4",
-    "stopword": "^1.0.1",
+    "stopword": "^1.0.3",
     "words-n-numbers": "^3.0.0"
   },
   "devDependencies": {
