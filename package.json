@@ -27,7 +27,7 @@
     "words-n-numbers": "^3.0.0"
   },
   "devDependencies": {
-    "standard": "^15.0.1",
+    "standard": "^16.0.0",
     "webpack": "^4.44.2",
     "webpack-cli": "^4.1.0",
     "tape": "^5.0.1",
