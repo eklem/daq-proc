@@ -24,7 +24,7 @@
     "leven-match": "1.0.0",
     "ngraminator": "^2.0.4",
     "stopword": "^1.0.3",
-    "words-n-numbers": "^3.0.0"
+    "words-n-numbers": "^4.0.1"
   },
   "devDependencies": {
     "standard": "^16.0.0",
