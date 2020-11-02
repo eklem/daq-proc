@@ -22,7 +22,7 @@
     "eklem-headline-parser": "^2.0.5",
     "hit-highlighter": "2.0.3",
     "leven-match": "1.0.0",
-    "ngraminator": "^2.0.4",
+    "ngraminator": "^2.0.5",
     "stopword": "^1.0.3",
     "words-n-numbers": "^3.0.0"
   },
