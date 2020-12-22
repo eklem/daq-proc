@@ -20,7 +20,7 @@
   "dependencies": {
     "cheerio": "1.0.0-rc.5",
     "eklem-headline-parser": "^2.0.8",
-    "hit-highlighter": "2.0.3",
+    "hit-highlighter": "2.0.4",
     "leven-match": "1.0.2",
     "ngraminator": "^2.0.6",
     "stopword": "^1.0.5",
