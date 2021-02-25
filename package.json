@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "standard": "^16.0.3",
-    "webpack": "^5.24.1",
+    "webpack": "^5.24.2",
     "webpack-cli": "^4.5.0",
     "tape": "^5.2.0",
     "tape-run": "^8.0.0",
