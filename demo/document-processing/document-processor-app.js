@@ -53,12 +53,12 @@ const daqProc = function () {
   }
 
   // Ngramming
-  if (headlineStopped !== null || headlineStopped.length > 1) {
+  if (headlineStopped !== null || headlineStopped.length > 0) {
     const headlineNgrams = ngraminator(headlineStopped, [1, 2, 3, 4])
     populate(JSON.stringify(headlineNgrams, 2, ' '), 'headlineNgramifiedDiv')
   }
 
-  if (bodyStopped !== null || bodyStopped.length > 1) {
+  if (bodyStopped !== null || bodyStopped.length > 0) {
     const bodyNgrams = ngraminator(bodyStopped, [1, 2, 3, 4])
     populate(JSON.stringify(bodyNgrams, 2, ' '), 'bodyNgramifiedDiv')
   }
