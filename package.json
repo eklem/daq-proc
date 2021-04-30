@@ -1,6 +1,6 @@
 {
   "name": "daq-proc",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Simple document processor to make search running in the browser and node.js a little better. Supports 50+ languages. Removes stopwords (smaller index and less irrelevant hits), extract keywords to filter on and prepares ngrams for auto-complete functionality.",
   "main": "index.js",
   "scripts": {
