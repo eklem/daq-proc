@@ -44,14 +44,14 @@ const daqProc = function () {
   let bodyNgrams = ngraminator(bodyStopped, [2,3,4])
   populate(JSON.stringify(bodyNgrams, 2, ' '), 'bodyNgramifiedDiv')
 
+  // Calculating keywords
+  let keywords = ehp.findKeywords(headlineStopped, bodyStopped, 5)
+  populate(JSON.stringify(keywords, 2, ' '), 'keywordsFoundDiv')
+
   // Emoji population
   emojiArray = emojiArray.join('')
   emojiArray = [...new Set(emojiArray)]
   populate(JSON.stringify(emojiArray, 2, ' '), 'emojisFoundDiv')
-
-  // Calculating keywords
-  let keywords = ehp.findKeywords(headlineStopped, bodyStopped, 5)
-  populate(JSON.stringify(keywords, 2, ' '), 'keywordsFoundDiv')
 }
 
 // Populating HTML elements with results
