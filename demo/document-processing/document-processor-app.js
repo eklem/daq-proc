@@ -66,14 +66,53 @@ const daqProc = function () {
   // Calculating keywords
   if (headlineStopped.length > 0 || bodyStopped.length > 0) {
     const keywords = ehp.findKeywords(headlineStopped, bodyStopped, 5)
-    populate(JSON.stringify(keywords, 2, ' '), 'keywordsFoundDiv')
+    populate(JSON.stringify(keywords, 2, ' '), 'keywordsCalculatedDiv')
+  }
+
+  // Extracting keywords
+  if (headlineString.length > 0 || bodyString.length > 0) {
+    let stringOfKeywords
+    if (headlineString.length > 0) {
+      stringOfKeywords = headlineString + ' '
+    }
+    if (bodyString.length > 0) {
+      stringOfKeywords += bodyString
+    }
+    const keywords = wnn.extract(stringOfKeywords, { regex: wnn.tags, toLowercase: true })
+    populate(JSON.stringify(keywords, 2, ' '), 'keywordsExtractedDiv')
+  }
+
+  // Extracting usernames
+  if (headlineString.length > 0 || bodyString.length > 0) {
+    let stringOfUsernames
+    if (headlineString.length > 0) {
+      stringOfUsernames = headlineString + ' '
+    }
+    if (bodyString.length > 0) {
+      stringOfUsernames += bodyString
+    }
+    const keywords = wnn.extract(stringOfUsernames, { regex: wnn.usernames, toLowercase: true })
+    populate(JSON.stringify(keywords, 2, ' '), 'usernamesExtractedDiv')
+  }
+
+  // Extracting email
+  if (headlineString.length > 0 || bodyString.length > 0) {
+    let stringOfEmailAddresses
+    if (headlineString.length > 0) {
+      stringOfEmailAddresses = headlineString + ' '
+    }
+    if (bodyString.length > 0) {
+      stringOfEmailAddresses += bodyString
+    }
+    const keywords = wnn.extract(stringOfEmailAddresses, { regex: wnn.email, toLowercase: true })
+    populate(JSON.stringify(keywords, 2, ' '), 'emailExtractedDiv')
   }
 
   // Emoji population
   if (emojiArray !== null && emojiArray.length > 0) {
     emojiArray = emojiArray.join('')
     emojiArray = [...new Set(emojiArray)]
-    populate(JSON.stringify(emojiArray, 2, ' '), 'emojisFoundDiv')
+    populate(JSON.stringify(emojiArray, 2, ' '), 'emojisExtractedDiv')
   }
 }
 
