@@ -5,7 +5,8 @@ cache:
   directories:
     - node_modules
 node_js:
- - '12'
+  - '10'
+  - '12'
   - '14'
   - '16'
 before_script:
