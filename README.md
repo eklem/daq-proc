@@ -13,9 +13,9 @@ Simple document and query processor for [nowsearch.xyz](https://github.com/eklem
 * [document processor](https://eklem.github.io/daq-proc/demo/document-processing/). It showcases the document processor end. Just add some words and figure it out.
 * [query processor](https://eklem.github.io/daq-proc/demo/query-processing/). Showcases hit highlighting and truncating text if needed. Possible to turn fuzzy matching on/off.
 
-[![Screenshot of the daq-proc document processor demo](./demo/document-processing/daq-proc-document-processing.png)](https://eklem.github.io/daq-proc/demo/document-processing/)
+[![Screenshot of the daq-proc document processor demo](.//demo/document-processing/daq-proc-document-processor.png)](https://eklem.github.io/daq-proc/demo/document-processing/)
 
-[![Screenshot of the daq-proc query processor demo](./demo/query-processing/daq-proc-query-processing.png)](https://eklem.github.io/daq-proc/demo/query-processing/)
+[![Screenshot of the daq-proc query processor demo](./demo/query-processing/daq-proc-query-processor.png)](https://eklem.github.io/daq-proc/demo/query-processing/)
 
 This library is not creating anything new, but just packaging 6 libraries that goes well togehter into one browser distribution file. Also showing how it may be usefull through tests and the interactive demo.
 
