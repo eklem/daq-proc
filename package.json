@@ -21,6 +21,7 @@
     "cheerio": "1.0.0-rc.10",
     "eklem-headline-parser": "^3.0.1",
     "hit-highlighter": "^3.0.4",
+
     "leven-match": "^2.0.2",
     "ngraminator": "^2.0.6",
     "stopword": "^1.0.11",
