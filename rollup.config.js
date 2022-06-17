@@ -15,7 +15,9 @@ export default [
       { file: './dist/daq-proc.esm.mjs', format: 'es' }
     ],
     plugins: [
-      nodeResolve(), // so Rollup can find `ms`
+      nodeResolve({
+        browser: true
+      }), // so Rollup can find `ms`
       commonjs() // so Rollup can convert `ms` to an ES module
     ]
   },

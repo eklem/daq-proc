@@ -19635,83 +19635,95 @@ stopword_cjs.yor = yor;
 stopword_cjs.zho = zho;
 stopword_cjs.zul = zul;
 
-const words = '\\p{Alpha}+[\'’?]\\p{Alpha}+[\'’?]\\p{Alpha}+|\\p{Alpha}+[\'’?]\\p{Alpha}+|\\p{Alpha}+';
-const numbers = '\\p{Number}+';
-const emojis = '\\p{Emoji_Presentation}+';
-const tags = '\\B[#][\\p{Alpha}|\\p{Number}]+';
-const usernames = '\\B[@][\\p{Alpha}|\\p{Number}]+';
-const email = '[0-9a-zA-Z!#$%&\'*+-/=?^_`{|}~.]+@[0-9a-zA-Z-.]+[a-zA-Z0-9]';
+var wordsNNumbers_umd = {exports: {}};
 
-const extract = function (string, options) {
-  // Default options object
-  const defaultOptions = {
-    regex: words,
-    toLowercase: false
-  };
+(function (module, exports) {
+	(function (global, factory) {
+	  factory(exports) ;
+	})(commonjsGlobal, (function (exports) {
+	  const words = '\\p{Alpha}+[\'’?]\\p{Alpha}+[\'’?]\\p{Alpha}+|\\p{Alpha}+[\'’?]\\p{Alpha}+|\\p{Alpha}+';
+	  const numbers = '\\p{Number}+';
+	  const emojis = '\\p{Emoji_Presentation}+';
+	  const tags = '\\B[#][\\p{Alpha}|\\p{Number}]+';
+	  const usernames = '\\B[@][\\p{Alpha}|\\p{Number}]+';
+	  const email = '[0-9a-zA-Z!#$%&\'*+-/=?^_`{|}~.]+@[0-9a-zA-Z-.]+[a-zA-Z0-9]';
 
-  // Populate regex and options objects
-  options = {
-    ...defaultOptions,
-    ...options
-  };
+	  const extract = function (string, options) {
+	    // Default options object
+	    const defaultOptions = {
+	      regex: words,
+	      toLowercase: false
+	    };
 
-  // Check that input is a string
-  if (typeof string !== 'string') {
-    throw new Error('Error: Input is not a string')
-  }
+	    // Populate regex and options objects
+	    options = {
+	      ...defaultOptions,
+	      ...options
+	    };
 
-  // Join regexes with or between them -> '|'
-  if (options.regex.constructor === Array) {
-    options.regex = options.regex.join('|');
-  }
+	    // Check that input is a string
+	    if (typeof string !== 'string') {
+	      throw new Error('Error: Input is not a string')
+	    }
 
-  // string to lowercase ?
-  if (options.toLowercase === true) {
-    string = string.toLowerCase();
-  }
+	    // Join regexes with or between them -> '|'
+	    if (options.regex.constructor === Array) {
+	      options.regex = options.regex.join('|');
+	    }
 
-  // regex constructor
-  const regex = new RegExp(options.regex, 'giu');
+	    // string to lowercase ?
+	    if (options.toLowercase === true) {
+	      string = string.toLowerCase();
+	    }
 
-  // match words (and numbers and emojis)
-  let extracted = [];
-  extracted = string.match(regex);
-  return extracted
-};
+	    // regex constructor
+	    const regex = new RegExp(options.regex, 'giu');
 
-var wordsNNumbers_esm = /*#__PURE__*/Object.freeze({
-	__proto__: null,
-	email: email,
-	emojis: emojis,
-	extract: extract,
-	numbers: numbers,
-	tags: tags,
-	usernames: usernames,
-	words: words
-});
+	    // match words (and numbers and emojis)
+	    let extracted = [];
+	    extracted = string.match(regex);
+	    return extracted
+	  };
 
-var require$$2 = /*@__PURE__*/getAugmentedNamespace(wordsNNumbers_esm);
+	  exports.email = email;
+	  exports.emojis = emojis;
+	  exports.extract = extract;
+	  exports.numbers = numbers;
+	  exports.tags = tags;
+	  exports.usernames = usernames;
+	  exports.words = words;
 
-// nGramLengths is of the form [ 9, 10 ]
-const ngraminator$1 = function (inputArray, nGramLengths) {
-  return nGramLengths.reduce(
-    (acc, cur) => [...getNGramsOfSingleLength(inputArray, cur), ...acc], []
-  ).sort()
-};
+	  Object.defineProperty(exports, '__esModule', { value: true });
 
-// nGramLength is a single integer
-const getNGramsOfSingleLength = function (inputArray, nGramLength) {
-  return inputArray.slice(nGramLength - 1).map((item, i) => {
-    return inputArray.slice(i, i + nGramLength)
-  })
-};
+	}));
+} (wordsNNumbers_umd, wordsNNumbers_umd.exports));
 
-var ngraminator_esm = /*#__PURE__*/Object.freeze({
-	__proto__: null,
-	ngraminator: ngraminator$1
-});
+var ngraminator_umd = {exports: {}};
 
-var require$$3 = /*@__PURE__*/getAugmentedNamespace(ngraminator_esm);
+(function (module, exports) {
+	(function (global, factory) {
+	  factory(exports) ;
+	})(commonjsGlobal, (function (exports) {
+	  // nGramLengths is of the form [ 9, 10 ]
+	  const ngraminator = function (inputArray, nGramLengths) {
+	    return nGramLengths.reduce(
+	      (acc, cur) => [...getNGramsOfSingleLength(inputArray, cur), ...acc], []
+	    ).sort()
+	  };
+
+	  // nGramLength is a single integer
+	  const getNGramsOfSingleLength = function (inputArray, nGramLength) {
+	    return inputArray.slice(nGramLength - 1).map((item, i) => {
+	      return inputArray.slice(i, i + nGramLength)
+	    })
+	  };
+
+	  exports.ngraminator = ngraminator;
+
+	  Object.defineProperty(exports, '__esModule', { value: true });
+
+	}));
+} (ngraminator_umd, ngraminator_umd.exports));
 
 const findKeywords$1 = function (headline, body, cutoff = 0) {
   // remove duplicates in headline
@@ -19778,7 +19790,7 @@ var src$2 = {
 
 var eklemHeadlineParser_cjs = src$2;
 
-const defaultProperties$1 = {
+const defaultProperties = {
   itemMaxWords: 0,
   returnItemAlways: true,
   truncateStart: '<span class="truncated">',
@@ -19791,7 +19803,7 @@ const defaultProperties$1 = {
 
 const highlight$1 = function (queryArr, itemArr, properties) {
   properties = {
-    ...defaultProperties$1,
+    ...defaultProperties,
     ...properties
   };
 
@@ -20024,107 +20036,113 @@ var src$1 = highlight$1;
 
 var hitHighlighter_cjs = src$1;
 
-const array = [];
-const characterCodeCache = [];
+var levenMatch_umd = {exports: {}};
 
-function leven(first, second) {
-	if (first === second) {
-		return 0;
-	}
+(function (module, exports) {
+	(function (global, factory) {
+		factory(exports) ;
+	})(commonjsGlobal, (function (exports) {
+		const array = [];
+		const characterCodeCache = [];
 
-	const swap = first;
+		function leven(first, second) {
+			if (first === second) {
+				return 0;
+			}
 
-	// Swapping the strings if `a` is longer than `b` so we know which one is the
-	// shortest & which one is the longest
-	if (first.length > second.length) {
-		first = second;
-		second = swap;
-	}
+			const swap = first;
 
-	let firstLength = first.length;
-	let secondLength = second.length;
+			// Swapping the strings if `a` is longer than `b` so we know which one is the
+			// shortest & which one is the longest
+			if (first.length > second.length) {
+				first = second;
+				second = swap;
+			}
 
-	// Performing suffix trimming:
-	// We can linearly drop suffix common to both strings since they
-	// don't increase distance at all
-	// Note: `~-` is the bitwise way to perform a `- 1` operation
-	while (firstLength > 0 && (first.charCodeAt(~-firstLength) === second.charCodeAt(~-secondLength))) {
-		firstLength--;
-		secondLength--;
-	}
+			let firstLength = first.length;
+			let secondLength = second.length;
 
-	// Performing prefix trimming
-	// We can linearly drop prefix common to both strings since they
-	// don't increase distance at all
-	let start = 0;
+			// Performing suffix trimming:
+			// We can linearly drop suffix common to both strings since they
+			// don't increase distance at all
+			// Note: `~-` is the bitwise way to perform a `- 1` operation
+			while (firstLength > 0 && (first.charCodeAt(~-firstLength) === second.charCodeAt(~-secondLength))) {
+				firstLength--;
+				secondLength--;
+			}
 
-	while (start < firstLength && (first.charCodeAt(start) === second.charCodeAt(start))) {
-		start++;
-	}
+			// Performing prefix trimming
+			// We can linearly drop prefix common to both strings since they
+			// don't increase distance at all
+			let start = 0;
 
-	firstLength -= start;
-	secondLength -= start;
+			while (start < firstLength && (first.charCodeAt(start) === second.charCodeAt(start))) {
+				start++;
+			}
 
-	if (firstLength === 0) {
-		return secondLength;
-	}
+			firstLength -= start;
+			secondLength -= start;
 
-	let bCharacterCode;
-	let result;
-	let temporary;
-	let temporary2;
-	let index = 0;
-	let index2 = 0;
+			if (firstLength === 0) {
+				return secondLength;
+			}
 
-	while (index < firstLength) {
-		characterCodeCache[index] = first.charCodeAt(start + index);
-		array[index] = ++index;
-	}
+			let bCharacterCode;
+			let result;
+			let temporary;
+			let temporary2;
+			let index = 0;
+			let index2 = 0;
 
-	while (index2 < secondLength) {
-		bCharacterCode = second.charCodeAt(start + index2);
-		temporary = index2++;
-		result = index2;
+			while (index < firstLength) {
+				characterCodeCache[index] = first.charCodeAt(start + index);
+				array[index] = ++index;
+			}
 
-		for (index = 0; index < firstLength; index++) {
-			temporary2 = bCharacterCode === characterCodeCache[index] ? temporary : temporary + 1;
-			temporary = array[index];
-			// eslint-disable-next-line no-multi-assign
-			result = array[index] = temporary > result ? (temporary2 > result ? result + 1 : temporary2) : (temporary2 > temporary ? temporary + 1 : temporary2);
+			while (index2 < secondLength) {
+				bCharacterCode = second.charCodeAt(start + index2);
+				temporary = index2++;
+				result = index2;
+
+				for (index = 0; index < firstLength; index++) {
+					temporary2 = bCharacterCode === characterCodeCache[index] ? temporary : temporary + 1;
+					temporary = array[index];
+					// eslint-disable-next-line no-multi-assign
+					result = array[index] = temporary > result ? (temporary2 > result ? result + 1 : temporary2) : (temporary2 > temporary ? temporary + 1 : temporary2);
+				}
+			}
+
+			return result;
 		}
-	}
 
-	return result;
-}
+		const defaultProperties = { distance: 1 };
 
-const defaultProperties = { distance: 1 };
+		const levenMatch = function (query, index, properties) {
+		  properties = {
+		    ...defaultProperties,
+		    ...properties
+		  };
+		  if (!Array.isArray(query) || !Array.isArray(index)) ; else {
+		    // .map all query words and .filter on levenshtein matches in all index words
+		    const matchedQuery = query.map(queryWord => index.filter(indexWord => leven(indexWord, queryWord) <= properties.distance));
+		    return matchedQuery
+		  }
+		};
 
-const levenMatch$1 = function (query, index, properties) {
-  properties = {
-    ...defaultProperties,
-    ...properties
-  };
-  if (!Array.isArray(query) || !Array.isArray(index)) ; else {
-    // .map all query words and .filter on levenshtein matches in all index words
-    const matchedQuery = query.map(queryWord => index.filter(indexWord => leven(indexWord, queryWord) <= properties.distance));
-    return matchedQuery
-  }
-};
+		exports.levenMatch = levenMatch;
 
-var levenMatch_esm = /*#__PURE__*/Object.freeze({
-	__proto__: null,
-	levenMatch: levenMatch$1
-});
+		Object.defineProperty(exports, '__esModule', { value: true });
 
-var require$$6 = /*@__PURE__*/getAugmentedNamespace(levenMatch_esm);
+	}));
+} (levenMatch_umd, levenMatch_umd.exports));
 
 const cheerio = lib$9;
 const sw = stopword_cjs;
-const wnn = require$$2;
-const { ngraminator } = require$$3;
+const wnn = wordsNNumbers_umd.exports;
+const { ngraminator } = ngraminator_umd.exports;
 const { findKeywords } = eklemHeadlineParser_cjs;
 const highlight = hitHighlighter_cjs;
-const { levenMatch } = require$$6;
+const { levenMatch } = levenMatch_umd.exports;
 
 
 var src = {
