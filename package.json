@@ -1,12 +1,13 @@
 {
   "name": "daq-proc",
-  "version": "6.0.0",
+  "version": "7.0.0",
   "description": "Simple document processor to make search running in the browser and node.js a little better. Supports 50+ languages. Removes stopwords (smaller index and less irrelevant hits), extract keywords to filter on and prepares ngrams for auto-complete functionality.",
-  "main": "index.js",
+  "main": "./dist/daq-proc.cjs.js",
+  "module": "./dist/daq-proc.esm.js",
+  "browser": "./dist/daq-proc.umd.js",
   "scripts": {
-    "compile-for-browser": "webpack",
-    "empty-sandbox": "rm -rf test/sandbox && mkdir test/sandbox",
-    "test": "standard './*.js' './test/*.js' && npm run empty-sandbox && npm run compile-for-browser && tape ./test/test.js && cat test/sandbox/bundle.js | tape-run && rm -rf test/sandbox"
+    "build": "rollup --config",
+    "test": "standard './*.js' './test/*.js' && npm run build && npx ava ./test/test.cjs.js"
   },
   "repository": {
     "type": "git",
@@ -18,25 +19,16 @@
     "nlp"
   ],
   "dependencies": {
-    "cheerio": "1.0.0-rc.10",
-    "eklem-headline-parser": "^3.0.1",
+    "cheerio": "1.0.0-rc.11",
+    "eklem-headline-parser": "^3.0.2",
     "hit-highlighter": "^3.0.4",
-
     "leven-match": "^2.0.2",
-    "ngraminator": "^2.0.6",
-    "stopword": "^1.0.11",
-    "words-n-numbers": "^6.0.2"
+    "ngraminator": "^3.0.1",
+    "stopword": "^2.0.2",
+    "words-n-numbers": "^7.1.1"
   },
   "devDependencies": {
-    "buffer": "6.0.3",
-    "path-browserify": "1.0.1",
-    "process": "0.11.10",
-    "standard": "^16.0.4",
-    "stream-browserify": "3.0.0",
-    "tape": "^5.5.3",
-    "tape-run": "^9.0.0",
-    "webpack": "^5.72.1",
-    "webpack-cli": "^4.9.2"
+    "batr": "^2.1.5"
   },
   "author": "Espen Klem",
   "license": "MIT",
