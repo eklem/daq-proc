@@ -31,7 +31,7 @@
     "buffer": "6.0.3",
     "path-browserify": "1.0.1",
     "process": "0.11.10",
-    "standard": "^16.0.4",
+    "standard": "^17.0.0",
     "stream-browserify": "3.0.0",
     "tape": "^5.5.3",
     "tape-run": "^10.0.0",
