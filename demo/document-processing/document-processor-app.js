@@ -1,5 +1,5 @@
 // exposing the underlying libraries in a transparent way
-const { wnn, sw, ngraminator, ehp } = dqp
+// const { wnn, sw, ngraminator, findKeywords } = window.dqp
 
 // Listen to key up on headlinetext and initiate a daq-proc
 document.getElementById('languageSelected').onchange = function () {
@@ -29,9 +29,9 @@ const daqProc = function () {
   if (headlineString.length > 0 || bodyString.length > 0) {
     emojiString = headlineString.concat(' ', bodyString)
   }
-  const headlineArray = wnn.extract(headlineString, { regex: wnn.wordsNumbers, toLowercase: true })
-  const bodyArray = wnn.extract(bodyString, { regex: wnn.wordsNumbers, toLowercase: true })
-  emojiArray = wnn.extract(emojiString, { regex: wnn.emojis })
+  const headlineArray = dqp.wnn.extract(headlineString, { regex: [dqp.wnn.word, dqp.wnn.numbers], toLowercase: true })
+  const bodyArray = dqp.wnn.extract(bodyString, { regex: [dqp.wnn.word, dqp.wnn.numbers], toLowercase: true })
+  emojiArray = dqp.wnn.extract(emojiString, { regex: [dqp.wnn.emojis] })
 
   populate(JSON.stringify(headlineArray, 2, ' '), 'headlineArrDiv')
   populate(JSON.stringify(bodyArray, 2, ' '), 'bodyArrDiv')
@@ -65,7 +65,7 @@ const daqProc = function () {
 
   // Calculating keywords
   if (headlineStopped.length > 0 || bodyStopped.length > 0) {
-    const keywords = ehp.findKeywords(headlineStopped, bodyStopped, 5)
+    const keywords = findKeywords(headlineStopped, bodyStopped, 5)
     populate(JSON.stringify(keywords, 2, ' '), 'keywordsCalculatedDiv')
   }
 

@@ -1,4 +1,4 @@
-import { nodeResolve } from '@rollup/plugin-node-resolve'
+import resolve from '@rollup/plugin-node-resolve'
 import commonjs from '@rollup/plugin-commonjs'
 import { terser } from 'rollup-plugin-terser'
 import path from 'path'
@@ -10,14 +10,12 @@ export default [
   {
     input: './src/index.js',
     output: [
-      { name: 'dqp', file: './dist/daq-proc.umd.js', format: 'umd', exports: 'auto' },
+      { name: 'dqp', file: './dist/daq-proc.umd.js', format: 'umd', exports: 'named', globals: 'dqp' },
       { file: './dist/daq-proc.cjs.js', format: 'cjs', exports: 'auto' },
-      { file: './dist/daq-proc.esm.mjs', format: 'es' }
+      { file: './dist/daq-proc.esm.mjs', format: 'es', exports: 'auto' }
     ],
     plugins: [
-      nodeResolve({
-        browser: true
-      }), // so Rollup can find `ms`
+      resolve(), // so Rollup can find `ms`
       commonjs() // so Rollup can convert `ms` to an ES module
     ]
   },
@@ -25,19 +23,19 @@ export default [
   {
     input: './src/index.js',
     output: [
-      { name: 'dqp', file: './dist/daq-proc.umd.min.js', format: 'umd', exports: 'auto' },
+      { name: 'dqp', file: './dist/daq-proc.umd.min.js', format: 'umd', exports: 'named' },
       { file: './dist/daq-proc.cjs.min.js', format: 'cjs', exports: 'auto' },
-      { file: './dist/daq-proc.esm.min.mjs', format: 'es' }
+      { file: './dist/daq-proc.esm.min.mjs', format: 'es', exports: 'auto' }
     ],
     plugins: [
-      nodeResolve(), // so Rollup can find `ms`
+      resolve(), // so Rollup can find `ms`
       commonjs(), // so Rollup can convert `ms` to an ES module
       terser(), // Minify
       license({ // Add reference to license file for minified scripts
         banner: {
           commentStyle: 'regular', // The default
           content: {
-            file: path.join(__dirname, 'src', 'license-references.txt')
+            file: path.join(__dirname, './src/license-references.txt')
           }
         }
       })

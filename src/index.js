@@ -1,18 +1,17 @@
-const cheerio = require('cheerio')
-const sw = require('../node_modules/stopword/dist/stopword.cjs')
-const wnn = require('words-n-numbers')
-const { ngraminator } = require('ngraminator')
-const { findKeywords } = require('../node_modules/eklem-headline-parser/dist/eklem-headline-parser.cjs.js')
-const highlight = require ('../node_modules/hit-highlighter/dist/hit-highlighter.cjs.js')
-const { levenMatch } = require('leven-match')
+import { load } from 'cheerio'
+import * as sw  from 'stopword'
+import * as wnn from 'words-n-numbers'
+import * as ngrm from 'ngraminator'
+import * as ehp from 'eklem-headline-parser'
+import * as hh from 'hit-highlighter'
+import * as lvm from 'leven-match'
 
-
-module.exports = {
-  cheerio,
+export {
+  load,
   wnn,
   sw,
-  ngraminator,
-  findKeywords,
-  highlight,
-  levenMatch
+  ngrm,
+  ehp,
+  hh,
+  lvm
 }

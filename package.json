@@ -3,11 +3,11 @@
   "version": "7.0.0",
   "description": "Simple document processor to make search running in the browser and node.js a little better. Supports 50+ languages. Removes stopwords (smaller index and less irrelevant hits), extract keywords to filter on and prepares ngrams for auto-complete functionality.",
   "main": "./dist/daq-proc.cjs.js",
-  "module": "./dist/daq-proc.esm.js",
+  "module": "./dist/daq-proc.esm.mjs",
   "browser": "./dist/daq-proc.umd.js",
   "scripts": {
     "build": "rollup --config",
-    "test": "standard './*.js' './test/*.js' && npm run build && npx ava ./test/test.cjs.js"
+    "test": "standard './*.js' './test/*.js' && npm run build && npx ava ./test/test.cjs.js && npx ava ./test/test.esm.mjs"
   },
   "repository": {
     "type": "git",
@@ -19,16 +19,16 @@
     "nlp"
   ],
   "dependencies": {
-    "cheerio": "1.0.0-rc.11",
-    "eklem-headline-parser": "^3.0.2",
-    "hit-highlighter": "^3.0.4",
-    "leven-match": "^2.0.2",
-    "ngraminator": "^3.0.1",
-    "stopword": "^2.0.2",
-    "words-n-numbers": "^7.1.1"
+    "cheerio": "1.0.0-rc.12",
+    "eklem-headline-parser": "^4.0.2",
+    "hit-highlighter": "^4.0.1",
+    "leven-match": "^2.0.3",
+    "ngraminator": "^3.0.2",
+    "stopword": "^2.0.4",
+    "words-n-numbers": "^7.1.2"
   },
   "devDependencies": {
-    "batr": "^2.1.5"
+    "batr": "^2.1.7"
   },
   "author": "Espen Klem",
   "license": "MIT",

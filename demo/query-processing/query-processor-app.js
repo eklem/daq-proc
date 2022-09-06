@@ -1,5 +1,5 @@
 // exposing the underlying libraries in a transparent way
-const { highlight, leveMatch, wnn } = window.dqp
+const { highlight, leveMatch, wnn } = dqp
 const index = ['a', 'adding', 'and', 'at', 'be', 'better', 'by', 'can', 'ensuring', 'even', 'get', 'gets', 'good', 'input', 'interesting', 'it', 'item', 'just', 'least', 'levenshtein', 'limit', 'long', 'longer', 'lots', 'make', 'match', 'matcher', 'maximum', 'maybe', 'more', 'need', 'nice', 'of', 'query', 'resembles', 'result', 'search', 'seems', 'so', 'some', 'text', 'that', 'the', 'this', 'to', 'we', 'will', 'with', 'words', 'work']
 
 // Populating div with only meaningful words
@@ -50,13 +50,13 @@ const hitHighlight = function () {
       return word !== ''
     })
     if (fuzzyMatching) {
-      matchedQuery = levenMatch(querytext, index, { distance: 1 }).flat()
+      matchedQuery = dqp.levenMatch(querytext, index, { distance: 1 }).flat()
     } else {
       matchedQuery = querytext
     }
 
     console.log(matchedQuery)
-    hitHighlighted = highlight(matchedQuery, wnn.extract(itemtext, { toLowercase: true }), { itemMaxWords: itemmaxwords })
+    hitHighlighted = dqp.highlight(matchedQuery, dqp.wnn.extract(itemtext, { toLowercase: true }), { itemMaxWords: itemmaxwords })
     console.log('Hit(s) highlighted: ' + hitHighlighted)
   }
   populateItem(hitHighlighted)

@@ -1,5 +1,5 @@
 // Example grabbed from view-source:https://www.bbc.com/news/world-middle-east-49782693
-exports.HTML = `
+const HTML = `
 
 
 <!DOCTYPE html>
@@ -2009,3 +2009,4 @@ exports.HTML = `
 
 
 `
+export { HTML }

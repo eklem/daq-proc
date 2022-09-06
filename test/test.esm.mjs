@@ -1,6 +1,6 @@
-const test = require('ava')
-const { load, wnn, sw, ngrm, ehp, hh, lvm } = require('../dist/daq-proc.cjs.js')
-const { HTML } = require('./test-data.js')
+import test from 'ava'
+import { load, wnn, sw, ngrm, ehp, hh, lvm } from '../dist/daq-proc.esm.mjs'
+import { HTML } from './test-data.mjs'
 const $ = load(HTML)
 
 test('extract strings from html, arrays from strings, remove stopwords, make ngrams, find keywords ', (t) => {
