@@ -1,5 +1,9 @@
 // exposing the underlying libraries in a transparent way
-const { highlight, leveMatch, wnn } = dqp
+const {
+  highlight,
+  levenMatch,
+  extract, words, numbers, emojis, tags, usernames, email
+} = dqp
 const index = ['a', 'adding', 'and', 'at', 'be', 'better', 'by', 'can', 'ensuring', 'even', 'get', 'gets', 'good', 'input', 'interesting', 'it', 'item', 'just', 'least', 'levenshtein', 'limit', 'long', 'longer', 'lots', 'make', 'match', 'matcher', 'maximum', 'maybe', 'more', 'need', 'nice', 'of', 'query', 'resembles', 'result', 'search', 'seems', 'so', 'some', 'text', 'that', 'the', 'this', 'to', 'we', 'will', 'with', 'words', 'work']
 
 // Populating div with only meaningful words
@@ -43,20 +47,20 @@ const hitHighlight = function () {
   console.log('querytext: ' + document.getElementById('querytext').value)
   if (document.getElementById('querytext').value !== '') {
     querytext = document.getElementById('querytext').value
-    querytext = wnn.extract(querytext, { toLowercase: true })
+    querytext = extract(querytext, { regex: [words, numbers], toLowercase: true })
 
     // remove empty values in query array, to not get stupid matches from '' to 'a' for example.
     querytext = querytext.filter(function (word) {
       return word !== ''
     })
     if (fuzzyMatching) {
-      matchedQuery = dqp.levenMatch(querytext, index, { distance: 1 }).flat()
+      matchedQuery = levenMatch(querytext, index, { distance: 1 }).flat()
     } else {
       matchedQuery = querytext
     }
 
     console.log(matchedQuery)
-    hitHighlighted = dqp.highlight(matchedQuery, dqp.wnn.extract(itemtext, { toLowercase: true }), { itemMaxWords: itemmaxwords })
+    hitHighlighted = highlight(matchedQuery, extract(itemtext, { regex: [words, numbers], toLowercase: true }), { itemMaxWords: itemmaxwords })
     console.log('Hit(s) highlighted: ' + hitHighlighted)
   }
   populateItem(hitHighlighted)
