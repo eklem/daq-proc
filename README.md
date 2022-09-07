@@ -4,7 +4,7 @@ Simple document and query processor for [nowsearch.xyz](https://github.com/eklem
 [![NPM version][npm-version-image]][npm-url]
 [![NPM downloads][npm-downloads-image]][npm-url]
 [![](https://data.jsdelivr.com/v1/package/npm/daq-proc/badge?style=rounded)](https://www.jsdelivr.com/package/npm/daq-proc)
-[![Build Status][travis-image]][travis-url]
+[![Build Status][build-image]][build-url]
 [![JavaScript Style Guide][standardjs-image]][standardjs-url]
 [![MIT License][license-image]][license-url]
 
@@ -117,7 +117,7 @@ It's fully possible to use on Node.js too. The tests are both for Node.js and th
 [npm-url]: https://npmjs.org/package/daq-proc
 [npm-version-image]: https://img.shields.io/npm/v/daq-proc.svg?style=flat
 [npm-downloads-image]: https://img.shields.io/npm/dm/daq-proc.svg?style=flat
-[travis-url]: https://travis-ci.org/eklem/daq-proc
-[travis-image]: https://img.shields.io/travis/eklem/daq-proc.svg?style=flat
+[build-url]: https://github.com/eklem/daq-proc/actions/workflows/tests.yml
+[build-image]: https://github.com/eklem/daq-proc/actions/workflows/tests.yml/badge.svg
 [standardjs-url]: https://standardjs.com
 [standardjs-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square
