@@ -35,7 +35,7 @@ This library is not creating anything new, but just packaging 6 libraries that g
 ### Example - document processing side
 
 ```HTML
-<script src="https://cdn.jsdelivr.net/npm/daq-proc@/dist/daq-proc.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/daq-proc/dist/daq-proc.umd.min.js"></script>
 
 <script>
   // exposing the underlying libraries in a transparent way
@@ -84,7 +84,7 @@ This library is not creating anything new, but just packaging 6 libraries that g
 ### Example - Query side
 
 ```HTML
-<script src="https://cdn.jsdelivr.net/npm/daq-proc@/dist/daq-proc.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/daq-proc/dist/daq-proc.umd.min.js"></script>
 
 <script>
   // exposing the underlying libraries in a transparent way
