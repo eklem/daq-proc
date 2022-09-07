@@ -54,15 +54,15 @@ This library is not creating anything new, but just packaging 6 libraries that g
   const bodyString = 'Yay! The day is here =) We now have document and query processing for the browser. It is mostly packaging 4 modules together in a browser distribution file. The modules are words-n-numbers, stopword, ngraminator and eklem-headline-parser'
 
   // extracting word arrays
-  let headlineArray = wnn.extract(headlineString, {regex: wnn.wordsAndNumbers, toLowercase: true})
-  let bodyArray = wnn.extract(bodyString, {regex: wnn.wordsAndNumbers, toLowercase: true})
+  let headlineArray = extract(headlineString, {regex: [words, numbers], toLowercase: true})
+  let bodyArray = extract(bodyString, {regex: [words, numbers], toLowercase: true})
   console.log('Word arrays: ')
   console.dir(headlineArray)
   console.dir(bodyArray)
 
   // removing stopwords
-  let headlineStopped = sw.removeStopwords(headlineArray)
-  let bodyStopped = sw.removeStopwords(bodyArray)
+  let headlineStopped = removeStopwords(headlineArray)
+  let bodyStopped = removeStopwords(bodyArray)
   console.log('Stopword removed arrays: ')
   console.dir(headlineStopped)
   console.dir(bodyStopped)
@@ -75,7 +75,7 @@ This library is not creating anything new, but just packaging 6 libraries that g
   console.dir(bodyNgrams)
 
   // calculating important keywords
-  let keywords = ehp.findKeywords(headlineStopped, bodyStopped, 5)
+  let keywords = findKeywords(headlineStopped, bodyStopped, 5)
   console.log('Keyword array: ')
   console.dir(keywords)
 </script>
