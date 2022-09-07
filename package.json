@@ -1,6 +1,6 @@
 {
   "name": "daq-proc",
-  "version": "7.0.1",
+  "version": "7.0.2",
   "description": "Simple document processor to make search running in the browser and node.js a little better. Supports 50+ languages. Removes stopwords (smaller index and less irrelevant hits), extract keywords to filter on and prepares ngrams for auto-complete functionality.",
   "main": "./dist/daq-proc.cjs.js",
   "module": "./dist/daq-proc.esm.mjs",

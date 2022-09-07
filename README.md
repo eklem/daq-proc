@@ -84,11 +84,14 @@ This library is not creating anything new, but just packaging 6 libraries that g
 ### Example - Query side
 
 ```HTML
-<script src="daq-proc.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/daq-proc@/dist/daq-proc.umd.js"></script>
 
 <script>
   // exposing the underlying libraries in a transparent way
-  const {cheerio, ehp, highlight, lvm, ngraminator, sw, wnn} = dqp
+  const {
+    highlight,
+    levenMatch
+  } = dqp
 
   const query = ['interesting', 'words']
   const searchResult = ['some', 'interesting', 'words', 'to', 'remember']
@@ -100,7 +103,7 @@ This library is not creating anything new, but just packaging 6 libraries that g
   const index = ['return', 'all', 'word', 'matches', 'between', 'two', 'arrays', 'within', 'given', 'levenshtein', 'distance', 'intended', 'use', 'is', 'to', 'words', 'in', 'a', 'query', 'that', 'has', 'an', 'index', 'good', 'for', 'autocomplete', 'type', 'functionality,', 'and', 'some', 'cases', 'also', 'searching']
   const query = ['qvery', 'words', 'levensthein']
 
-  lvm.levenMatch(query, index, {distance: 2})
+  levenMatch(query, index, {distance: 2})
   // returns:
   //[ [ 'query' ], [ 'word', 'words' ], [ 'levenshtein' ] ]
 </script>
