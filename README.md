@@ -3,6 +3,7 @@ Simple document and query processor for [nowsearch.xyz](https://github.com/eklem
 
 [![NPM version][npm-version-image]][npm-url]
 [![NPM downloads][npm-downloads-image]][npm-url]
+[![](https://data.jsdelivr.com/v1/package/npm/daq-proc/badge?style=rounded)](https://www.jsdelivr.com/package/npm/daq-proc)
 [![Build Status][travis-image]][travis-url]
 [![JavaScript Style Guide][standardjs-image]][standardjs-url]
 [![MIT License][license-image]][license-url]
@@ -33,11 +34,19 @@ This library is not creating anything new, but just packaging 6 libraries that g
 ### Example - document processing side
 
 ```HTML
-<script src="daq-proc.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/daq-proc@/dist/daq-proc.umd.js"></script>
 
 <script>
   // exposing the underlying libraries in a transparent way
-  const {cheerio, ehp, highlight, lvm, ngraminator, sw, wnn} = dqp
+  const {
+    load,
+    removeStopwords, _123, afr, ara, hye, eus, ben, bre, bul, cat, zho, hrv, ces, dan, nld, eng, epo, est, fin, fra, glg, deu, ell, guj, hau, heb, hin, hun, ind, gle, ita, jpn, kor, kur, lat, lav, lit, lgg, lggNd, msa, mar, mya, nob, fas, pol, por, porBr, panGu, ron, rus, slk, slv, som, sot, spa, swa, swe, tha, tgl, tur, urd, ukr, vie, yor, zul,
+    extract, words, numbers, emojis, tags, usernames, email,
+    ngraminator,
+    findKeywords,
+    highlight,
+    levenMatch
+} = dqp
 
   // input
   const headlineString = 'Document and query processing for the browser!'
@@ -112,4 +121,3 @@ It's fully possible to use on Node.js too. The tests are both for Node.js and th
 [travis-image]: https://img.shields.io/travis/eklem/daq-proc.svg?style=flat
 [standardjs-url]: https://standardjs.com
 [standardjs-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square
-
