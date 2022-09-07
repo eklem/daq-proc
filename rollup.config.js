@@ -10,9 +10,9 @@ export default [
   {
     input: './src/index.js',
     output: [
-      { name: 'dqp', file: './dist/daq-proc.umd.js', format: 'umd', exports: 'named', globals: 'dqp' },
-      { file: './dist/daq-proc.cjs.js', format: 'cjs', exports: 'auto' },
-      { file: './dist/daq-proc.esm.mjs', format: 'es', exports: 'auto' }
+      { name: 'dqp', file: './dist/daq-proc.umd.js', format: 'umd', exports: 'named' },
+      { file: './dist/daq-proc.cjs.js', format: 'cjs' },
+      { file: './dist/daq-proc.esm.mjs', format: 'es' }
     ],
     plugins: [
       resolve(), // so Rollup can find `ms`
@@ -24,8 +24,8 @@ export default [
     input: './src/index.js',
     output: [
       { name: 'dqp', file: './dist/daq-proc.umd.min.js', format: 'umd', exports: 'named' },
-      { file: './dist/daq-proc.cjs.min.js', format: 'cjs', exports: 'auto' },
-      { file: './dist/daq-proc.esm.min.mjs', format: 'es', exports: 'auto' }
+      { file: './dist/daq-proc.cjs.min.js', format: 'cjs' },
+      { file: './dist/daq-proc.esm.min.mjs', format: 'es' }
     ],
     plugins: [
       resolve(), // so Rollup can find `ms`

@@ -1,5 +1,13 @@
 // exposing the underlying libraries in a transparent way
-// const { wnn, sw, ngraminator, findKeywords } = window.dqp
+const {
+  load,
+  removeStopwords, _123, afr, ara, hye, eus, ben, bre, bul, cat, zho, hrv, ces, dan, nld, eng, epo, est, fin, fra, glg, deu, ell, guj, hau, heb, hin, hun, ind, gle, ita, jpn, kor, kur, lat, lav, lit, lgg, lggNd, msa, mar, mya, nob, fas, pol, por, porBr, panGu, ron, rus, slk, slv, som, sot, spa, swa, swe, tha, tgl, tur, urd, ukr, vie, yor, zul,
+  extract, words, numbers, emojis, tags, usernames, email,
+  ngraminator,
+  findKeywords,
+  highlight,
+  levenMatch
+} = dqp
 
 // Listen to key up on headlinetext and initiate a daq-proc
 document.getElementById('languageSelected').onchange = function () {
@@ -29,26 +37,26 @@ const daqProc = function () {
   if (headlineString.length > 0 || bodyString.length > 0) {
     emojiString = headlineString.concat(' ', bodyString)
   }
-  const headlineArray = dqp.wnn.extract(headlineString, { regex: [dqp.wnn.word, dqp.wnn.numbers], toLowercase: true })
-  const bodyArray = dqp.wnn.extract(bodyString, { regex: [dqp.wnn.word, dqp.wnn.numbers], toLowercase: true })
-  emojiArray = dqp.wnn.extract(emojiString, { regex: [dqp.wnn.emojis] })
+  const headlineArray = extract(headlineString, { regex: [words, numbers], toLowercase: true })
+  const bodyArray = extract(bodyString, { regex: [words, numbers], toLowercase: true })
+  emojiArray = extract(emojiString, { regex: [emojis] })
 
   populate(JSON.stringify(headlineArray, 2, ' '), 'headlineArrDiv')
   populate(JSON.stringify(bodyArray, 2, ' '), 'bodyArrDiv')
 
   // Prep for defining arrays of language to remove stopwords from.
-  const languages = { af: sw.af, ar: sw.ar, bg: sw.bg, bn: sw.bn, br: sw.br, ca: sw.ca, cs: sw.cs, da: sw.da, de: sw.de, el: sw.el, en: sw.en, eo: sw.eo, es: sw.es, et: sw.et, eu: sw.eu, fa: sw.fa, fi: sw.fi, fr: sw.fr, ga: sw.ga, gl: sw.gl, ha: sw.ha, he: sw.he, hi: sw.hi, hr: sw.hr, hu: sw.hu, hy: sw.hy, id: sw.id, it: sw.it, ja: sw.ja, ko: sw.ko, la: sw.la, lgg: sw.lgg, lggo: sw.lggo, lv: sw.lv, mr: sw.mr, nl: sw.nl, no: sw.no, pl: sw.pl, pt: sw.pt, ptbr: sw.ptbr, pa: sw.pa, ro: sw.ro, ru: sw.ru, sk: sw.sk, sl: sw.sl, so: sw.so, st: sw.st, sv: sw.sv, sw: sw.sw, th: sw.th, tr: sw.tr, vi: sw.vi, yo: sw.yo, zh: sw.zh, zu: sw.zu }
+  const languages = { _123: _123, afr: afr, ara: ara, hye: hye, eus: eus, ben: ben, bre: bre, bul: bul, cat: cat, zho: zho, hrv: hrv, ces: ces, dan: dan, nld: nld, eng: eng, epo: epo, est: est, fin: fin, fra: fra, glg: glg, deu: deu, ell: ell, guj: guj, hau: hau, heb: heb, hin: hin, hun: hun, ind: ind, gle: gle, ita: ita, jpn: jpn, kor: kor, kur: kur, lat: lat, lav: lav, lit: lit, lgg: lgg, lggNd: lggNd, msa: msa, mar: mar, mya: mya, nob: nob, fas: fas, pol: pol, por: por, porBr: porBr, panGu: panGu, ron: ron, rus: rus, slk: slk, slv: slv, som: som, sot: sot, spa: spa, swa: swa, swe: swe, tha: tha, tgl: tgl, tur: tur, urd: urd, ukr: ukr, vie: vie, yor: yor, zul: zul }
   const code = document.getElementById('languageSelected').value
   console.log(code)
 
   // Removing stopwords
   if (headlineArray !== null) {
-    headlineStopped = sw.removeStopwords(headlineArray, languages[code])
+    headlineStopped = removeStopwords(headlineArray, languages[code])
     populate(JSON.stringify(headlineStopped, 2, ' '), 'headlineStoppedDiv')
   }
 
   if (bodyArray !== null) {
-    bodyStopped = sw.removeStopwords(bodyArray, languages[code])
+    bodyStopped = removeStopwords(bodyArray, languages[code])
     populate(JSON.stringify(bodyStopped, 2, ' '), 'bodyStoppedDiv')
   }
 
@@ -78,7 +86,7 @@ const daqProc = function () {
     if (bodyString.length > 0) {
       stringOfKeywords += bodyString
     }
-    const keywords = wnn.extract(stringOfKeywords, { regex: wnn.tags, toLowercase: true })
+    const keywords = extract(stringOfKeywords, { regex: tags, toLowercase: true })
     populate(JSON.stringify(keywords, 2, ' '), 'keywordsExtractedDiv')
   }
 
@@ -91,7 +99,7 @@ const daqProc = function () {
     if (bodyString.length > 0) {
       stringOfUsernames += bodyString
     }
-    const keywords = wnn.extract(stringOfUsernames, { regex: wnn.usernames, toLowercase: true })
+    const keywords = extract(stringOfUsernames, { regex: usernames, toLowercase: true })
     populate(JSON.stringify(keywords, 2, ' '), 'usernamesExtractedDiv')
   }
 
@@ -104,7 +112,7 @@ const daqProc = function () {
     if (bodyString.length > 0) {
       stringOfEmailAddresses += bodyString
     }
-    const keywords = wnn.extract(stringOfEmailAddresses, { regex: wnn.email, toLowercase: true })
+    const keywords = extract(stringOfEmailAddresses, { regex: email, toLowercase: true })
     populate(JSON.stringify(keywords, 2, ' '), 'emailExtractedDiv')
   }
 
