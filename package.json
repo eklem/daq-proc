@@ -28,7 +28,7 @@
     "words-n-numbers": "^7.1.2"
   },
   "devDependencies": {
-    "batr": "^2.1.7"
+    "batr": "^2.1.8"
   },
   "author": "Espen Klem",
   "license": "MIT",
