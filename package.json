@@ -1,6 +1,6 @@
 {
   "name": "daq-proc",
-  "version": "7.0.2",
+  "version": "8.0.0",
   "description": "Simple document processor to make search running in the browser and node.js a little better. Supports 50+ languages. Removes stopwords (smaller index and less irrelevant hits), extract keywords to filter on and prepares ngrams for auto-complete functionality.",
   "main": "./dist/daq-proc.cjs.js",
   "module": "./dist/daq-proc.esm.mjs",
@@ -25,7 +25,7 @@
     "leven-match": "^2.0.3",
     "ngraminator": "^3.0.2",
     "stopword": "^2.0.8",
-    "words-n-numbers": "^7.1.2"
+    "words-n-numbers": "^8.0.0"
   },
   "devDependencies": {
     "batr": "^2.1.8"
