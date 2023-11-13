@@ -25,7 +25,7 @@
     "leven-match": "^2.0.3",
     "ngraminator": "^3.0.2",
     "stopword": "^2.0.8",
-    "words-n-numbers": "^9.1.1"
+    "words-n-numbers": "^9.1.2"
   },
   "devDependencies": {
     "batr": "^2.1.10"
