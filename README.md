@@ -1,4 +1,6 @@
-# daq-proc
+# daq-proc (deprecated)
+
+**Use the underlying libraries instead.**
 
 [![NPM version][npm-version-image]][npm-url]
 [![NPM downloads][npm-downloads-image]][npm-url]
